@@ -1,5 +1,6 @@
 package discord;
 
+import discord.configuration.Config;
 import discord.configuration.DiscordConfig;
 import discord.event.guild.OnGuildJoin;
 import discord.event.guild.OnMemberJoin;
@@ -9,7 +10,6 @@ import lombok.Getter;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.entities.Activity;
-import net.dv8tion.jda.api.events.ReadyEvent;
 
 import javax.security.auth.login.LoginException;
 
@@ -33,11 +33,36 @@ public class Discord {
     }
 
     public void setActivity() {
-        jda.getPresence().setActivity(Activity.listening("Music"));
-    }
 
-    public boolean isReady() {
-        return jda instanceof ReadyEvent;
+        String activity = Config.getConfig().getProperty("activity");
+        String description = Config.getConfig().getProperty("activity_desc");
+
+        if (activity.isEmpty()) {
+            System.err.println("The activity is not set in the config.properties!");
+            return;
+        }
+
+        if (description.isEmpty()) {
+            System.err.println("You must set the bots activity description");
+            return;
+        }
+
+        switch (activity.toLowerCase()) {
+
+            case "watching":
+                jda.getPresence().setActivity(Activity.watching(description));
+                break;
+
+            case "listening":
+                jda.getPresence().setActivity(Activity.listening(description));
+                break;
+
+            case "playing":
+                jda.getPresence().setActivity(Activity.playing(description));
+                break;
+
+        }
+
     }
 
 }

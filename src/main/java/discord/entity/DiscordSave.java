@@ -27,7 +27,7 @@ public class DiscordSave {
 
         } catch (IOException e) {
 
-            System.err.println("An error occured while attempting to load discord user " + discord.getId());
+            System.err.println("An error occurred while attempting to load discord user " + discord.getId());
             e.printStackTrace();
 
             return null;
