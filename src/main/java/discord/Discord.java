@@ -1,5 +1,6 @@
 package discord;
 
+import discord.commands.DiscordCommand;
 import discord.configuration.Config;
 import discord.configuration.DiscordConfig;
 import discord.event.guild.OnGuildJoin;
@@ -27,6 +28,8 @@ public class Discord {
         jda.awaitReady();
 
         jda.addEventListener(new OnMessageReceived(), new OnGuildJoin(), new OnMemberJoin());
+
+        DiscordCommand.init();
 
         setActivity();
 
@@ -61,7 +64,12 @@ public class Discord {
                 jda.getPresence().setActivity(Activity.playing(description));
                 break;
 
+            default:
+                jda.getPresence().setActivity(Activity.listening("To some music"));
+
         }
+
+        System.out.println("Setting activity to " + activity + ": " + description);
 
     }
 
