@@ -1,6 +1,7 @@
 package discord.event.message;
 
 import discord.commands.DiscordCommand;
+import discord.configuration.DiscordConfig;
 import discord.entity.DiscordSave;
 import discord.entity.DiscordUser;
 import net.dv8tion.jda.api.EmbedBuilder;
@@ -19,6 +20,9 @@ public class OnMessageReceived extends ListenerAdapter {
 
         if (bot.getAuthor().isBot())
             return;
+
+        if (DiscordConfig.DEBUG)
+            System.out.println(String.format("%s said in %s: %s", bot.getAuthor().getAsTag(), bot.getGuild().getName(), bot.getMessage().getContentRaw()));
 
         String[] cmd = bot.getMessage().getContentRaw().split(" ");
 

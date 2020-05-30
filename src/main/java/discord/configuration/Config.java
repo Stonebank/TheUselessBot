@@ -18,6 +18,7 @@ public class Config {
 
         if (!file.exists()) {
             System.err.println("Config file could not be found! Please create config.properties in root folder and define properties");
+            System.exit(0);
             return;
         }
 

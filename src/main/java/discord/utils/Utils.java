@@ -28,7 +28,7 @@ public class Utils {
         return Math.min(min, max) + (n == 0 ? 0 : random((int) n));
     }
 
-    public static Class[] getClasses(String packageName) throws IOException {
+    public static Class<?>[] getClasses(String packageName) throws IOException {
         ClassLoader classLoader = Thread.currentThread().getContextClassLoader();
         assert classLoader != null;
         String path = packageName.replace('.', '/');
@@ -38,15 +38,15 @@ public class Utils {
             URL resource = resources.nextElement();
             dirs.add(new File(resource.getFile().replaceAll("%20", " ")));
         }
-        ArrayList<Class> classes = new ArrayList<Class>();
+        ArrayList<Class<?>> classes = new ArrayList<>();
         for (File directory : dirs) {
             classes.addAll(findClasses(directory, packageName));
         }
         return classes.toArray(new Class[classes.size()]);
     }
 
-    private static List<Class> findClasses(File directory, String packageName) {
-        List<Class> classes = new ArrayList<Class>();
+    private static List<Class<?>> findClasses(File directory, String packageName) {
+        List<Class<?>> classes = new ArrayList<>();
         if (!directory.exists()) {
             return classes;
         }
