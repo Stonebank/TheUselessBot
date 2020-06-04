@@ -19,11 +19,41 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd2be9d4-55df-4a5b-b57b-b84400397434" name="Default Changelist" comment="Added DiscordCommand&#10;Added a 'roll' command&#10;Added a utils package and class&#10;Handled commands&#10;Annotations for commands">
-      <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/discord/configuration/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/configuration/Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/discord/configuration/DiscordConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/configuration/DiscordConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/discord/event/message/OnMessageReceived.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/event/message/OnMessageReceived.java" afterDir="false" />
+    <list default="true" id="cd2be9d4-55df-4a5b-b57b-b84400397434" name="Default Changelist" comment="improvements">
+      <change afterPath="$PROJECT_DIR$/data/discord/user/127133381115772928.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/174614279553548288.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/176754903824334848.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/208553415813365760.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/214088017617354752.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/216567467487526912.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/226214681625231360.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/228118630485721089.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/232195770537869312.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/249519901310582784.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/269082248509128704.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/274600041979576320.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/285158241497907202.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/320333962994122752.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/329379816476508161.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/334657474093383689.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/362609954227617792.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/370199940510515200.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/383692738652274688.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/396847813910069258.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/405845326315126795.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/406185982933598210.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/419854950198149121.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/437721220524539925.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/604076454312935435.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/618270844505948181.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/633959813113577473.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/user/693862790016008334.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/discord/assets/Assets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/discord/commands/container/GP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/discord/commands/container/Roll.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/discord/commands/container/Roll.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/discord/utils/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/discord/utils/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/discord/commands/container/Roll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/commands/container/Roll.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/discord/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/utils/Utils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +115,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="LombokPluginEnabledInProject" value="true" />
     <property name="LombokPluginIS_ANNOTATION_PROCESSING_CHECK_Enabled" value="true" />
     <property name="LombokPluginIS_BUILDER_Enabled" value="true" />
@@ -181,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590829893948</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="improvements">
+      <created>1590836421585</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590836421585</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,12 +235,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="This is a test" />
     <MESSAGE value="added client token and launcher" />
     <MESSAGE value="added couple of bot events and improved code" />
     <MESSAGE value="improved code" />
     <MESSAGE value="Added DiscordCommand&#10;Added a 'roll' command&#10;Added a utils package and class&#10;Handled commands&#10;Annotations for commands" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added DiscordCommand&#10;Added a 'roll' command&#10;Added a utils package and class&#10;Handled commands&#10;Annotations for commands" />
+    <MESSAGE value="improvements" />
+    <option name="LAST_COMMIT_MESSAGE" value="improvements" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1590829380014">
@@ -229,57 +269,57 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="738" y="217" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590483803639" />
-    <state width="0" height="0" key="GridCell.Tab.0.bottom" timestamp="1590829980538">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1591302127591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="0" height="0" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590829980538" />
-    <state width="0" height="0" key="GridCell.Tab.0.center" timestamp="1590829980538">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591302127591" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1591302127591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="0" height="0" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590829980538" />
-    <state width="0" height="0" key="GridCell.Tab.0.left" timestamp="1590829980538">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591302127591" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1591302127590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="0" height="0" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590829980538" />
-    <state width="0" height="0" key="GridCell.Tab.0.right" timestamp="1590829980538">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591302127590" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1591302127591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="0" height="0" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590829980538" />
-    <state width="0" height="0" key="GridCell.Tab.1.bottom" timestamp="1590829980538">
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591302127591" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1591302127527">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="0" height="0" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590829980538" />
-    <state width="0" height="0" key="GridCell.Tab.1.center" timestamp="1590829980538">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591302127527" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1591302127527">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="0" height="0" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590829980538" />
-    <state width="0" height="0" key="GridCell.Tab.1.left" timestamp="1590829980538">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591302127527" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1591302127527">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="0" height="0" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590829980538" />
-    <state width="0" height="0" key="GridCell.Tab.1.right" timestamp="1590829980538">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591302127527" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1591302127527">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="0" height="0" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590829980538" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591302127527" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1590499040998">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590499040998" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1590829901322">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1590836439969">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590829901322" />
-    <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590483951415">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590836439969" />
+    <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590836772972">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590483951415" />
+    <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1590836772972" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1590495834320">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590495834320" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1590829616022">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1591301510224">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590829616022" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591301510224" />
   </component>
 </project>

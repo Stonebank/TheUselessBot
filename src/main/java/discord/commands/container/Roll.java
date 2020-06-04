@@ -19,8 +19,10 @@ public class Roll extends DiscordCommand {
             if (cmd.length == 2)
                 bot.getChannel().sendMessage("You rolled " + Utils.random(1, Integer.parseInt(cmd[1])) + " out of " + cmd[1] + ".").queue();
 
-            if (cmd.length == 3)
+            if (cmd.length == 3 && Integer.parseInt(cmd[2]) > Integer.parseInt(cmd[1]))
                 bot.getChannel().sendMessage("You rolled " + Utils.random(Integer.parseInt(cmd[1]), Integer.parseInt(cmd[2])) + " out of " + cmd[2] + ". Min: " + cmd[1] + ", Max: " + cmd[2]).queue();
+            else
+                bot.getChannel().sendMessage("You entered an argument wrong!").queue();
 
             if (cmd.length > 3)
                 bot.getChannel().sendMessage("⛔Error!⛔\n-You can use -roll to roll between 1 and 100\n-roll max to roll to maximum value \n-roll min max").queue();

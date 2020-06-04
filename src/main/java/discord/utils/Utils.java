@@ -3,6 +3,7 @@ package discord.utils;
 import java.io.File;
 import java.io.IOException;
 import java.net.URL;
+import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Enumeration;
 import java.util.List;
@@ -21,11 +22,6 @@ public class Utils {
     public static int random(int min, int max) {
         final int n = Math.abs(max - min);
         return Math.min(min, max) + (n == 0 ? 0 : random(n));
-    }
-
-    public static double random(double min, double max) {
-        final double n = Math.abs(max - min);
-        return Math.min(min, max) + (n == 0 ? 0 : random((int) n));
     }
 
     public static Class<?>[] getClasses(String packageName) throws IOException {
@@ -65,6 +61,10 @@ public class Utils {
             }
         }
         return classes;
+    }
+
+    public static String formatNumber(Object input) {
+        return new DecimalFormat("#,###,##0").format(input);
     }
 
 }
