@@ -4,6 +4,7 @@ import discord.assets.Assets;
 import discord.commands.DiscordCommand;
 import discord.configuration.Config;
 import discord.configuration.DiscordConfig;
+import discord.entity.DiscordSave;
 import discord.event.guild.OnGuildJoin;
 import discord.event.guild.OnMemberJoin;
 import discord.event.message.OnMessageReceived;
@@ -12,6 +13,8 @@ import lombok.Getter;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.entities.Activity;
+import net.dv8tion.jda.api.entities.Guild;
+import net.dv8tion.jda.api.entities.Member;
 
 import javax.security.auth.login.LoginException;
 import java.util.Objects;
@@ -36,6 +39,8 @@ public class Discord {
         setActivity();
 
         Assets.registerFont();
+
+        registerMembers();
 
     }
 
@@ -84,6 +89,28 @@ public class Discord {
 
     public void sendErrorMessage(String content, Class<?> source) {
         DiscordConfig.ADMIN.forEach(id -> sendAdminPrivateMessage(id, source.getPackage().getName() + ", " + source.getSimpleName() + ": " + content));
+    }
+
+    public void registerMembers() {
+
+        DiscordSave save = new DiscordSave();
+
+        for (Guild guild : jda.getGuilds()) {
+
+            if (guild == null)
+                continue;
+
+            for (Member member : guild.getMembers()) {
+
+                if (member == null || member.getUser().isBot())
+                    continue;
+
+                save.create(member.getUser());
+
+            }
+
+        }
+
     }
 
 }
