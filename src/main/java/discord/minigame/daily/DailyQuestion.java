@@ -26,7 +26,9 @@ public enum DailyQuestion {
     TWO_PINTS("What is the NPC in this picture called?", new File("./data/discord/assets/image/trivia/Two-pints.png"), "Two-pints"),
     ZULRAH("What is the player fighting in this picture?", new File("./data/discord/assets/image/trivia/zulrah.png"), "Zulrah", "Snake monster"),
     GOD_WARS_DUNGEON("What place does this entrance lead to?", new File("./data/discord/assets/image/trivia/God Wars.png"), "God wars", "God wars dungeon"),
-    VENENATIS("What is this boss called?", new File("./data/discord/assets/image/trivia/Venenatis.png"), "Venenatis");
+    VENENATIS("What is this boss called?", new File("./data/discord/assets/image/trivia/Venenatis.png"), "Venenatis"),
+
+    ;
 
     private final String question;
     private final String[] answer;
@@ -40,7 +42,7 @@ public enum DailyQuestion {
     }
 
     public boolean hasPicture() {
-        return picture != null;
+        return picture.exists();
     }
 
 }

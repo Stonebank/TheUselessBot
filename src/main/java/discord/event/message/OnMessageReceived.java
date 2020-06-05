@@ -31,9 +31,6 @@ public class OnMessageReceived extends ListenerAdapter {
 
         if (user.getDailyAnswers() != null) {
 
-            /*if (user.getAnswerTimer() != null && user.getAnswerTimer().finished())
-                user.giveDailyReward(bot, saving, true);*/
-
             for (String answers : user.getDailyAnswers())
                 if (bot.getMessage().getContentRaw().equalsIgnoreCase(answers))
                     user.giveDailyReward(bot, SaveManager,false);

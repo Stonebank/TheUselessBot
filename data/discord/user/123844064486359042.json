@@ -1,13 +1,5 @@
 {
   "id": "123844064486359042",
   "discordTag": "Hassan#0645",
-  "gp": 0,
-  "dailyCooldown": {
-    "year": 2020,
-    "month": 5,
-    "dayOfMonth": 5,
-    "hourOfDay": 20,
-    "minute": 26,
-    "second": 5
-  }
+  "gp": 0
 }

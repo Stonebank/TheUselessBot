@@ -30,10 +30,7 @@ public class Daily extends DiscordCommand {
        user.setDailyCooldown(Calendar.getInstance());
        user.getDailyCooldown().add(is24HourLocale() ? Calendar.HOUR_OF_DAY : Calendar.HOUR, 12);
 
-
-       // user.setAnswerTimer(new SecondsTimer(20));
-
-        bot.getChannel().sendMessage("**Daily Trivia:** " + user.getDailyQuestion()).queue();
+       bot.getChannel().sendMessage("**Daily Trivia:** " + user.getDailyQuestion()).queue();
 
         if (question.hasPicture())
             bot.getChannel().sendFile(question.getPicture()).queue();
