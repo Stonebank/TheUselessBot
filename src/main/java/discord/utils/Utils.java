@@ -67,4 +67,29 @@ public class Utils {
         return new DecimalFormat("#,###,##0").format(input);
     }
 
+    public static String getApproxValue(long amount) {
+        String regularFormat = formatNumber(amount);
+        if (amount >= 1_000_000_000L) {
+            return (new DecimalFormat(".##").format(amount * 0.000_000_001)).replace(',', '.') + "b";
+        } else if (amount >= 1_000_000) {
+            return (new DecimalFormat(".#").format(amount * 0.000_001)).replace(',', '.') + "m";
+        } else if (amount >= 100_000) {
+            return (formatNumber(amount / 1_000)) + "k";
+        }
+        return (amount < 100_000 ? regularFormat + "" : (formatNumber(amount)));
+    }
+
+    public static String formatTime(long seconds) {
+        long minutes = seconds / 60;
+        long hours = minutes / 60;
+        long days = hours / 24;
+        minutes -= hours * 60;
+        seconds -= (hours * 60 * 60) + (minutes * 60);
+        hours -= days * 24;
+        return (days != 0 ? days + " " + (days > 1 ? "days " : "day ") : "")
+                + (hours != 0 ? hours + " " + (hours > 1 ? "hours " : "hour ") : "")
+                + (minutes != 0 ? minutes + " " + (minutes > 1 ? "minutes " : "minute ") : "")
+                + (seconds != 0 ? seconds + " " + (seconds > 1 ? "seconds " : "second ") : "");
+    }
+
 }

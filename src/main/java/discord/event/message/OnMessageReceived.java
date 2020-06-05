@@ -29,6 +29,17 @@ public class OnMessageReceived extends ListenerAdapter {
         DiscordUser user = SaveManager.load(bot.getAuthor());
         SaveManager.save(user);
 
+        if (user.getDailyAnswers() != null) {
+
+            /*if (user.getAnswerTimer() != null && user.getAnswerTimer().finished())
+                user.giveDailyReward(bot, saving, true);*/
+
+            for (String answers : user.getDailyAnswers())
+                if (bot.getMessage().getContentRaw().equalsIgnoreCase(answers))
+                    user.giveDailyReward(bot, SaveManager,false);
+
+        }
+
         DiscordCommand.getCommands().forEach((string, command) -> {
 
             for (String commands : string) {

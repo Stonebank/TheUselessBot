@@ -1,5 +1,6 @@
 package discord;
 
+import discord.assets.Assets;
 import discord.commands.DiscordCommand;
 import discord.configuration.Config;
 import discord.configuration.DiscordConfig;
@@ -13,6 +14,7 @@ import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.entities.Activity;
 
 import javax.security.auth.login.LoginException;
+import java.util.Objects;
 
 public class Discord {
 
@@ -32,6 +34,8 @@ public class Discord {
         DiscordCommand.init();
 
         setActivity();
+
+        Assets.registerFont();
 
     }
 
@@ -71,6 +75,15 @@ public class Discord {
 
         System.out.println("Setting activity to " + activity + ": " + description);
 
+    }
+
+    public void sendAdminPrivateMessage(String id, String content) {
+        Objects.requireNonNull(jda.getUserById(id)).openPrivateChannel().queue((channel) ->
+                channel.sendMessage(content).queue());
+    }
+
+    public void sendErrorMessage(String content, Class<?> source) {
+        DiscordConfig.ADMIN.forEach(id -> sendAdminPrivateMessage(id, source.getPackage().getName() + ", " + source.getSimpleName() + ": " + content));
     }
 
 }
