@@ -21,6 +21,7 @@ public class Timer {
     }
 
     public long getMS() {
+
         switch (unit) {
             case DAYS:
                 return TimeUnit.DAYS.toMillis(delay);
@@ -33,6 +34,7 @@ public class Timer {
             default:
                 return delay;
         }
+
     }
 
     public String getTimeLeft() {

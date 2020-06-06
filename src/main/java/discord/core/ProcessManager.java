@@ -36,7 +36,7 @@ public class ProcessManager {
                 e.printStackTrace();
             }
 
-        }, 0, processor.getTimer().getTime(), processor.getTimer().getUnit());
+        }, processor.getDelay(), processor.getTimer().getTime(), processor.getTimer().getUnit());
 
     }
 

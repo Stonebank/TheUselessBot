@@ -13,6 +13,11 @@ public class TestProcess implements ServiceProcessor {
     }
 
     @Override
+    public int getDelay() {
+        return 0;
+    }
+
+    @Override
     public void init() {
 
         System.out.println("hey");

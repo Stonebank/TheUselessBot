@@ -28,7 +28,7 @@ public class Discord {
     @Getter(AccessLevel.PUBLIC)
     private static Discord bot;
 
-    @Getter
+    @Getter(AccessLevel.PUBLIC)
     private final JDABuilder jdaBuilder = JDABuilder.create(DiscordConfig.TOKEN, Arrays.asList(DiscordConfig.intent));
 
     @Getter(AccessLevel.PUBLIC)

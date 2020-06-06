@@ -27,11 +27,6 @@ public class Dice extends DiscordCommand {
         else if (cmd[1].toLowerCase().contains("b"))
             cmd[1] = cmd[1].replace("b", "000000000");
 
-        else if (!cmd[1].toLowerCase().contains("k") || !cmd[1].toLowerCase().contains("m") || !cmd[1].toLowerCase().contains("b")) {
-            cmd[1] = cmd[1].replaceAll("[^0-9]+", "");
-            bot.getChannel().sendMessage("<:sadcat:661285485670301697>You can use 'k', 'm' and 'b'").queue();
-        }
-
         if (Long.parseLong(cmd[1]) > user.getGp()) {
             bot.getChannel().sendMessage("Not so fast! You have " + Utils.formatNumber(user.getGp()) + " GP.").queue();
             return;
