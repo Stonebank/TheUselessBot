@@ -19,14 +19,26 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd2be9d4-55df-4a5b-b57b-b84400397434" name="Default Changelist" comment="changes and new commands">
+    <list default="true" id="cd2be9d4-55df-4a5b-b57b-b84400397434" name="Default Changelist" comment="the JDA has been updated to 4.1.1_157 and improvements">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_simple_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/discord/assets/FontManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/discord/Discord.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/discord/Discord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/discord/configuration/DiscordConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/discord/configuration/DiscordConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/discord/event/guild/OnGuildJoin.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/discord/event/guild/OnGuildJoin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/discord/event/guild/OnMemberJoin.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/discord/event/guild/OnMemberJoin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/discord/event/message/OnMessageReceived.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/discord/event/message/OnMessageReceived.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/discord/user/123844064486359042.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/discord/user/123844064486359042.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/discord/Discord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/Discord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/discord/commands/container/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/commands/container/Dice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/discord/core/ProcessManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/core/ProcessManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/discord/core/ServiceProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/core/ServiceProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/discord/core/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/core/Timer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/discord/assets/Assets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/assets/Assets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/discord/configuration/DiscordConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/configuration/DiscordConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/discord/core/container/TestProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/core/container/TestProcess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/discord/event/guild/OnGuildJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/event/guild/OnGuildJoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/discord/event/guild/OnMemberJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/event/guild/OnMemberJoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/discord/event/message/OnMessageReceived.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/event/message/OnMessageReceived.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591434624566</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="the JDA has been updated to 4.1.1_157 and improvements">
+      <created>1591452034914</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1591452034914</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -265,7 +284,8 @@
     <MESSAGE value="Added DiscordCommand&#10;Added a 'roll' command&#10;Added a utils package and class&#10;Handled commands&#10;Annotations for commands" />
     <MESSAGE value="improvements" />
     <MESSAGE value="changes and new commands" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes and new commands" />
+    <MESSAGE value="the JDA has been updated to 4.1.1_157 and improvements" />
+    <option name="LAST_COMMIT_MESSAGE" value="the JDA has been updated to 4.1.1_157 and improvements" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1591451731986">
@@ -292,46 +312,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="738" y="217" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590483803639" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1591434637811">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1591454279146">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591434637811" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1591434637811">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591454279146" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1591454279146">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591434637811" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1591434637811">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591454279146" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1591454279146">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591434637811" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1591434637811">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591454279146" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1591454279146">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591434637811" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1591434637798">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591454279146" />
+    <state width="1877" height="343" key="GridCell.Tab.1.bottom" timestamp="1591454061950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591434637798" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1591434637798">
+    <state width="1877" height="343" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591454061950" />
+    <state width="1877" height="343" key="GridCell.Tab.1.center" timestamp="1591454061950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591434637798" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1591434637798">
+    <state width="1877" height="343" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591454061950" />
+    <state width="1877" height="343" key="GridCell.Tab.1.left" timestamp="1591454061950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591434637798" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1591434637798">
+    <state width="1877" height="343" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591454061950" />
+    <state width="1877" height="343" key="GridCell.Tab.1.right" timestamp="1591454061950">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591434637798" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1590499040998">
+    <state width="1877" height="343" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591454061950" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1591453385735">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590499040998" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1591434629273">
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591453385735" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1591452126595">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591434629273" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591452126595" />
     <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590836772972">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -20,9 +20,6 @@ public class OnMessageReceived extends ListenerAdapter {
     @Override
     public void onMessageReceived(@NotNull MessageReceivedEvent bot) {
 
-        if (!Discord.getBot().isReady())
-            return;
-
         if (bot.getAuthor().isBot())
             return;
 

@@ -11,7 +11,7 @@ public class DiscordConfig {
 
     public static final String TOKEN = Config.getConfig().getProperty("token");
 
-    public static final GatewayIntent[] intent = new GatewayIntent[] { GatewayIntent.GUILD_EMOJIS, GatewayIntent.GUILD_MESSAGES };
+    public static final GatewayIntent[] intent = new GatewayIntent[] { GatewayIntent.GUILD_EMOJIS, GatewayIntent.GUILD_MESSAGES, GatewayIntent.DIRECT_MESSAGES, GatewayIntent.DIRECT_MESSAGE_TYPING, GatewayIntent.DIRECT_MESSAGE_REACTIONS };
 
     public static List<String> ADMIN = Arrays.asList("123844064486359042", "406185982933598210");
 

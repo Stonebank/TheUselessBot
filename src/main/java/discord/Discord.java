@@ -1,6 +1,7 @@
 package discord;
 
-import discord.assets.Assets;
+import com.google.common.base.Stopwatch;
+import discord.assets.FontManager;
 import discord.commands.DiscordCommand;
 import discord.configuration.Config;
 import discord.configuration.DiscordConfig;
@@ -22,6 +23,7 @@ import net.dv8tion.jda.api.utils.cache.CacheFlag;
 import javax.security.auth.login.LoginException;
 import java.util.Arrays;
 import java.util.Objects;
+import java.util.concurrent.TimeUnit;
 
 public class Discord {
 
@@ -32,29 +34,31 @@ public class Discord {
     private final JDABuilder jdaBuilder = JDABuilder.create(DiscordConfig.TOKEN, Arrays.asList(DiscordConfig.intent));
 
     @Getter(AccessLevel.PUBLIC)
-    private final JDA jda = jdaBuilder.addEventListeners(new ReadyListener()).build();
+    private final JDA jda = jdaBuilder.disableCache(CacheFlag.ACTIVITY, CacheFlag.VOICE_STATE, CacheFlag.CLIENT_STATUS).addEventListeners(new ReadyListener(), new OnMessageReceived(), new OnGuildJoin(), new OnMemberJoin()).build();
+
+    private final Stopwatch stopwatch = Stopwatch.createStarted();
 
     public Discord() throws LoginException, InterruptedException {
-
-        jdaBuilder.disableCache(CacheFlag.ACTIVITY, CacheFlag.VOICE_STATE, CacheFlag.CLIENT_STATUS);
 
         jda.awaitReady();
 
         jda.setAutoReconnect(true);
 
-        jda.addEventListener(new OnMessageReceived(), new OnGuildJoin(), new OnMemberJoin());
         System.out.println("Registered following events");
         jda.getEventManager().getRegisteredListeners().forEach(System.out::println);
 
         DiscordCommand.init();
 
-        Assets.registerFont();
+        FontManager.registerFont("osrs-font");
 
         registerMembers();
 
         setActivity();
 
         ProcessManager.getInstance().init();
+
+        stopwatch.stop();
+        System.out.println("The useless bot is online! Elapsed: " + stopwatch.elapsed(TimeUnit.MILLISECONDS) + " ms");
 
     }
 
@@ -125,10 +129,6 @@ public class Discord {
 
         }
 
-    }
-
-    public boolean isReady() {
-        return jda.getStatus().isInit();
     }
 
 }

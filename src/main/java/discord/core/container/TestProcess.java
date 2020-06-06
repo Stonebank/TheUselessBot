@@ -1,5 +1,6 @@
 package discord.core.container;
 
+import discord.Discord;
 import discord.core.ServiceProcessor;
 import discord.core.Timer;
 
@@ -14,13 +15,13 @@ public class TestProcess implements ServiceProcessor {
 
     @Override
     public int getDelay() {
-        return 0;
+        return 5;
     }
 
     @Override
     public void init() {
 
-        System.out.println("hey");
+        Discord.getBot().sendErrorMessage("hey", Discord.class);
 
     }
 

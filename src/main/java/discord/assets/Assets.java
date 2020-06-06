@@ -12,19 +12,6 @@ import java.io.IOException;
 
 public class Assets {
 
-    public static void registerFont() {
-
-        GraphicsEnvironment ge =
-                GraphicsEnvironment.getLocalGraphicsEnvironment();
-        try {
-            System.out.println("Registered OSRS font!");
-            ge.registerFont(Font.createFont(Font.TRUETYPE_FONT, new File("./data/discord/assets/font/osrs-font.ttf")));
-        } catch (FontFormatException | IOException e) {
-            e.printStackTrace();
-        }
-
-    }
-
     public static void generateGP(MessageReceivedEvent bot, int gp) {
 
         try {
