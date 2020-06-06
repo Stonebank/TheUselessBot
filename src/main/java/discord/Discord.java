@@ -4,7 +4,9 @@ import discord.assets.Assets;
 import discord.commands.DiscordCommand;
 import discord.configuration.Config;
 import discord.configuration.DiscordConfig;
+import discord.core.ProcessManager;
 import discord.entity.DiscordSave;
+import discord.event.ReadyListener;
 import discord.event.guild.OnGuildJoin;
 import discord.event.guild.OnMemberJoin;
 import discord.event.message.OnMessageReceived;
@@ -15,8 +17,10 @@ import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.entities.Activity;
 import net.dv8tion.jda.api.entities.Guild;
 import net.dv8tion.jda.api.entities.Member;
+import net.dv8tion.jda.api.utils.cache.CacheFlag;
 
 import javax.security.auth.login.LoginException;
+import java.util.Arrays;
 import java.util.Objects;
 
 public class Discord {
@@ -24,23 +28,33 @@ public class Discord {
     @Getter(AccessLevel.PUBLIC)
     private static Discord bot;
 
-    private final JDA jda;
+    @Getter
+    private final JDABuilder jdaBuilder = JDABuilder.create(DiscordConfig.TOKEN, Arrays.asList(DiscordConfig.intent));
+
+    @Getter(AccessLevel.PUBLIC)
+    private final JDA jda = jdaBuilder.addEventListeners(new ReadyListener()).build();
 
     public Discord() throws LoginException, InterruptedException {
 
-        jda = new JDABuilder(DiscordConfig.TOKEN).build();
+        jdaBuilder.disableCache(CacheFlag.ACTIVITY, CacheFlag.VOICE_STATE, CacheFlag.CLIENT_STATUS);
 
         jda.awaitReady();
 
+        jda.setAutoReconnect(true);
+
         jda.addEventListener(new OnMessageReceived(), new OnGuildJoin(), new OnMemberJoin());
+        System.out.println("Registered following events");
+        jda.getEventManager().getRegisteredListeners().forEach(System.out::println);
 
         DiscordCommand.init();
-
-        setActivity();
 
         Assets.registerFont();
 
         registerMembers();
+
+        setActivity();
+
+        ProcessManager.getInstance().init();
 
     }
 
@@ -111,6 +125,10 @@ public class Discord {
 
         }
 
+    }
+
+    public boolean isReady() {
+        return jda.getStatus().isInit();
     }
 
 }

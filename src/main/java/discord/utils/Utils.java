@@ -4,10 +4,7 @@ import java.io.File;
 import java.io.IOException;
 import java.net.URL;
 import java.text.DecimalFormat;
-import java.util.ArrayList;
-import java.util.Enumeration;
-import java.util.List;
-import java.util.Random;
+import java.util.*;
 
 public class Utils {
 
@@ -39,6 +36,27 @@ public class Utils {
             classes.addAll(findClasses(directory, packageName));
         }
         return classes.toArray(new Class[classes.size()]);
+    }
+
+    public static List<Object> getObjects(String location) {
+        List<Object> objects = new ArrayList<>();
+
+        for (File files : Objects.requireNonNull(new File("./build/classes/java/main/" + location.replace(".", "/")).listFiles())) {
+            if (files.getName().contains("$"))
+                continue;
+
+            try {
+
+                Object event = (Class.forName(location + "." + files.getName().replaceAll(".class", "")).newInstance());
+                objects.add(event);
+
+            } catch (InstantiationException | IllegalAccessException | ClassNotFoundException e) {
+                e.printStackTrace();
+            }
+
+        }
+
+        return objects;
     }
 
     private static List<Class<?>> findClasses(File directory, String packageName) {
