@@ -86,7 +86,6 @@ public class Utils {
     }
 
     public static String getApproxValue(long amount) {
-        String regularFormat = formatNumber(amount);
         if (amount >= 1_000_000_000L) {
             return (new DecimalFormat(".##").format(amount * 0.000_000_001)).replace(',', '.') + "b";
         } else if (amount >= 1_000_000) {
@@ -94,7 +93,7 @@ public class Utils {
         } else if (amount >= 100_000) {
             return (formatNumber(amount / 1_000)) + "k";
         }
-        return (amount < 100_000 ? regularFormat + "" : (formatNumber(amount)));
+        return formatNumber(amount);
     }
 
     public static String formatTime(long seconds) {
@@ -110,4 +109,7 @@ public class Utils {
                 + (seconds != 0 ? seconds + " " + (seconds > 1 ? "seconds " : "second ") : "");
     }
 
+    public static int getItemDefinitionsSize() {
+        return 30000;
+    }
 }
