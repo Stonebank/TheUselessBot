@@ -13,6 +13,7 @@ import discord.event.guild.OnMemberJoin;
 import discord.event.message.OnMessageReceived;
 import lombok.AccessLevel;
 import lombok.Getter;
+import lombok.SneakyThrows;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.entities.Activity;
@@ -27,8 +28,14 @@ import java.util.concurrent.TimeUnit;
 
 public class Discord {
 
-    @Getter(AccessLevel.PUBLIC)
     private static Discord bot;
+
+    @SneakyThrows
+    public static Discord getBot() {
+        if (bot == null)
+            bot = new Discord();
+        return bot;
+    }
 
     @Getter(AccessLevel.PUBLIC)
     private final JDABuilder jdaBuilder = JDABuilder.create(DiscordConfig.TOKEN, Arrays.asList(DiscordConfig.intent));
@@ -36,9 +43,9 @@ public class Discord {
     @Getter(AccessLevel.PUBLIC)
     private final JDA jda = jdaBuilder.disableCache(CacheFlag.ACTIVITY, CacheFlag.VOICE_STATE, CacheFlag.CLIENT_STATUS).addEventListeners(new ReadyListener(), new OnMessageReceived(), new OnGuildJoin(), new OnMemberJoin()).build();
 
-    private final Stopwatch stopwatch = Stopwatch.createStarted();
-
     public Discord() throws LoginException, InterruptedException {
+
+        Stopwatch stopwatch = Stopwatch.createStarted();
 
         jda.awaitReady();
 

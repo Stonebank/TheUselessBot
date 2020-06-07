@@ -112,4 +112,15 @@ public class Utils {
     public static int getItemDefinitionsSize() {
         return 30000;
     }
+
+    public static String formatTimeShort(long seconds, boolean filter) {
+        long minutes = seconds / 60;
+        long hours = minutes / 60;
+        long days = hours / 24;
+        minutes -= hours * 60;
+        seconds -= (hours * 60 * 60) + (minutes * 60);
+        hours -= days * 24;
+        return filter ? (days > 0 ? days + "d:" : "") + (hours > 0 ? hours + "h:" : "") + (minutes > 0 ? minutes + "m:" : "") + seconds + "s" : days + "d:" + hours + "h:" + minutes + "m:" + seconds + "s";
+    }
+
 }

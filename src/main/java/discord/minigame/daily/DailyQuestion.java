@@ -42,7 +42,7 @@ public enum DailyQuestion {
     }
 
     public boolean hasPicture() {
-        return picture.exists();
+        return picture != null;
     }
 
 }
