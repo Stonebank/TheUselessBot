@@ -41,7 +41,7 @@ public abstract class DiscordCommand {
 
             }
 
-            System.out.println("Successfully loaded " + commands.size() + " discord commands");
+            System.out.println("\nSuccessfully loaded " + commands.size() + " discord commands");
 
         } catch (IOException | IllegalAccessException | InstantiationException e) {
             e.printStackTrace();

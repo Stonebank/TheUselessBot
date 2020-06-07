@@ -13,7 +13,7 @@ import discord.event.guild.OnMemberJoin;
 import discord.event.message.OnMessageReceived;
 import lombok.AccessLevel;
 import lombok.Getter;
-import lombok.SneakyThrows;
+import lombok.Setter;
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.entities.Activity;
@@ -28,14 +28,9 @@ import java.util.concurrent.TimeUnit;
 
 public class Discord {
 
+    @Setter(AccessLevel.PUBLIC)
+    @Getter(AccessLevel.PUBLIC)
     private static Discord bot;
-
-    @SneakyThrows
-    public static Discord getBot() {
-        if (bot == null)
-            bot = new Discord();
-        return bot;
-    }
 
     @Getter(AccessLevel.PUBLIC)
     private final JDABuilder jdaBuilder = JDABuilder.create(DiscordConfig.TOKEN, Arrays.asList(DiscordConfig.intent));
@@ -51,8 +46,9 @@ public class Discord {
 
         jda.setAutoReconnect(true);
 
-        System.out.println("Registered following events");
-        jda.getEventManager().getRegisteredListeners().forEach(System.out::println);
+        System.out.print("Registered following events: ");
+
+        jda.getEventManager().getRegisteredListeners().forEach(listener -> System.out.print(listener.getClass().getSimpleName() + " "));
 
         DiscordCommand.init();
 
@@ -71,8 +67,8 @@ public class Discord {
 
     public void setActivity() {
 
-        String activity = Config.getConfig().getProperty("activity");
-        String description = Config.getConfig().getProperty("activity_desc");
+        var activity = Config.getConfig().getProperty("activity");
+        var description = Config.getConfig().getProperty("activity_desc");
 
         if (activity.isEmpty()) {
             System.err.println("The activity is not set in the config.properties!");

@@ -9,7 +9,7 @@ public class Launch {
 
         Config.loadConfig();
 
-        new Discord();
+        Discord.setBot(new Discord());
     }
 
 }
