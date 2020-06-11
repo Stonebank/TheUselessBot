@@ -3,6 +3,7 @@ package discord.commands.container.admin;
 import discord.commands.DiscordCommand;
 import discord.commands.DiscordCommandRestrictions;
 import discord.entity.DiscordUser;
+import discord.utils.Utils;
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 
@@ -17,11 +18,11 @@ public class GiveGP extends DiscordCommand {
             return;
         }
 
-        int gp = Integer.parseInt(cmd[1]);
+        int gp = cmd[1].equalsIgnoreCase("max") ? Integer.MAX_VALUE : Integer.parseInt(cmd[1]);
 
         user.modifyGP(gp, true);
 
-        bot.getChannel().sendMessage("Adding GP: " + gp).queue();
+        bot.getChannel().sendMessage("Adding GP: " + Utils.formatNumber(gp)).queue();
 
     }
 

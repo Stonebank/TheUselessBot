@@ -56,7 +56,7 @@ public class Dice extends DiscordCommand {
 
     @Override
     public String[] getCommand() {
-        return new String[]{"-gamble", "-dice"};
+        return new String[] {"-gamble", "-dice"};
     }
 
     @Override
@@ -66,7 +66,7 @@ public class Dice extends DiscordCommand {
 
     @Override
     public String getArguments() {
-        return null;
+        return "You can either do: -dice amount or -dice all";
     }
 
 }
