@@ -1,6 +1,5 @@
 package discord.commands.container.csgo;
 
-import discord.Discord;
 import discord.commands.DiscordCommand;
 import discord.configuration.DiscordConfig;
 import discord.entity.DiscordUser;
@@ -38,7 +37,6 @@ public class CSGOGlobalStatistics extends DiscordCommand {
             bot.getChannel().sendMessage(embed.build()).queue();
 
         } catch (IOException e) {
-            Discord.getBot().sendErrorMessage("Could not grab CSGO statistics...", CSGOGlobalStatistics.class);
             bot.getChannel().sendMessage("Could not grab latest statistics for CSGO...").queue();
             e.printStackTrace();
         }

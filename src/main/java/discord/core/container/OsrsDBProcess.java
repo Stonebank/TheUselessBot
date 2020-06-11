@@ -5,7 +5,6 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonParser;
-import discord.Discord;
 import discord.assets.osrsdb.ItemDB;
 import discord.configuration.DiscordConfig;
 import discord.core.ServiceProcessor;
@@ -56,7 +55,6 @@ public class OsrsDBProcess implements ServiceProcessor {
             System.out.println("Parsed data from RSBuddy in " + stopwatch.elapsed(TimeUnit.MILLISECONDS) + " ms");
 
         } catch (IOException e) {
-            Discord.getBot().sendErrorMessage("Error! Could not grab summary.json from https://rsbuddy.com/exchange/summary.json", Discord.class);
             e.printStackTrace();
         }
 

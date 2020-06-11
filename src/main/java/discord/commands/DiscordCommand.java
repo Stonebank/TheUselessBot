@@ -6,6 +6,7 @@ import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 
 import java.io.IOException;
+import java.lang.reflect.InvocationTargetException;
 import java.util.Arrays;
 import java.util.HashMap;
 
@@ -25,7 +26,7 @@ public abstract class DiscordCommand {
                 if (c.isAnonymousClass())
                     continue;
 
-                Object o = c.newInstance();
+                Object o = c.getDeclaredConstructor().newInstance();
 
                 boolean isDiscordClass = o instanceof DiscordCommand;
 
@@ -43,7 +44,7 @@ public abstract class DiscordCommand {
 
             System.out.println("\nSuccessfully loaded " + commands.size() + " discord commands");
 
-        } catch (IOException | IllegalAccessException | InstantiationException e) {
+        } catch (IOException | IllegalAccessException | InstantiationException | NoSuchMethodException | InvocationTargetException e) {
             e.printStackTrace();
         }
 
@@ -61,6 +62,7 @@ public abstract class DiscordCommand {
         if (c.isAnnotationPresent(DiscordCommandRestrictions.class)) {
 
             DiscordCommandRestrictions restrictions = c.getDeclaredAnnotation(DiscordCommandRestrictions.class);
+
             if (Long.parseLong(restrictions.discord_id()[0].replace("[", "").replace("]", "")) > -1) {
                 if (Arrays.stream(restrictions.discord_id()).noneMatch(id -> id.equals(bot.getAuthor().getId()))) {
                     bot.getChannel().sendMessage("You do not have the rights to access this command.").queue();

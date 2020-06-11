@@ -1,6 +1,5 @@
 package discord.assets;
 
-import discord.Discord;
 import discord.utils.Utils;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 
@@ -17,8 +16,8 @@ public class Assets {
         try {
 
             BufferedImage img = ImageIO.read(new File("./data/discord/assets/image/coins.png"));
-            int width = img.getWidth();
-            int height = img.getHeight();
+            var width = img.getWidth();
+            var height = img.getHeight();
 
             BufferedImage bufferedImage = new BufferedImage(width, height, BufferedImage.TYPE_INT_ARGB);
             Graphics2D g = bufferedImage.createGraphics();
@@ -45,7 +44,6 @@ public class Assets {
         } catch (IOException e) {
 
             bot.getChannel().sendMessage("Cannot generate GP image... But! You received **" + Utils.getApproxValue(gp) + " GP!**").queue();
-            Discord.getBot().sendErrorMessage("Cannot generate GP image... Inspect error!", Assets.class);
 
             e.printStackTrace();
         }

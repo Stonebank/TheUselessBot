@@ -1,6 +1,5 @@
 package discord.event.message;
 
-import discord.Discord;
 import discord.commands.DiscordCommand;
 import discord.configuration.DiscordConfig;
 import discord.entity.DiscordSave;

@@ -18,6 +18,10 @@ public class Dice extends DiscordCommand {
             return;
         }
 
+        if (cmd[1].toLowerCase().contains("all"))
+            cmd[1] = String.valueOf(user.getGp());
+
+
         if (cmd[1].toLowerCase().contains("k"))
             cmd[1] = cmd[1].replace("k", "000");
 
@@ -43,7 +47,7 @@ public class Dice extends DiscordCommand {
 
         long gp = roll == 73 ? (long) (Long.parseLong(cmd[1]) * 1.73) : Long.parseLong(cmd[1]);
 
-        embed.setDescription("You rolled **" + roll + "** on the percentile dice and " + (roll > 54 ? "won " : "lost ") + (roll > 54 ? "" : "-") + Utils.getApproxValue(gp) + " GP.");
+        embed.setDescription(user.getDiscordTag().split("#")[0] + " rolled **" + roll + "** on the percentile dice and " + (roll > 54 ? "won " : "lost ") + (roll > 54 ? "" : "-") + Utils.getApproxValue(gp) + " GP.");
         user.modifyGP(gp, roll > 54);
 
         bot.getChannel().sendMessage(embed.build()).queue();

@@ -23,7 +23,6 @@ import net.dv8tion.jda.api.utils.cache.CacheFlag;
 
 import javax.security.auth.login.LoginException;
 import java.util.Arrays;
-import java.util.Objects;
 import java.util.concurrent.TimeUnit;
 
 public class Discord {
@@ -101,15 +100,6 @@ public class Discord {
 
         System.out.println("Setting activity to " + activity + ": " + description);
 
-    }
-
-    public void sendAdminPrivateMessage(String id, String content) {
-        Objects.requireNonNull(jda.getUserById(id)).openPrivateChannel().queue((channel) ->
-                channel.sendMessage(content).queue());
-    }
-
-    public void sendErrorMessage(String content, Class<?> source) {
-        DiscordConfig.ADMIN.forEach(id -> sendAdminPrivateMessage(id, source.getPackage().getName() + ", " + source.getSimpleName() + ": " + content));
     }
 
     public void registerMembers() {

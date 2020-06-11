@@ -16,7 +16,7 @@ public class OnGuildJoin extends ListenerAdapter {
         assert event.getGuild().getDefaultChannel() != null;
         event.getGuild().getDefaultChannel().sendMessage("Hello @everyone!\n\nTo view commands, please type -commands").queue();
 
-        System.out.println("The useless bot has joined " + event.getGuild().getName());
+        System.err.println("The useless bot has joined " + event.getGuild().getName());
 
     }
 
