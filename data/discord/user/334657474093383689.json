@@ -1,5 +1,17 @@
 {
   "id": "334657474093383689",
   "discordTag": "Muntaman#1530",
-  "gp": 0
+  "gp": 0,
+  "dailyCooldown": {
+    "year": 2020,
+    "month": 5,
+    "dayOfMonth": 14,
+    "hourOfDay": 1,
+    "minute": 24,
+    "second": 26
+  },
+  "minion": [
+    false,
+    false
+  ]
 }

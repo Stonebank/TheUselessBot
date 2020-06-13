@@ -32,7 +32,7 @@ public class CSGOGlobalStatistics extends DiscordCommand {
             for (Element e : element)
                 text.append(e.text()).append("\n");
 
-            embed.setDescription(text.toString());
+            embed.setDescription(text.toString().toLowerCase());
 
             bot.getChannel().sendMessage(embed.build()).queue();
 

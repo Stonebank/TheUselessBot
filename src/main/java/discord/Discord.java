@@ -1,7 +1,7 @@
 package discord;
 
 import com.google.common.base.Stopwatch;
-import discord.assets.FontManager;
+import discord.assets.Fonts;
 import discord.commands.DiscordCommand;
 import discord.configuration.Config;
 import discord.configuration.DiscordConfig;
@@ -51,7 +51,7 @@ public class Discord {
 
         DiscordCommand.init();
 
-        FontManager.registerFont("osrs-font");
+        Fonts.registerFont("osrs-font");
 
         registerMembers();
 

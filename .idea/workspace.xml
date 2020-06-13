@@ -20,9 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd2be9d4-55df-4a5b-b57b-b84400397434" name="Default Changelist" comment="tweaked 'dice' command">
+      <change afterPath="$PROJECT_DIR$/src/main/java/discord/commands/container/minion/BuyMinion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/discord/commands/container/minion/Minion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/discord/commands/container/minion/SetMinionName.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/discord/commands/container/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/commands/container/Dice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/discord/commands/container/admin/GiveGP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/commands/container/admin/GiveGP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/discord/Discord.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/discord/Discord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/discord/entity/DiscordUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/discord/entity/DiscordUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/discord/assets/image/new_coins.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/discord/assets/image/new_coins.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/discord/assets/item_db.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/discord/assets/item_db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/discord/user/123844064486359042.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/discord/user/123844064486359042.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/discord/user/320333962994122752.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/discord/user/320333962994122752.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/discord/user/334657474093383689.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/discord/user/334657474093383689.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/discord/Discord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/Discord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/discord/assets/FontManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/assets/Fonts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/discord/commands/container/csgo/CSGOGlobalStatistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/commands/container/csgo/CSGOGlobalStatistics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/discord/entity/DiscordUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/entity/DiscordUser.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -279,7 +292,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591866204317</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="tweaked 'dice' command">
+      <created>1591866496853</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1591866496853</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -309,10 +329,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="tweaked 'dice' command" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1591708428186">
+    <state x="713" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591866710223">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591708428186" />
+    <state x="713" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591866710223" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1592047042670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592047042670" />
     <state x="633" y="444" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1590493330654">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -333,46 +357,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="738" y="217" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590483803639" />
-    <state width="1877" height="343" key="GridCell.Tab.0.bottom" timestamp="1591866188060">
+    <state width="1877" height="345" key="GridCell.Tab.0.bottom" timestamp="1592047619204">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="343" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591866188060" />
-    <state width="1877" height="343" key="GridCell.Tab.0.center" timestamp="1591866188060">
+    <state width="1877" height="345" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592047619204" />
+    <state width="1877" height="345" key="GridCell.Tab.0.center" timestamp="1592047619204">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="343" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591866188060" />
-    <state width="1877" height="343" key="GridCell.Tab.0.left" timestamp="1591866188060">
+    <state width="1877" height="345" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592047619204" />
+    <state width="1877" height="345" key="GridCell.Tab.0.left" timestamp="1592047619204">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="343" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591866188060" />
-    <state width="1877" height="343" key="GridCell.Tab.0.right" timestamp="1591866188060">
+    <state width="1877" height="345" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592047619204" />
+    <state width="1877" height="345" key="GridCell.Tab.0.right" timestamp="1592047619204">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="343" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591866188060" />
-    <state width="1877" height="343" key="GridCell.Tab.1.bottom" timestamp="1591866188060">
+    <state width="1877" height="345" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592047619204" />
+    <state width="1877" height="345" key="GridCell.Tab.1.bottom" timestamp="1592047619135">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="343" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591866188060" />
-    <state width="1877" height="343" key="GridCell.Tab.1.center" timestamp="1591866188060">
+    <state width="1877" height="345" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592047619135" />
+    <state width="1877" height="345" key="GridCell.Tab.1.center" timestamp="1592047619134">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="343" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591866188060" />
-    <state width="1877" height="343" key="GridCell.Tab.1.left" timestamp="1591866188060">
+    <state width="1877" height="345" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592047619134" />
+    <state width="1877" height="345" key="GridCell.Tab.1.left" timestamp="1592047619134">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="343" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591866188060" />
-    <state width="1877" height="343" key="GridCell.Tab.1.right" timestamp="1591866188060">
+    <state width="1877" height="345" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592047619134" />
+    <state width="1877" height="345" key="GridCell.Tab.1.right" timestamp="1592047619134">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="343" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591866188060" />
+    <state width="1877" height="345" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592047619134" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1591865932038">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591865932038" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1591866206120">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1591866498141">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591866206120" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591866498141" />
     <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590836772972">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -385,9 +409,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590495834320" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1591865942627">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1592047317922">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591865942627" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592047317922" />
   </component>
 </project>

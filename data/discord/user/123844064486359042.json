@@ -1,13 +1,18 @@
 {
   "id": "123844064486359042",
   "discordTag": "Hassan#0645",
-  "gp": 0,
+  "gp": 4294967294,
   "dailyCooldown": {
     "year": 2020,
     "month": 5,
-    "dayOfMonth": 10,
+    "dayOfMonth": 14,
     "hourOfDay": 0,
-    "minute": 17,
-    "second": 3
-  }
+    "minute": 58,
+    "second": 26
+  },
+  "minion": [
+    true,
+    false
+  ],
+  "minionName": ""
 }

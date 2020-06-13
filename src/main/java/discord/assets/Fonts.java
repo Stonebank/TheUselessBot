@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Arrays;
 
-public class FontManager {
+public class Fonts {
 
     public static void registerFont(String... font) {
 
