@@ -19,6 +19,7 @@ public abstract class DiscordCommand {
     }
 
     public static void init() {
+        
         try {
 
             for (Class<?> c : Utils.getClasses(DiscordCommand.class.getPackage().getName() + ".container")) {

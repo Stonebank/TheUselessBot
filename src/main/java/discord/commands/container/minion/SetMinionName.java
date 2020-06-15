@@ -18,14 +18,14 @@ public class SetMinionName extends DiscordCommand {
             return;
         }
 
-        if (cmd.length < 2) {
+        if (cmd.length < 4) {
             bot.getChannel().sendMessage("Error! " + getArguments()).queue();
             return;
         }
 
         text = new StringBuilder();
 
-        for (int i = 2; i < cmd.length; i++)
+        for (int i = 3; i < cmd.length; i++)
             text.append(cmd[i]).append((i == cmd.length - 1) ? "" : " ");
 
         user.setMinionName(text.toString());
@@ -35,7 +35,7 @@ public class SetMinionName extends DiscordCommand {
 
     @Override
     public String[] getCommand() {
-        return new String[] { "-setname" };
+        return new String[] { "-m setname" };
     }
 
     @Override
