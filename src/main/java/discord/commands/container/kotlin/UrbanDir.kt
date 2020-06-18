@@ -17,7 +17,7 @@ class UrbanDir : DiscordCommand() {
     }
 
     override fun getCommand(): Array<String> {
-        return arrayOf("-urban")
+        return arrayOf("-urban", "-urbandir")
     }
 
     override fun execute(embed: EmbedBuilder?, text: StringBuilder?, bot: MessageReceivedEvent?, user: DiscordUser?, vararg cmd: String?) {
