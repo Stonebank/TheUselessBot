@@ -4,12 +4,12 @@
     "name": "Cannonball",
     "members": true,
     "sp": 5,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 168,
+    "buy_quantity": 3602,
+    "sell_average": 162,
+    "sell_quantity": 3164,
+    "overall_average": 165,
+    "overall_quantity": 6766
   },
   "6": {
     "id": 6,
@@ -28,24 +28,24 @@
     "name": "Cannon stand",
     "members": true,
     "sp": 187500,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 186090,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 186090,
+    "overall_quantity": 1
   },
   "24585": {
     "id": 24585,
     "name": "Looting bag note",
     "members": true,
     "sp": 90,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 12980,
+    "buy_quantity": 11,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 12980,
+    "overall_quantity": 11
   },
   "10": {
     "id": 10,
@@ -124,12 +124,12 @@
     "name": "Blighted super restore(4)",
     "members": true,
     "sp": 40,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 5195,
-    "sell_quantity": 20,
-    "overall_average": 5195,
-    "overall_quantity": 20
+    "buy_average": 5259,
+    "buy_quantity": 42,
+    "sell_average": 5211,
+    "sell_quantity": 70,
+    "overall_average": 5229,
+    "overall_quantity": 112
   },
   "28": {
     "id": 28,
@@ -160,12 +160,12 @@
     "name": "Blighted ancient ice sack",
     "members": true,
     "sp": 35,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 664,
+    "buy_quantity": 400,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 664,
+    "overall_quantity": 400
   },
   "24609": {
     "id": 24609,
@@ -221,11 +221,11 @@
     "members": true,
     "sp": 1,
     "buy_average": 4,
-    "buy_quantity": 4500,
+    "buy_quantity": 5400,
     "sell_average": 0,
     "sell_quantity": 0,
     "overall_average": 4,
-    "overall_quantity": 4500
+    "overall_quantity": 5400
   },
   "24615": {
     "id": 24615,
@@ -256,12 +256,12 @@
     "name": "Steel arrowtips",
     "members": true,
     "sp": 6,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 40,
+    "buy_quantity": 2041,
+    "sell_average": 34,
+    "sell_quantity": 1,
+    "overall_average": 39,
+    "overall_quantity": 2042
   },
   "42": {
     "id": 42,
@@ -282,10 +282,10 @@
     "sp": 40,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 105,
+    "sell_quantity": 72,
+    "overall_average": 105,
+    "overall_quantity": 72
   },
   "44": {
     "id": 44,
@@ -294,10 +294,10 @@
     "sp": 200,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 214,
+    "sell_quantity": 129,
+    "overall_average": 214,
+    "overall_quantity": 129
   },
   "45": {
     "id": 45,
@@ -366,10 +366,10 @@
     "sp": 60,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 22,
+    "sell_quantity": 1637,
+    "overall_average": 22,
+    "overall_quantity": 1637
   },
   "50": {
     "id": 50,
@@ -413,11 +413,11 @@
     "members": true,
     "sp": 1,
     "buy_average": 7,
-    "buy_quantity": 2700,
+    "buy_quantity": 11500,
     "sell_average": 0,
     "sell_quantity": 0,
     "overall_average": 7,
-    "overall_quantity": 2700
+    "overall_quantity": 11500
   },
   "24629": {
     "id": 24629,
@@ -484,12 +484,12 @@
     "name": "Divine bastion potion(4)",
     "members": true,
     "sp": 720,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 12999,
+    "buy_quantity": 10,
+    "sell_average": 12251,
+    "sell_quantity": 500,
+    "overall_average": 12266,
+    "overall_quantity": 510
   },
   "60": {
     "id": 60,
@@ -510,10 +510,10 @@
     "sp": 320,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 50,
+    "sell_quantity": 405,
+    "overall_average": 50,
+    "overall_quantity": 405
   },
   "24638": {
     "id": 24638,
@@ -556,12 +556,12 @@
     "name": "Yew longbow (u)",
     "members": true,
     "sp": 640,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 356,
+    "buy_quantity": 1,
+    "sell_average": 349,
+    "sell_quantity": 3638,
+    "overall_average": 349,
+    "overall_quantity": 3639
   },
   "68": {
     "id": 68,
@@ -904,12 +904,12 @@
     "name": "Prayer potion(3)",
     "members": true,
     "sp": 152,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 7410,
+    "buy_quantity": 40,
+    "sell_average": 7410,
+    "sell_quantity": 1,
+    "overall_average": 7410,
+    "overall_quantity": 41
   },
   "141": {
     "id": 141,
@@ -1266,10 +1266,10 @@
     "sp": 14,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 15,
+    "sell_quantity": 209,
+    "overall_average": 15,
+    "overall_quantity": 209
   },
   "203": {
     "id": 203,
@@ -1278,10 +1278,10 @@
     "sp": 15,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 141,
+    "sell_quantity": 166,
+    "overall_average": 141,
+    "overall_quantity": 166
   },
   "205": {
     "id": 205,
@@ -1290,10 +1290,10 @@
     "sp": 16,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 708,
+    "sell_quantity": 105,
+    "overall_average": 708,
+    "overall_quantity": 105
   },
   "207": {
     "id": 207,
@@ -1303,9 +1303,9 @@
     "buy_average": 0,
     "buy_quantity": 0,
     "sell_average": 7701,
-    "sell_quantity": 144,
+    "sell_quantity": 149,
     "overall_average": 7701,
-    "overall_quantity": 144
+    "overall_quantity": 149
   },
   "209": {
     "id": 209,
@@ -1314,10 +1314,10 @@
     "sp": 17,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 810,
+    "sell_quantity": 85,
+    "overall_average": 810,
+    "overall_quantity": 85
   },
   "211": {
     "id": 211,
@@ -1326,10 +1326,10 @@
     "sp": 18,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 1686,
+    "sell_quantity": 57,
+    "overall_average": 1686,
+    "overall_quantity": 57
   },
   "213": {
     "id": 213,
@@ -1338,10 +1338,10 @@
     "sp": 20,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 1187,
+    "sell_quantity": 50,
+    "overall_average": 1187,
+    "overall_quantity": 50
   },
   "215": {
     "id": 215,
@@ -1350,10 +1350,10 @@
     "sp": 22,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 1215,
+    "sell_quantity": 26,
+    "overall_average": 1215,
+    "overall_quantity": 26
   },
   "217": {
     "id": 217,
@@ -1362,10 +1362,10 @@
     "sp": 24,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 430,
+    "sell_quantity": 19,
+    "overall_average": 430,
+    "overall_quantity": 19
   },
   "219": {
     "id": 219,
@@ -1408,12 +1408,12 @@
     "name": "Limpwurt root",
     "members": false,
     "sp": 7,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 905,
+    "buy_quantity": 20,
+    "sell_average": 909,
+    "sell_quantity": 101,
+    "overall_average": 908,
+    "overall_quantity": 121
   },
   "8417": {
     "id": 8417,
@@ -1458,10 +1458,10 @@
     "sp": 2,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 3,
+    "sell_quantity": 1,
+    "overall_average": 3,
+    "overall_quantity": 1
   },
   "8421": {
     "id": 8421,
@@ -1504,12 +1504,12 @@
     "name": "Pestle and mortar",
     "members": true,
     "sp": 4,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 500,
+    "buy_quantity": 4,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 500,
+    "overall_quantity": 4
   },
   "8425": {
     "id": 8425,
@@ -1578,10 +1578,10 @@
     "sp": 10,
     "buy_average": 423,
     "buy_quantity": 1,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 423,
-    "overall_quantity": 1
+    "sell_average": 416,
+    "sell_quantity": 11,
+    "overall_average": 416,
+    "overall_quantity": 12
   },
   "8431": {
     "id": 8431,
@@ -1770,10 +1770,10 @@
     "sp": 20,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 800,
+    "sell_quantity": 3,
+    "overall_average": 800,
+    "overall_quantity": 3
   },
   "8447": {
     "id": 8447,
@@ -1794,10 +1794,10 @@
     "sp": 25,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 7822,
+    "sell_quantity": 54,
+    "overall_average": 7822,
+    "overall_quantity": 54
   },
   "8449": {
     "id": 8449,
@@ -1818,10 +1818,10 @@
     "sp": 40,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 821,
+    "sell_quantity": 1,
+    "overall_average": 821,
+    "overall_quantity": 1
   },
   "8451": {
     "id": 8451,
@@ -1890,10 +1890,10 @@
     "sp": 65,
     "buy_average": 1248,
     "buy_quantity": 1,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 1248,
-    "overall_quantity": 1
+    "sell_average": 1229,
+    "sell_quantity": 8,
+    "overall_average": 1231,
+    "overall_quantity": 9
   },
   "8457": {
     "id": 8457,
@@ -1914,10 +1914,10 @@
     "sp": 70,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 428,
+    "sell_quantity": 50,
+    "overall_average": 428,
+    "overall_quantity": 50
   },
   "8459": {
     "id": 8459,
@@ -2118,10 +2118,10 @@
     "sp": 5,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 138,
+    "sell_quantity": 4,
+    "overall_average": 138,
+    "overall_quantity": 4
   },
   "8504": {
     "id": 8504,
@@ -2152,12 +2152,12 @@
     "name": "Feather",
     "members": false,
     "sp": 2,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 3,
+    "buy_quantity": 1042,
+    "sell_average": 3,
+    "sell_quantity": 13099,
+    "overall_average": 3,
+    "overall_quantity": 14141
   },
   "8506": {
     "id": 8506,
@@ -2176,12 +2176,12 @@
     "name": "Shrimps",
     "members": false,
     "sp": 5,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 16,
+    "buy_quantity": 500,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 16,
+    "overall_quantity": 500
   },
   "8508": {
     "id": 8508,
@@ -2332,12 +2332,12 @@
     "name": "Salmon",
     "members": false,
     "sp": 30,
-    "buy_average": 114,
-    "buy_quantity": 15,
+    "buy_average": 116,
+    "buy_quantity": 515,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 114,
-    "overall_quantity": 15
+    "overall_average": 116,
+    "overall_quantity": 515
   },
   "8522": {
     "id": 8522,
@@ -2380,12 +2380,12 @@
     "name": "Trout",
     "members": false,
     "sp": 10,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 21,
+    "buy_quantity": 600,
+    "sell_average": 18,
+    "sell_quantity": 15,
+    "overall_average": 20,
+    "overall_quantity": 615
   },
   "8526": {
     "id": 8526,
@@ -2596,12 +2596,12 @@
     "name": "Tuna",
     "members": false,
     "sp": 40,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 50,
+    "buy_quantity": 500,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 50,
+    "overall_quantity": 500
   },
   "8554": {
     "id": 8554,
@@ -2694,10 +2694,10 @@
     "sp": 80,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 353,
+    "sell_quantity": 31,
+    "overall_average": 353,
+    "overall_quantity": 31
   },
   "8564": {
     "id": 8564,
@@ -2716,12 +2716,12 @@
     "name": "Swordfish",
     "members": false,
     "sp": 80,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 347,
+    "buy_quantity": 600,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 347,
+    "overall_quantity": 600
   },
   "8566": {
     "id": 8566,
@@ -2754,10 +2754,10 @@
     "sp": 70,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 218,
+    "sell_quantity": 6,
+    "overall_average": 218,
+    "overall_quantity": 6
   },
   "8570": {
     "id": 8570,
@@ -2776,12 +2776,12 @@
     "name": "Lobster",
     "members": false,
     "sp": 70,
-    "buy_average": 181,
-    "buy_quantity": 300,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 181,
-    "overall_quantity": 300
+    "buy_average": 182,
+    "buy_quantity": 461,
+    "sell_average": 177,
+    "sell_quantity": 1,
+    "overall_average": 182,
+    "overall_quantity": 462
   },
   "8572": {
     "id": 8572,
@@ -2836,12 +2836,12 @@
     "name": "Shark",
     "members": true,
     "sp": 170,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 898,
+    "buy_quantity": 229,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 898,
+    "overall_quantity": 229
   },
   "8578": {
     "id": 8578,
@@ -2899,9 +2899,9 @@
     "buy_average": 0,
     "buy_quantity": 0,
     "sell_average": 1156,
-    "sell_quantity": 992,
+    "sell_quantity": 1838,
     "overall_average": 1156,
-    "overall_quantity": 992
+    "overall_quantity": 1838
   },
   "8584": {
     "id": 8584,
@@ -3042,10 +3042,10 @@
     "sp": 50,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 759,
+    "sell_quantity": 2,
+    "overall_average": 759,
+    "overall_quantity": 2
   },
   "8598": {
     "id": 8598,
@@ -3066,10 +3066,10 @@
     "sp": 200,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 75,
+    "sell_quantity": 5,
+    "overall_average": 75,
+    "overall_quantity": 5
   },
   "8600": {
     "id": 8600,
@@ -3102,10 +3102,10 @@
     "sp": 112,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 114,
+    "sell_quantity": 3,
+    "overall_average": 114,
+    "overall_quantity": 3
   },
   "8604": {
     "id": 8604,
@@ -3282,10 +3282,10 @@
     "sp": 1,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 143,
+    "sell_quantity": 510,
+    "overall_average": 143,
+    "overall_quantity": 510
   },
   "8626": {
     "id": 8626,
@@ -3340,12 +3340,12 @@
     "name": "Iron ore",
     "members": false,
     "sp": 17,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 111,
+    "buy_quantity": 16013,
+    "sell_average": 112,
+    "sell_quantity": 13139,
+    "overall_average": 112,
+    "overall_quantity": 29152
   },
   "442": {
     "id": 442,
@@ -3354,22 +3354,22 @@
     "sp": 75,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 53,
+    "sell_quantity": 6252,
+    "overall_average": 53,
+    "overall_quantity": 6252
   },
   "444": {
     "id": 444,
     "name": "Gold ore",
     "members": false,
     "sp": 150,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 203,
+    "buy_quantity": 13000,
+    "sell_average": 204,
+    "sell_quantity": 13776,
+    "overall_average": 203,
+    "overall_quantity": 26776
   },
   "447": {
     "id": 447,
@@ -3378,22 +3378,22 @@
     "sp": 162,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 131,
+    "sell_quantity": 1723,
+    "overall_average": 131,
+    "overall_quantity": 1723
   },
   "449": {
     "id": 449,
     "name": "Adamantite ore",
     "members": false,
     "sp": 400,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 1103,
+    "buy_quantity": 4500,
+    "sell_average": 1102,
+    "sell_quantity": 904,
+    "overall_average": 1103,
+    "overall_quantity": 5404
   },
   "451": {
     "id": 451,
@@ -3402,22 +3402,22 @@
     "sp": 3200,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 11248,
-    "sell_quantity": 157,
-    "overall_average": 11248,
-    "overall_quantity": 157
+    "sell_average": 11266,
+    "sell_quantity": 869,
+    "overall_average": 11266,
+    "overall_quantity": 869
   },
   "453": {
     "id": 453,
     "name": "Coal",
     "members": false,
     "sp": 45,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 148,
-    "sell_quantity": 3373,
-    "overall_average": 148,
-    "overall_quantity": 3373
+    "buy_average": 146,
+    "buy_quantity": 26061,
+    "sell_average": 149,
+    "sell_quantity": 18051,
+    "overall_average": 147,
+    "overall_quantity": 44112
   },
   "464": {
     "id": 464,
@@ -3436,12 +3436,12 @@
     "name": "Bones",
     "members": false,
     "sp": 1,
-    "buy_average": 97,
-    "buy_quantity": 7,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 97,
-    "overall_quantity": 7
+    "buy_average": 96,
+    "buy_quantity": 14,
+    "sell_average": 86,
+    "sell_quantity": 2,
+    "overall_average": 95,
+    "overall_quantity": 16
   },
   "528": {
     "id": 528,
@@ -3496,12 +3496,12 @@
     "name": "Dragon bones",
     "members": true,
     "sp": 160,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 2722,
+    "buy_quantity": 2000,
+    "sell_average": 2709,
+    "sell_quantity": 1466,
+    "overall_average": 2716,
+    "overall_quantity": 3466
   },
   "538": {
     "id": 538,
@@ -3581,47 +3581,47 @@
     "members": false,
     "sp": 4,
     "buy_average": 5,
-    "buy_quantity": 20000,
-    "sell_average": 0,
-    "sell_quantity": 0,
+    "buy_quantity": 93820,
+    "sell_average": 5,
+    "sell_quantity": 4,
     "overall_average": 5,
-    "overall_quantity": 20000
+    "overall_quantity": 93824
   },
   "555": {
     "id": 555,
     "name": "Water rune",
     "members": false,
     "sp": 4,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 5,
+    "buy_quantity": 80,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 5,
+    "overall_quantity": 80
   },
   "556": {
     "id": 556,
     "name": "Air rune",
     "members": false,
     "sp": 4,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 5,
+    "buy_quantity": 11820,
+    "sell_average": 4,
+    "sell_quantity": 6,
+    "overall_average": 4,
+    "overall_quantity": 11826
   },
   "557": {
     "id": 557,
     "name": "Earth rune",
     "members": false,
     "sp": 4,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 5,
+    "buy_quantity": 1,
+    "sell_average": 4,
+    "sell_quantity": 12,
+    "overall_average": 4,
+    "overall_quantity": 13
   },
   "558": {
     "id": 558,
@@ -3629,11 +3629,11 @@
     "members": false,
     "sp": 3,
     "buy_average": 4,
-    "buy_quantity": 500,
+    "buy_quantity": 11870,
     "sell_average": 0,
     "sell_quantity": 0,
     "overall_average": 4,
-    "overall_quantity": 500
+    "overall_quantity": 11870
   },
   "559": {
     "id": 559,
@@ -3642,10 +3642,10 @@
     "sp": 3,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 5,
+    "sell_quantity": 165,
+    "overall_average": 5,
+    "overall_quantity": 165
   },
   "560": {
     "id": 560,
@@ -3653,35 +3653,35 @@
     "members": false,
     "sp": 180,
     "buy_average": 201,
-    "buy_quantity": 10000,
-    "sell_average": 201,
-    "sell_quantity": 3545,
+    "buy_quantity": 36472,
+    "sell_average": 202,
+    "sell_quantity": 25740,
     "overall_average": 201,
-    "overall_quantity": 13545
+    "overall_quantity": 62212
   },
   "561": {
     "id": 561,
     "name": "Nature rune",
     "members": false,
     "sp": 180,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 212,
+    "buy_quantity": 49826,
+    "sell_average": 214,
+    "sell_quantity": 49683,
+    "overall_average": 213,
+    "overall_quantity": 99509
   },
   "562": {
     "id": 562,
     "name": "Chaos rune",
     "members": false,
     "sp": 90,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 71,
+    "buy_quantity": 65999,
+    "sell_average": 73,
+    "sell_quantity": 61688,
+    "overall_average": 72,
+    "overall_quantity": 127687
   },
   "563": {
     "id": 563,
@@ -3689,47 +3689,47 @@
     "members": false,
     "sp": 240,
     "buy_average": 162,
-    "buy_quantity": 704,
-    "sell_average": 162,
-    "sell_quantity": 3241,
-    "overall_average": 162,
-    "overall_quantity": 3945
+    "buy_quantity": 12630,
+    "sell_average": 164,
+    "sell_quantity": 19081,
+    "overall_average": 163,
+    "overall_quantity": 31711
   },
   "564": {
     "id": 564,
     "name": "Cosmic rune",
     "members": false,
     "sp": 50,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 131,
+    "buy_quantity": 18000,
+    "sell_average": 132,
+    "sell_quantity": 48142,
+    "overall_average": 132,
+    "overall_quantity": 66142
   },
   "565": {
     "id": 565,
     "name": "Blood rune",
     "members": true,
     "sp": 400,
-    "buy_average": 379,
-    "buy_quantity": 6,
-    "sell_average": 375,
-    "sell_quantity": 3076,
+    "buy_average": 375,
+    "buy_quantity": 17442,
+    "sell_average": 378,
+    "sell_quantity": 24471,
     "overall_average": 376,
-    "overall_quantity": 3082
+    "overall_quantity": 41913
   },
   "566": {
     "id": 566,
     "name": "Soul rune",
     "members": true,
     "sp": 300,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 149,
+    "buy_quantity": 3000,
+    "sell_average": 148,
+    "sell_quantity": 2253,
+    "overall_average": 148,
+    "overall_quantity": 5253
   },
   "567": {
     "id": 567,
@@ -3738,10 +3738,10 @@
     "sp": 100,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 86,
+    "sell_quantity": 675,
+    "overall_average": 86,
+    "overall_quantity": 675
   },
   "569": {
     "id": 569,
@@ -3772,12 +3772,12 @@
     "name": "Air orb",
     "members": true,
     "sp": 300,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 1222,
+    "buy_quantity": 940,
+    "sell_average": 1215,
+    "sell_quantity": 810,
+    "overall_average": 1218,
+    "overall_quantity": 1750
   },
   "575": {
     "id": 575,
@@ -3832,36 +3832,36 @@
     "name": "Oak plank",
     "members": true,
     "sp": 250,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 528,
+    "buy_quantity": 4952,
+    "sell_average": 528,
+    "sell_quantity": 1,
+    "overall_average": 528,
+    "overall_quantity": 4953
   },
   "8780": {
     "id": 8780,
     "name": "Teak plank",
     "members": true,
     "sp": 500,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 940,
+    "buy_quantity": 2,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 940,
+    "overall_quantity": 2
   },
   "590": {
     "id": 590,
     "name": "Tinderbox",
     "members": false,
     "sp": 1,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 38,
+    "buy_quantity": 4,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 38,
+    "overall_quantity": 4
   },
   "8782": {
     "id": 8782,
@@ -3871,9 +3871,9 @@
     "buy_average": 0,
     "buy_quantity": 0,
     "sell_average": 2090,
-    "sell_quantity": 1089,
+    "sell_quantity": 1265,
     "overall_average": 2090,
-    "overall_quantity": 1089
+    "overall_quantity": 1265
   },
   "592": {
     "id": 592,
@@ -3882,10 +3882,10 @@
     "sp": 2,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 69,
+    "sell_quantity": 106,
+    "overall_average": 69,
+    "overall_quantity": 106
   },
   "8784": {
     "id": 8784,
@@ -4540,12 +4540,12 @@
     "name": "Adamant dart",
     "members": true,
     "sp": 65,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 98,
+    "buy_quantity": 1800,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 98,
+    "overall_quantity": 1800
   },
   "811": {
     "id": 811,
@@ -4650,10 +4650,10 @@
     "sp": 350,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 1026,
+    "sell_quantity": 36,
+    "overall_average": 1026,
+    "overall_quantity": 36
   },
   "819": {
     "id": 819,
@@ -4696,12 +4696,12 @@
     "name": "Mithril dart tip",
     "members": true,
     "sp": 12,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 73,
+    "buy_quantity": 2000,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 73,
+    "overall_quantity": 2000
   },
   "823": {
     "id": 823,
@@ -4722,10 +4722,10 @@
     "sp": 175,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 1220,
+    "sell_quantity": 65,
+    "overall_average": 1220,
+    "overall_quantity": 65
   },
   "825": {
     "id": 825,
@@ -4792,12 +4792,12 @@
     "name": "Rune javelin",
     "members": true,
     "sp": 400,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 170,
-    "sell_quantity": 1,
+    "buy_average": 170,
+    "buy_quantity": 795,
+    "sell_average": 173,
+    "sell_quantity": 186,
     "overall_average": 170,
-    "overall_quantity": 1
+    "overall_quantity": 981
   },
   "831": {
     "id": 831,
@@ -4948,12 +4948,12 @@
     "name": "Shortbow",
     "members": false,
     "sp": 50,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 50,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 50,
+    "overall_quantity": 1
   },
   "9034": {
     "id": 9034,
@@ -4972,12 +4972,12 @@
     "name": "Oak shortbow",
     "members": false,
     "sp": 100,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 52,
+    "buy_quantity": 2,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 52,
+    "overall_quantity": 2
   },
   "9036": {
     "id": 9036,
@@ -5044,12 +5044,12 @@
     "name": "Willow shortbow",
     "members": false,
     "sp": 200,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 81,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 81,
+    "overall_quantity": 1
   },
   "9042": {
     "id": 9042,
@@ -5092,12 +5092,12 @@
     "name": "Maple shortbow",
     "members": false,
     "sp": 400,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 191,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 191,
+    "overall_quantity": 1
   },
   "855": {
     "id": 855,
@@ -5106,10 +5106,10 @@
     "sp": 1280,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 553,
+    "sell_quantity": 3019,
+    "overall_average": 553,
+    "overall_quantity": 3019
   },
   "857": {
     "id": 857,
@@ -5164,12 +5164,12 @@
     "name": "Magic shortbow",
     "members": true,
     "sp": 1600,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 886,
+    "buy_quantity": 3,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 886,
+    "overall_quantity": 3
   },
   "863": {
     "id": 863,
@@ -5238,10 +5238,10 @@
     "sp": 167,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 305,
+    "sell_quantity": 28,
+    "overall_average": 305,
+    "overall_quantity": 28
   },
   "869": {
     "id": 869,
@@ -5404,24 +5404,24 @@
     "name": "Bronze arrow",
     "members": false,
     "sp": 1,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 8,
+    "buy_quantity": 22,
     "sell_average": 5,
-    "sell_quantity": 50,
+    "sell_quantity": 4558,
     "overall_average": 5,
-    "overall_quantity": 50
+    "overall_quantity": 4580
   },
   "9075": {
     "id": 9075,
     "name": "Astral rune",
     "members": true,
     "sp": 50,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 135,
+    "buy_quantity": 4001,
+    "sell_average": 133,
+    "sell_quantity": 1,
+    "overall_average": 135,
+    "overall_quantity": 4002
   },
   "883": {
     "id": 883,
@@ -5440,12 +5440,12 @@
     "name": "Iron arrow",
     "members": false,
     "sp": 3,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 6,
+    "buy_quantity": 7301,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 6,
+    "overall_quantity": 7301
   },
   "885": {
     "id": 885,
@@ -5466,10 +5466,10 @@
     "sp": 12,
     "buy_average": 35,
     "buy_quantity": 75,
-    "sell_average": 0,
-    "sell_quantity": 0,
+    "sell_average": 35,
+    "sell_quantity": 1,
     "overall_average": 35,
-    "overall_quantity": 75
+    "overall_quantity": 76
   },
   "887": {
     "id": 887,
@@ -5512,12 +5512,12 @@
     "name": "Adamant arrow",
     "members": false,
     "sp": 80,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 57,
+    "buy_quantity": 1230,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 57,
+    "overall_quantity": 1230
   },
   "891": {
     "id": 891,
@@ -5536,12 +5536,12 @@
     "name": "Rune arrow",
     "members": true,
     "sp": 400,
-    "buy_average": 65,
-    "buy_quantity": 5017,
-    "sell_average": 65,
-    "sell_quantity": 1,
-    "overall_average": 65,
-    "overall_quantity": 5018
+    "buy_average": 62,
+    "buy_quantity": 44599,
+    "sell_average": 71,
+    "sell_quantity": 4461,
+    "overall_average": 63,
+    "overall_quantity": 49060
   },
   "893": {
     "id": 893,
@@ -5560,12 +5560,12 @@
     "name": "Knife",
     "members": false,
     "sp": 6,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 85,
+    "buy_quantity": 5,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 85,
+    "overall_quantity": 5
   },
   "948": {
     "id": 948,
@@ -5584,12 +5584,12 @@
     "name": "Iron bolts",
     "members": true,
     "sp": 2,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 25,
+    "buy_quantity": 100,
+    "sell_average": 23,
+    "sell_quantity": 100,
+    "overall_average": 24,
+    "overall_quantity": 200
   },
   "9141": {
     "id": 9141,
@@ -5620,12 +5620,12 @@
     "name": "Mithril bolts",
     "members": true,
     "sp": 20,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 82,
+    "buy_quantity": 100,
+    "sell_average": 70,
+    "sell_quantity": 2913,
+    "overall_average": 70,
+    "overall_quantity": 3013
   },
   "9143": {
     "id": 9143,
@@ -5634,22 +5634,22 @@
     "sp": 58,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 180,
+    "sell_quantity": 1589,
+    "overall_average": 180,
+    "overall_quantity": 1589
   },
   "952": {
     "id": 952,
     "name": "Spade",
     "members": false,
     "sp": 3,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 603,
+    "buy_quantity": 3,
+    "sell_average": 250,
+    "sell_quantity": 1,
+    "overall_average": 514,
+    "overall_quantity": 4
   },
   "9144": {
     "id": 9144,
@@ -5658,10 +5658,10 @@
     "sp": 300,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 404,
+    "sell_quantity": 706,
+    "overall_average": 404,
+    "overall_quantity": 706
   },
   "9145": {
     "id": 9145,
@@ -5680,12 +5680,12 @@
     "name": "Rope",
     "members": false,
     "sp": 18,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 59,
-    "sell_quantity": 3,
-    "overall_average": 59,
-    "overall_quantity": 3
+    "buy_average": 54,
+    "buy_quantity": 38,
+    "sell_average": 0,
+    "sell_quantity": 0,
+    "overall_average": 54,
+    "overall_quantity": 38
   },
   "958": {
     "id": 958,
@@ -5704,24 +5704,24 @@
     "name": "Plank",
     "members": false,
     "sp": 1,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 388,
+    "buy_quantity": 9,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 388,
+    "overall_quantity": 9
   },
   "962": {
     "id": 962,
     "name": "Christmas cracker",
     "members": false,
     "sp": 1,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 12381,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 12381,
+    "overall_quantity": 1
   },
   "970": {
     "id": 970,
@@ -5764,12 +5764,12 @@
     "name": "Disk of returning",
     "members": false,
     "sp": 120,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 12000,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 12000,
+    "overall_quantity": 1
   },
   "9174": {
     "id": 9174,
@@ -5802,10 +5802,10 @@
     "sp": 100,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 11000,
+    "sell_quantity": 1,
+    "overall_average": 11000,
+    "overall_quantity": 1
   },
   "9177": {
     "id": 9177,
@@ -5884,12 +5884,12 @@
     "name": "Adamant crossbow",
     "members": true,
     "sp": 1767,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 2073,
+    "buy_quantity": 1,
+    "sell_average": 2073,
+    "sell_quantity": 1,
+    "overall_average": 2073,
+    "overall_quantity": 2
   },
   "993": {
     "id": 993,
@@ -5910,10 +5910,10 @@
     "sp": 16200,
     "buy_average": 10085,
     "buy_quantity": 1,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 10085,
-    "overall_quantity": 1
+    "sell_average": 9700,
+    "sell_quantity": 3,
+    "overall_average": 9796,
+    "overall_quantity": 4
   },
   "9187": {
     "id": 9187,
@@ -5944,12 +5944,12 @@
     "name": "Sapphire bolt tips",
     "members": true,
     "sp": 17,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 25,
+    "buy_quantity": 100,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 25,
+    "overall_quantity": 100
   },
   "9190": {
     "id": 9190,
@@ -5994,10 +5994,10 @@
     "sp": 667,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 321,
-    "sell_quantity": 2508,
-    "overall_average": 321,
-    "overall_quantity": 2508
+    "sell_average": 319,
+    "sell_quantity": 3293,
+    "overall_average": 319,
+    "overall_quantity": 3293
   },
   "9194": {
     "id": 9194,
@@ -6006,10 +6006,10 @@
     "sp": 1000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 8240,
-    "sell_quantity": 214,
-    "overall_average": 8240,
-    "overall_quantity": 214
+    "sell_average": 8239,
+    "sell_quantity": 298,
+    "overall_average": 8239,
+    "overall_quantity": 298
   },
   "1005": {
     "id": 1005,
@@ -6328,12 +6328,12 @@
     "name": "Emerald bolts (e)",
     "members": true,
     "sp": 59,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 165,
+    "buy_quantity": 1000,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 165,
+    "overall_quantity": 1000
   },
   "1050": {
     "id": 1050,
@@ -6352,12 +6352,12 @@
     "name": "Ruby bolts (e)",
     "members": true,
     "sp": 138,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 177,
+    "buy_quantity": 100,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 177,
+    "overall_quantity": 100
   },
   "9243": {
     "id": 9243,
@@ -6366,22 +6366,22 @@
     "sp": 211,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 307,
+    "sell_quantity": 496,
+    "overall_average": 307,
+    "overall_quantity": 496
   },
   "9244": {
     "id": 9244,
     "name": "Dragonstone bolts (e)",
     "members": true,
     "sp": 1063,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 688,
+    "buy_quantity": 710,
+    "sell_average": 681,
+    "sell_quantity": 119,
+    "overall_average": 687,
+    "overall_quantity": 829
   },
   "1053": {
     "id": 1053,
@@ -6436,60 +6436,60 @@
     "name": "Leather gloves",
     "members": false,
     "sp": 6,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 6,
+    "buy_quantity": 4,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 6,
+    "overall_quantity": 4
   },
   "1061": {
     "id": 1061,
     "name": "Leather boots",
     "members": false,
     "sp": 6,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 20,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 20,
+    "overall_quantity": 1
   },
   "1063": {
     "id": 1063,
     "name": "Leather vambraces",
     "members": false,
     "sp": 18,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 15,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 15,
+    "overall_quantity": 1
   },
   "1065": {
     "id": 1065,
     "name": "Green d\u0027hide vambraces",
     "members": false,
     "sp": 2500,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 1350,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 1350,
+    "overall_quantity": 1
   },
   "1067": {
     "id": 1067,
     "name": "Iron platelegs",
     "members": false,
     "sp": 280,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 194,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 194,
+    "overall_quantity": 1
   },
   "1069": {
     "id": 1069,
@@ -6520,12 +6520,12 @@
     "name": "Adamant platelegs",
     "members": false,
     "sp": 6400,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 3565,
+    "buy_quantity": 126,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 3565,
+    "overall_quantity": 126
   },
   "1075": {
     "id": 1075,
@@ -6556,12 +6556,12 @@
     "name": "Rune platelegs",
     "members": false,
     "sp": 64000,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 37809,
-    "sell_quantity": 26,
-    "overall_average": 37809,
-    "overall_quantity": 26
+    "buy_average": 37939,
+    "buy_quantity": 1,
+    "sell_average": 37808,
+    "sell_quantity": 31,
+    "overall_average": 37812,
+    "overall_quantity": 32
   },
   "1081": {
     "id": 1081,
@@ -6642,34 +6642,34 @@
     "sp": 64000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 37950,
+    "sell_quantity": 1,
+    "overall_average": 37950,
+    "overall_quantity": 1
   },
   "9287": {
     "id": 9287,
     "name": "Iron bolts (p)",
     "members": true,
     "sp": 2,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 96,
+    "buy_quantity": 200,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 96,
+    "overall_quantity": 200
   },
   "1095": {
     "id": 1095,
     "name": "Leather chaps",
     "members": false,
     "sp": 20,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 11,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 11,
+    "overall_quantity": 1
   },
   "9288": {
     "id": 9288,
@@ -6736,12 +6736,12 @@
     "name": "Green d\u0027hide chaps",
     "members": false,
     "sp": 3900,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 2116,
+    "buy_quantity": 1,
+    "sell_average": 2080,
+    "sell_quantity": 1,
+    "overall_average": 2098,
+    "overall_quantity": 2
   },
   "9292": {
     "id": 9292,
@@ -6760,12 +6760,12 @@
     "name": "Iron chainbody",
     "members": false,
     "sp": 210,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 60,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 60,
+    "overall_quantity": 1
   },
   "9294": {
     "id": 9294,
@@ -6880,12 +6880,12 @@
     "name": "Mithril chainbody",
     "members": false,
     "sp": 1950,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 935,
+    "buy_quantity": 8,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 935,
+    "overall_quantity": 8
   },
   "9301": {
     "id": 9301,
@@ -6916,12 +6916,12 @@
     "name": "Adamant chainbody",
     "members": false,
     "sp": 4800,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 2638,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 2638,
+    "overall_quantity": 1
   },
   "9303": {
     "id": 9303,
@@ -6988,12 +6988,12 @@
     "name": "Iron platebody",
     "members": false,
     "sp": 560,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 151,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 151,
+    "overall_quantity": 1
   },
   "1117": {
     "id": 1117,
@@ -7012,12 +7012,12 @@
     "name": "Steel platebody",
     "members": false,
     "sp": 2000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 929,
+    "buy_quantity": 15,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 929,
+    "overall_quantity": 15
   },
   "1121": {
     "id": 1121,
@@ -7036,12 +7036,12 @@
     "name": "Adamant platebody",
     "members": false,
     "sp": 16640,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 9474,
+    "buy_quantity": 3,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 9474,
+    "overall_quantity": 3
   },
   "1125": {
     "id": 1125,
@@ -7062,46 +7062,46 @@
     "sp": 65000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 38650,
-    "sell_quantity": 12,
-    "overall_average": 38650,
-    "overall_quantity": 12
+    "sell_average": 38487,
+    "sell_quantity": 16,
+    "overall_average": 38487,
+    "overall_quantity": 16
   },
   "1129": {
     "id": 1129,
     "name": "Leather body",
     "members": false,
     "sp": 21,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 41,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 41,
+    "overall_quantity": 1
   },
   "1131": {
     "id": 1131,
     "name": "Hardleather body",
     "members": false,
     "sp": 170,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 15,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 15,
+    "overall_quantity": 1
   },
   "1133": {
     "id": 1133,
     "name": "Studded body",
     "members": false,
     "sp": 850,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 746,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 746,
+    "overall_quantity": 1
   },
   "1135": {
     "id": 1135,
@@ -7134,10 +7134,10 @@
     "sp": 24,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 79,
+    "sell_quantity": 3,
+    "overall_average": 79,
+    "overall_quantity": 3
   },
   "1141": {
     "id": 1141,
@@ -7194,10 +7194,10 @@
     "sp": 37,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 77,
+    "sell_quantity": 100,
+    "overall_average": 77,
+    "overall_quantity": 100
   },
   "9338": {
     "id": 9338,
@@ -7216,12 +7216,12 @@
     "name": "Rune med helm",
     "members": false,
     "sp": 19200,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 11023,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 11023,
+    "overall_quantity": 1
   },
   "9339": {
     "id": 9339,
@@ -7300,12 +7300,12 @@
     "name": "Iron full helm",
     "members": false,
     "sp": 154,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 19,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 19,
+    "overall_quantity": 1
   },
   "1155": {
     "id": 1155,
@@ -7348,24 +7348,24 @@
     "name": "Adamant full helm",
     "members": false,
     "sp": 3520,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 2080,
+    "buy_quantity": 2,
+    "sell_average": 1829,
+    "sell_quantity": 2,
+    "overall_average": 1954,
+    "overall_quantity": 4
   },
   "1163": {
     "id": 1163,
     "name": "Rune full helm",
     "members": false,
     "sp": 35200,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 20621,
-    "sell_quantity": 21,
-    "overall_average": 20621,
-    "overall_quantity": 21
+    "buy_average": 20621,
+    "buy_quantity": 70,
+    "sell_average": 20584,
+    "sell_quantity": 27,
+    "overall_average": 20610,
+    "overall_quantity": 97
   },
   "1165": {
     "id": 1165,
@@ -7480,12 +7480,12 @@
     "name": "Adamant sq shield",
     "members": false,
     "sp": 3840,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 2850,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 2850,
+    "overall_quantity": 1
   },
   "9375": {
     "id": 9375,
@@ -7612,24 +7612,24 @@
     "name": "Iron kiteshield",
     "members": false,
     "sp": 238,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 33,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 33,
+    "overall_quantity": 1
   },
   "1193": {
     "id": 1193,
     "name": "Steel kiteshield",
     "members": false,
     "sp": 850,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 449,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 449,
+    "overall_quantity": 1
   },
   "1195": {
     "id": 1195,
@@ -7650,22 +7650,22 @@
     "sp": 2210,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 1065,
+    "sell_quantity": 2,
+    "overall_average": 1065,
+    "overall_quantity": 2
   },
   "1199": {
     "id": 1199,
     "name": "Adamant kiteshield",
     "members": false,
     "sp": 5440,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 2984,
+    "buy_quantity": 97,
+    "sell_average": 2984,
+    "sell_quantity": 2,
+    "overall_average": 2984,
+    "overall_quantity": 99
   },
   "1201": {
     "id": 1201,
@@ -7674,22 +7674,22 @@
     "sp": 54400,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 31968,
-    "sell_quantity": 10,
-    "overall_average": 31968,
-    "overall_quantity": 10
+    "sell_average": 31942,
+    "sell_quantity": 16,
+    "overall_average": 31942,
+    "overall_quantity": 16
   },
   "1203": {
     "id": 1203,
     "name": "Iron dagger",
     "members": false,
     "sp": 35,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 31,
+    "buy_quantity": 1,
+    "sell_average": 20,
+    "sell_quantity": 5,
+    "overall_average": 21,
+    "overall_quantity": 6
   },
   "1205": {
     "id": 1205,
@@ -7698,10 +7698,10 @@
     "sp": 10,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 34,
+    "sell_quantity": 2,
+    "overall_average": 34,
+    "overall_quantity": 2
   },
   "1207": {
     "id": 1207,
@@ -7756,12 +7756,12 @@
     "name": "Dragon dagger",
     "members": true,
     "sp": 30000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 17500,
+    "buy_quantity": 64,
     "sell_average": 17500,
-    "sell_quantity": 13,
+    "sell_quantity": 19,
     "overall_average": 17500,
-    "overall_quantity": 13
+    "overall_quantity": 83
   },
   "1217": {
     "id": 1217,
@@ -8238,10 +8238,10 @@
     "sp": 167,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 251,
+    "sell_quantity": 1,
+    "overall_average": 251,
+    "overall_quantity": 1
   },
   "1261": {
     "id": 1261,
@@ -8332,12 +8332,12 @@
     "name": "Steel pickaxe",
     "members": false,
     "sp": 500,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 488,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 488,
+    "overall_quantity": 1
   },
   "9461": {
     "id": 9461,
@@ -8358,10 +8358,10 @@
     "sp": 3200,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 2267,
+    "sell_quantity": 1,
+    "overall_average": 2267,
+    "overall_quantity": 1
   },
   "9463": {
     "id": 9463,
@@ -8406,10 +8406,10 @@
     "sp": 32000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 18621,
+    "sell_quantity": 2,
+    "overall_average": 18621,
+    "overall_quantity": 2
   },
   "1277": {
     "id": 1277,
@@ -8490,10 +8490,10 @@
     "sp": 624,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 186,
+    "sell_quantity": 5,
+    "overall_average": 186,
+    "overall_quantity": 5
   },
   "9475": {
     "id": 9475,
@@ -8560,12 +8560,12 @@
     "name": "Iron longsword",
     "members": false,
     "sp": 140,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 66,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 66,
+    "overall_quantity": 1
   },
   "1295": {
     "id": 1295,
@@ -8634,10 +8634,10 @@
     "sp": 100000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 59401,
-    "sell_quantity": 3,
-    "overall_average": 59401,
-    "overall_quantity": 3
+    "sell_average": 59382,
+    "sell_quantity": 6,
+    "overall_average": 59382,
+    "overall_quantity": 6
   },
   "1307": {
     "id": 1307,
@@ -8704,12 +8704,12 @@
     "name": "Adamant 2h sword",
     "members": false,
     "sp": 6400,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 3558,
+    "buy_quantity": 24,
+    "sell_average": 3558,
+    "sell_quantity": 1,
+    "overall_average": 3558,
+    "overall_quantity": 25
   },
   "1319": {
     "id": 1319,
@@ -8740,72 +8740,72 @@
     "name": "Iron scimitar",
     "members": false,
     "sp": 112,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 67,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 67,
+    "overall_quantity": 1
   },
   "1325": {
     "id": 1325,
     "name": "Steel scimitar",
     "members": false,
     "sp": 400,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 92,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 92,
+    "overall_quantity": 1
   },
   "1327": {
     "id": 1327,
     "name": "Black scimitar",
     "members": false,
     "sp": 768,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 2627,
+    "buy_quantity": 2,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 2627,
+    "overall_quantity": 2
   },
   "1329": {
     "id": 1329,
     "name": "Mithril scimitar",
     "members": false,
     "sp": 1040,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 605,
+    "buy_quantity": 2,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 605,
+    "overall_quantity": 2
   },
   "1331": {
     "id": 1331,
     "name": "Adamant scimitar",
     "members": false,
     "sp": 2560,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 1450,
+    "buy_quantity": 1,
+    "sell_average": 1446,
+    "sell_quantity": 2,
+    "overall_average": 1447,
+    "overall_quantity": 3
   },
   "1333": {
     "id": 1333,
     "name": "Rune scimitar",
     "members": false,
     "sp": 25600,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 15088,
+    "buy_quantity": 4,
+    "sell_average": 15012,
+    "sell_quantity": 5,
+    "overall_average": 15045,
+    "overall_quantity": 9
   },
   "1335": {
     "id": 1335,
@@ -8886,10 +8886,10 @@
     "sp": 41500,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 24500,
-    "sell_quantity": 18,
-    "overall_average": 24500,
-    "overall_quantity": 18
+    "sell_average": 24600,
+    "sell_quantity": 20,
+    "overall_average": 24600,
+    "overall_quantity": 20
   },
   "1349": {
     "id": 1349,
@@ -8908,12 +8908,12 @@
     "name": "Bronze axe",
     "members": false,
     "sp": 16,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 11,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 11,
+    "overall_quantity": 1
   },
   "1353": {
     "id": 1353,
@@ -8934,34 +8934,34 @@
     "sp": 520,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 83,
+    "sell_quantity": 1,
+    "overall_average": 83,
+    "overall_quantity": 1
   },
   "1357": {
     "id": 1357,
     "name": "Adamant axe",
     "members": false,
     "sp": 1280,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 640,
+    "buy_quantity": 4,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 640,
+    "overall_quantity": 4
   },
   "1359": {
     "id": 1359,
     "name": "Rune axe",
     "members": false,
     "sp": 12800,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 7488,
+    "buy_quantity": 4,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 7488,
+    "overall_quantity": 4
   },
   "1361": {
     "id": 1361,
@@ -9042,10 +9042,10 @@
     "sp": 41600,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 24351,
+    "sell_quantity": 2,
+    "overall_average": 24351,
+    "overall_quantity": 2
   },
   "1375": {
     "id": 1375,
@@ -9066,10 +9066,10 @@
     "sp": 200000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 119286,
+    "sell_quantity": 1,
+    "overall_average": 119286,
+    "overall_quantity": 1
   },
   "1379": {
     "id": 1379,
@@ -9089,11 +9089,11 @@
     "members": false,
     "sp": 1500,
     "buy_average": 1704,
-    "buy_quantity": 1,
+    "buy_quantity": 3,
     "sell_average": 0,
     "sell_quantity": 0,
     "overall_average": 1704,
-    "overall_quantity": 1
+    "overall_quantity": 3
   },
   "1383": {
     "id": 1383,
@@ -9148,12 +9148,12 @@
     "name": "Battlestaff",
     "members": true,
     "sp": 7000,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 8204,
-    "sell_quantity": 168,
-    "overall_average": 8204,
-    "overall_quantity": 168
+    "buy_average": 8220,
+    "buy_quantity": 700,
+    "sell_average": 8207,
+    "sell_quantity": 547,
+    "overall_average": 8214,
+    "overall_quantity": 1247
   },
   "1393": {
     "id": 1393,
@@ -9186,10 +9186,10 @@
     "sp": 15500,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 8967,
+    "sell_quantity": 3,
+    "overall_average": 8967,
+    "overall_quantity": 3
   },
   "1399": {
     "id": 1399,
@@ -9198,10 +9198,10 @@
     "sp": 15500,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 8967,
+    "sell_quantity": 1,
+    "overall_average": 8967,
+    "overall_quantity": 1
   },
   "1401": {
     "id": 1401,
@@ -9376,24 +9376,24 @@
     "name": "Air talisman",
     "members": false,
     "sp": 4,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 58,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 58,
+    "overall_quantity": 1
   },
   "1440": {
     "id": 1440,
     "name": "Earth talisman",
     "members": false,
     "sp": 4,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 305,
+    "buy_quantity": 900,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 305,
+    "overall_quantity": 900
   },
   "1442": {
     "id": 1442,
@@ -9450,10 +9450,10 @@
     "sp": 4,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 3003,
+    "sell_quantity": 1,
+    "overall_average": 3003,
+    "overall_quantity": 1
   },
   "9638": {
     "id": 9638,
@@ -9678,10 +9678,10 @@
     "sp": 8000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 4440,
+    "sell_quantity": 1,
+    "overall_average": 4440,
+    "overall_quantity": 1
   },
   "9674": {
     "id": 9674,
@@ -9690,10 +9690,10 @@
     "sp": 12000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 12201,
+    "sell_quantity": 1,
+    "overall_average": 12201,
+    "overall_quantity": 1
   },
   "9676": {
     "id": 9676,
@@ -9724,36 +9724,36 @@
     "name": "Logs",
     "members": false,
     "sp": 4,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 115,
+    "buy_quantity": 2006,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 115,
+    "overall_quantity": 2006
   },
   "1513": {
     "id": 1513,
     "name": "Magic logs",
     "members": true,
     "sp": 320,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 1124,
-    "sell_quantity": 308,
-    "overall_average": 1124,
-    "overall_quantity": 308
+    "buy_average": 1118,
+    "buy_quantity": 1000,
+    "sell_average": 1114,
+    "sell_quantity": 1544,
+    "overall_average": 1116,
+    "overall_quantity": 2544
   },
   "1515": {
     "id": 1515,
     "name": "Yew logs",
     "members": false,
     "sp": 160,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 297,
+    "buy_quantity": 300,
     "sell_average": 294,
-    "sell_quantity": 1685,
+    "sell_quantity": 3941,
     "overall_average": 294,
-    "overall_quantity": 1685
+    "overall_quantity": 4241
   },
   "1517": {
     "id": 1517,
@@ -9762,10 +9762,10 @@
     "sp": 80,
     "buy_average": 8,
     "buy_quantity": 15000,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 8,
-    "overall_quantity": 15000
+    "sell_average": 7,
+    "sell_quantity": 10764,
+    "overall_average": 7,
+    "overall_quantity": 25764
   },
   "1519": {
     "id": 1519,
@@ -9774,22 +9774,22 @@
     "sp": 40,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 18,
+    "sell_quantity": 688,
+    "overall_average": 18,
+    "overall_quantity": 688
   },
   "1521": {
     "id": 1521,
     "name": "Oak logs",
     "members": false,
     "sp": 20,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 106,
+    "buy_quantity": 900,
+    "sell_average": 100,
+    "sell_quantity": 4358,
+    "overall_average": 101,
+    "overall_quantity": 5258
   },
   "1523": {
     "id": 1523,
@@ -10026,10 +10026,10 @@
     "sp": 2000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 1903,
+    "sell_quantity": 71,
+    "overall_average": 1903,
+    "overall_quantity": 71
   },
   "1603": {
     "id": 1603,
@@ -10050,10 +10050,10 @@
     "sp": 500,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 555,
+    "sell_quantity": 728,
+    "overall_average": 555,
+    "overall_quantity": 728
   },
   "1607": {
     "id": 1607,
@@ -10110,10 +10110,10 @@
     "sp": 10000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 11855,
+    "sell_quantity": 2,
+    "overall_average": 11855,
+    "overall_quantity": 2
   },
   "1617": {
     "id": 1617,
@@ -10122,10 +10122,10 @@
     "sp": 200,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 2595,
+    "sell_quantity": 150,
+    "overall_average": 2595,
+    "overall_quantity": 150
   },
   "1619": {
     "id": 1619,
@@ -10134,10 +10134,10 @@
     "sp": 100,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 1258,
+    "sell_quantity": 72,
+    "overall_average": 1258,
+    "overall_quantity": 72
   },
   "1621": {
     "id": 1621,
@@ -10146,10 +10146,10 @@
     "sp": 50,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 699,
+    "sell_quantity": 5,
+    "overall_average": 699,
+    "overall_quantity": 5
   },
   "1623": {
     "id": 1623,
@@ -10158,22 +10158,22 @@
     "sp": 25,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 461,
+    "sell_quantity": 6,
+    "overall_average": 461,
+    "overall_quantity": 6
   },
   "1625": {
     "id": 1625,
     "name": "Uncut opal",
     "members": true,
     "sp": 20,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 140,
+    "buy_quantity": 1117,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 140,
+    "overall_quantity": 1117
   },
   "1627": {
     "id": 1627,
@@ -10206,22 +10206,22 @@
     "sp": 1000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 13045,
-    "sell_quantity": 37,
-    "overall_average": 13045,
-    "overall_quantity": 37
+    "sell_average": 13037,
+    "sell_quantity": 72,
+    "overall_average": 13037,
+    "overall_quantity": 72
   },
   "1635": {
     "id": 1635,
     "name": "Gold ring",
     "members": false,
     "sp": 350,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 101,
+    "buy_quantity": 1,
+    "sell_average": 101,
+    "sell_quantity": 2,
+    "overall_average": 101,
+    "overall_quantity": 3
   },
   "1637": {
     "id": 1637,
@@ -10432,12 +10432,12 @@
     "name": "Ruby necklace",
     "members": false,
     "sp": 2175,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 1149,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 1149,
+    "overall_quantity": 1
   },
   "9852": {
     "id": 9852,
@@ -10734,10 +10734,10 @@
     "sp": 350,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 157,
+    "sell_quantity": 1,
+    "overall_average": 157,
+    "overall_quantity": 1
   },
   "1694": {
     "id": 1694,
@@ -10806,10 +10806,10 @@
     "sp": 17625,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 12254,
+    "sell_quantity": 14,
+    "overall_average": 12254,
+    "overall_quantity": 14
   },
   "1712": {
     "id": 1712,
@@ -10852,12 +10852,12 @@
     "name": "Holy symbol",
     "members": false,
     "sp": 300,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 393,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 393,
+    "overall_quantity": 1
   },
   "1720": {
     "id": 1720,
@@ -10900,48 +10900,48 @@
     "name": "Amulet of strength",
     "members": false,
     "sp": 2025,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 1508,
+    "buy_quantity": 251,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 1508,
+    "overall_quantity": 251
   },
   "1727": {
     "id": 1727,
     "name": "Amulet of magic",
     "members": false,
     "sp": 900,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 619,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 619,
+    "overall_quantity": 1
   },
   "1729": {
     "id": 1729,
     "name": "Amulet of defence",
     "members": false,
     "sp": 1275,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 1016,
+    "buy_quantity": 250,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 1016,
+    "overall_quantity": 250
   },
   "1731": {
     "id": 1731,
     "name": "Amulet of power",
     "members": false,
     "sp": 3525,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 2430,
+    "buy_quantity": 250,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 2430,
+    "overall_quantity": 250
   },
   "1733": {
     "id": 1733,
@@ -10960,12 +10960,12 @@
     "name": "Thread",
     "members": false,
     "sp": 1,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 8,
+    "buy_quantity": 469,
+    "sell_average": 7,
+    "sell_quantity": 936,
+    "overall_average": 7,
+    "overall_quantity": 1405
   },
   "1735": {
     "id": 1735,
@@ -11008,12 +11008,12 @@
     "name": "Leather",
     "members": false,
     "sp": 1,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 207,
-    "sell_quantity": 44,
-    "overall_average": 207,
-    "overall_quantity": 44
+    "buy_average": 207,
+    "buy_quantity": 469,
+    "sell_average": 202,
+    "sell_quantity": 199,
+    "overall_average": 205,
+    "overall_quantity": 668
   },
   "1743": {
     "id": 1743,
@@ -11022,10 +11022,10 @@
     "sp": 1,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 217,
+    "sell_quantity": 34,
+    "overall_average": 217,
+    "overall_quantity": 34
   },
   "1745": {
     "id": 1745,
@@ -11044,24 +11044,24 @@
     "name": "Black dragonhide",
     "members": true,
     "sp": 150,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 2899,
-    "sell_quantity": 738,
-    "overall_average": 2899,
-    "overall_quantity": 738
+    "buy_average": 2902,
+    "buy_quantity": 2257,
+    "sell_average": 2898,
+    "sell_quantity": 890,
+    "overall_average": 2901,
+    "overall_quantity": 3147
   },
   "1749": {
     "id": 1749,
     "name": "Red dragonhide",
     "members": true,
     "sp": 145,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 2241,
+    "buy_quantity": 1100,
+    "sell_average": 2236,
+    "sell_quantity": 26,
+    "overall_average": 2241,
+    "overall_quantity": 1126
   },
   "1751": {
     "id": 1751,
@@ -11070,10 +11070,10 @@
     "sp": 140,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 1762,
+    "sell_quantity": 12,
+    "overall_average": 1762,
+    "overall_quantity": 12
   },
   "1753": {
     "id": 1753,
@@ -11082,22 +11082,22 @@
     "sp": 135,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 1422,
+    "sell_quantity": 209,
+    "overall_average": 1422,
+    "overall_quantity": 209
   },
   "1755": {
     "id": 1755,
     "name": "Chisel",
     "members": false,
     "sp": 1,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 85,
+    "buy_quantity": 11,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 85,
+    "overall_quantity": 11
   },
   "1757": {
     "id": 1757,
@@ -11117,11 +11117,11 @@
     "members": false,
     "sp": 2,
     "buy_average": 45,
-    "buy_quantity": 12,
+    "buy_quantity": 51,
     "sell_average": 0,
     "sell_quantity": 0,
     "overall_average": 45,
-    "overall_quantity": 12
+    "overall_quantity": 51
   },
   "1761": {
     "id": 1761,
@@ -11152,12 +11152,12 @@
     "name": "Yellow dye",
     "members": false,
     "sp": 5,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 247,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 247,
+    "overall_quantity": 1
   },
   "1767": {
     "id": 1767,
@@ -11212,36 +11212,36 @@
     "name": "Molten glass",
     "members": true,
     "sp": 3,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 132,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 132,
+    "overall_quantity": 1
   },
   "1777": {
     "id": 1777,
     "name": "Bow string",
     "members": true,
     "sp": 10,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 125,
+    "buy_quantity": 837,
+    "sell_average": 122,
+    "sell_quantity": 8201,
+    "overall_average": 123,
+    "overall_quantity": 9038
   },
   "1779": {
     "id": 1779,
     "name": "Flax",
     "members": true,
     "sp": 5,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 5,
+    "buy_quantity": 27500,
+    "sell_average": 4,
+    "sell_quantity": 772,
+    "overall_average": 4,
+    "overall_quantity": 28272
   },
   "1781": {
     "id": 1781,
@@ -11668,12 +11668,12 @@
     "name": "Red chinchompa",
     "members": true,
     "sp": 160,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 1340,
+    "buy_quantity": 1,
+    "sell_average": 1336,
+    "sell_quantity": 1,
+    "overall_average": 1338,
+    "overall_quantity": 2
   },
   "10035": {
     "id": 10035,
@@ -12064,12 +12064,12 @@
     "name": "Spiky vambraces",
     "members": true,
     "sp": 160,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 494,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 494,
+    "overall_quantity": 1
   },
   "1887": {
     "id": 1887,
@@ -12330,22 +12330,22 @@
     "sp": 160,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 1298,
+    "sell_quantity": 1,
+    "overall_average": 1298,
+    "overall_quantity": 1
   },
   "1913": {
     "id": 1913,
     "name": "Dwarven stout",
     "members": false,
     "sp": 2,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 60,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 60,
+    "overall_quantity": 1
   },
   "10105": {
     "id": 10105,
@@ -12402,22 +12402,22 @@
     "sp": 160,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 2961,
+    "sell_quantity": 2,
+    "overall_average": 2961,
+    "overall_quantity": 2
   },
   "1919": {
     "id": 1919,
     "name": "Beer glass",
     "members": false,
     "sp": 2,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 47,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 47,
+    "overall_quantity": 1
   },
   "10111": {
     "id": 10111,
@@ -12508,12 +12508,12 @@
     "name": "Bucket of milk",
     "members": false,
     "sp": 6,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 36,
+    "buy_quantity": 10,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 36,
+    "overall_quantity": 10
   },
   "10119": {
     "id": 10119,
@@ -12557,11 +12557,11 @@
     "members": false,
     "sp": 1,
     "buy_average": 5,
-    "buy_quantity": 1,
+    "buy_quantity": 6,
     "sell_average": 0,
     "sell_quantity": 0,
     "overall_average": 5,
-    "overall_quantity": 1
+    "overall_quantity": 6
   },
   "10123": {
     "id": 10123,
@@ -12630,10 +12630,10 @@
     "sp": 1,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 48,
+    "sell_quantity": 1,
+    "overall_average": 48,
+    "overall_quantity": 1
   },
   "10129": {
     "id": 10129,
@@ -12652,36 +12652,36 @@
     "name": "Swamp tar",
     "members": true,
     "sp": 1,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 14,
+    "buy_quantity": 2,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 14,
+    "overall_quantity": 2
   },
   "10132": {
     "id": 10132,
     "name": "Strung rabbit foot",
     "members": true,
     "sp": 30,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 1501,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 1501,
+    "overall_quantity": 1
   },
   "1941": {
     "id": 1941,
     "name": "Swamp paste",
     "members": true,
     "sp": 30,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 70,
+    "buy_quantity": 10,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 70,
+    "overall_quantity": 10
   },
   "1942": {
     "id": 1942,
@@ -12714,10 +12714,10 @@
     "sp": 4,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 24,
+    "sell_quantity": 1,
+    "overall_average": 24,
+    "overall_quantity": 1
   },
   "10136": {
     "id": 10136,
@@ -12786,10 +12786,10 @@
     "sp": 3,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 65,
+    "sell_quantity": 1,
+    "overall_average": 65,
+    "overall_quantity": 1
   },
   "10143": {
     "id": 10143,
@@ -12820,12 +12820,12 @@
     "name": "Pastry dough",
     "members": false,
     "sp": 1,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 307,
+    "buy_quantity": 1,
+    "sell_average": 293,
+    "sell_quantity": 1,
+    "overall_average": 300,
+    "overall_quantity": 2
   },
   "10145": {
     "id": 10145,
@@ -12940,12 +12940,12 @@
     "name": "Easter egg",
     "members": false,
     "sp": 10,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 1451,
+    "buy_quantity": 3,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 1451,
+    "overall_quantity": 3
   },
   "1963": {
     "id": 1963,
@@ -12976,12 +12976,12 @@
     "name": "Cabbage",
     "members": false,
     "sp": 1,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 42,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 42,
+    "overall_quantity": 1
   },
   "10158": {
     "id": 10158,
@@ -13024,12 +13024,12 @@
     "name": "Kebab",
     "members": false,
     "sp": 3,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 30,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 30,
+    "overall_quantity": 1
   },
   "1973": {
     "id": 1973,
@@ -13038,10 +13038,10 @@
     "sp": 10,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 51,
+    "sell_quantity": 1,
+    "overall_average": 51,
+    "overall_quantity": 1
   },
   "1975": {
     "id": 1975,
@@ -13108,12 +13108,12 @@
     "name": "Grapes",
     "members": false,
     "sp": 1,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 66,
+    "buy_quantity": 17708,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 66,
+    "overall_quantity": 17708
   },
   "1989": {
     "id": 1989,
@@ -13134,10 +13134,10 @@
     "sp": 1,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 3,
+    "sell_quantity": 3,
+    "overall_average": 3,
+    "overall_quantity": 3
   },
   "2003": {
     "id": 2003,
@@ -13878,10 +13878,10 @@
     "sp": 1,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 49,
+    "sell_quantity": 4,
+    "overall_average": 49,
+    "overall_quantity": 4
   },
   "10324": {
     "id": 10324,
@@ -14356,12 +14356,12 @@
     "name": "Guthix d\u0027hide body",
     "members": true,
     "sp": 13000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 314777,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 314777,
+    "overall_quantity": 1
   },
   "2187": {
     "id": 2187,
@@ -14430,10 +14430,10 @@
     "sp": 13000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 749777,
+    "sell_quantity": 1,
+    "overall_average": 749777,
+    "overall_quantity": 1
   },
   "2195": {
     "id": 2195,
@@ -15054,10 +15054,10 @@
     "sp": 2000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 10171,
+    "sell_quantity": 1,
+    "overall_average": 10171,
+    "overall_quantity": 1
   },
   "10450": {
     "id": 10450,
@@ -15268,12 +15268,12 @@
     "name": "Purple sweets",
     "members": true,
     "sp": 15,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 5851,
+    "buy_quantity": 1000,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 5851,
+    "overall_quantity": 1000
   },
   "2289": {
     "id": 2289,
@@ -15376,12 +15376,12 @@
     "name": "Pie shell",
     "members": false,
     "sp": 4,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 499,
+    "buy_quantity": 1,
+    "sell_average": 481,
+    "sell_quantity": 1001,
+    "overall_average": 482,
+    "overall_quantity": 1002
   },
   "2317": {
     "id": 2317,
@@ -15426,10 +15426,10 @@
     "sp": 30,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 187,
+    "sell_quantity": 1,
+    "overall_average": 187,
+    "overall_quantity": 1
   },
   "2325": {
     "id": 2325,
@@ -15510,10 +15510,10 @@
     "sp": 8,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 216,
+    "sell_quantity": 503,
+    "overall_average": 216,
+    "overall_quantity": 503
   },
   "2351": {
     "id": 2351,
@@ -15532,12 +15532,12 @@
     "name": "Steel bar",
     "members": false,
     "sp": 100,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 498,
+    "buy_quantity": 3372,
+    "sell_average": 495,
+    "sell_quantity": 5194,
+    "overall_average": 496,
+    "overall_quantity": 8566
   },
   "2355": {
     "id": 2355,
@@ -15570,10 +15570,10 @@
     "sp": 300,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 640,
+    "sell_quantity": 3060,
+    "overall_average": 640,
+    "overall_quantity": 3060
   },
   "2361": {
     "id": 2361,
@@ -15582,22 +15582,22 @@
     "sp": 640,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 1960,
-    "sell_quantity": 641,
-    "overall_average": 1960,
-    "overall_quantity": 641
+    "sell_average": 1956,
+    "sell_quantity": 1534,
+    "overall_average": 1956,
+    "overall_quantity": 1534
   },
   "2363": {
     "id": 2363,
     "name": "Runite bar",
     "members": false,
     "sp": 5000,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 12391,
-    "sell_quantity": 179,
-    "overall_average": 12391,
-    "overall_quantity": 179
+    "buy_average": 12370,
+    "buy_quantity": 24,
+    "sell_average": 12377,
+    "sell_quantity": 321,
+    "overall_average": 12376,
+    "overall_quantity": 345
   },
   "2366": {
     "id": 2366,
@@ -15700,24 +15700,24 @@
     "name": "Prayer potion(4)",
     "members": true,
     "sp": 190,
-    "buy_average": 9950,
-    "buy_quantity": 2,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 9950,
-    "overall_quantity": 2
+    "buy_average": 9943,
+    "buy_quantity": 89,
+    "sell_average": 9917,
+    "sell_quantity": 1,
+    "overall_average": 9943,
+    "overall_quantity": 90
   },
   "2436": {
     "id": 2436,
     "name": "Super attack(4)",
     "members": true,
     "sp": 225,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 200,
+    "buy_quantity": 20,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 200,
+    "overall_quantity": 20
   },
   "2438": {
     "id": 2438,
@@ -15736,24 +15736,24 @@
     "name": "Super strength(4)",
     "members": true,
     "sp": 275,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 1425,
+    "buy_quantity": 20,
+    "sell_average": 1402,
+    "sell_quantity": 2,
+    "overall_average": 1422,
+    "overall_quantity": 22
   },
   "2442": {
     "id": 2442,
     "name": "Super defence(4)",
     "members": true,
     "sp": 330,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 650,
+    "buy_quantity": 20,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 650,
+    "overall_quantity": 20
   },
   "2444": {
     "id": 2444,
@@ -15990,22 +15990,22 @@
     "sp": 23,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 1350,
+    "sell_quantity": 38,
+    "overall_average": 1350,
+    "overall_quantity": 38
   },
   "2487": {
     "id": 2487,
     "name": "Blue d\u0027hide vambraces",
     "members": true,
     "sp": 3000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 1531,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 1531,
+    "overall_quantity": 1
   },
   "2489": {
     "id": 2489,
@@ -16026,10 +16026,10 @@
     "sp": 4320,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 2654,
+    "sell_quantity": 1,
+    "overall_average": 2654,
+    "overall_quantity": 1
   },
   "2493": {
     "id": 2493,
@@ -16050,10 +16050,10 @@
     "sp": 5180,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 2748,
+    "sell_quantity": 13,
+    "overall_average": 2748,
+    "overall_quantity": 13
   },
   "2497": {
     "id": 2497,
@@ -16096,12 +16096,12 @@
     "name": "Black d\u0027hide body",
     "members": true,
     "sp": 13480,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 7600,
+    "buy_quantity": 2,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 7600,
+    "overall_quantity": 2
   },
   "2505": {
     "id": 2505,
@@ -16204,12 +16204,12 @@
     "name": "Ring of dueling(8)",
     "members": true,
     "sp": 1275,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 875,
+    "buy_quantity": 78,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 875,
+    "overall_quantity": 78
   },
   "2568": {
     "id": 2568,
@@ -16240,12 +16240,12 @@
     "name": "Ring of wealth",
     "members": true,
     "sp": 17625,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 12049,
+    "buy_quantity": 552,
+    "sell_average": 11990,
+    "sell_quantity": 12,
+    "overall_average": 12047,
+    "overall_quantity": 564
   },
   "2577": {
     "id": 2577,
@@ -16984,12 +16984,12 @@
     "name": "Wooden cat",
     "members": true,
     "sp": 1,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 3477,
+    "buy_quantity": 10,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 3477,
+    "overall_quantity": 10
   },
   "10925": {
     "id": 10925,
@@ -17068,24 +17068,24 @@
     "name": "Frog-leather body",
     "members": true,
     "sp": 1000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 855,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 855,
+    "overall_quantity": 1
   },
   "10956": {
     "id": 10956,
     "name": "Frog-leather chaps",
     "members": true,
     "sp": 900,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 282,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 282,
+    "overall_quantity": 1
   },
   "10958": {
     "id": 10958,
@@ -17598,10 +17598,10 @@
     "sp": 20200,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 12505,
+    "sell_quantity": 1,
+    "overall_average": 12505,
+    "overall_quantity": 1
   },
   "2922": {
     "id": 2922,
@@ -17718,10 +17718,10 @@
     "sp": 21040,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 12280,
+    "sell_quantity": 5,
+    "overall_average": 12280,
+    "overall_quantity": 5
   },
   "2936": {
     "id": 2936,
@@ -17788,12 +17788,12 @@
     "name": "Regen bracelet",
     "members": true,
     "sp": 202000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 2139999,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 2139999,
+    "overall_quantity": 1
   },
   "2942": {
     "id": 2942,
@@ -17898,10 +17898,10 @@
     "sp": 48,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 1781,
+    "sell_quantity": 101,
+    "overall_average": 1781,
+    "overall_quantity": 101
   },
   "3000": {
     "id": 3000,
@@ -18076,24 +18076,24 @@
     "name": "Super restore(4)",
     "members": true,
     "sp": 300,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 10480,
-    "sell_quantity": 187,
-    "overall_average": 10480,
-    "overall_quantity": 187
+    "buy_average": 10599,
+    "buy_quantity": 130,
+    "sell_average": 10484,
+    "sell_quantity": 235,
+    "overall_average": 10525,
+    "overall_quantity": 365
   },
   "3026": {
     "id": 3026,
     "name": "Super restore(3)",
     "members": true,
     "sp": 240,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 7893,
+    "buy_quantity": 4,
+    "sell_average": 7879,
+    "sell_quantity": 2,
+    "overall_average": 7888,
+    "overall_quantity": 6
   },
   "3028": {
     "id": 3028,
@@ -18186,10 +18186,10 @@
     "sp": 800,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 1550,
+    "sell_quantity": 176,
+    "overall_average": 1550,
+    "overall_quantity": 176
   },
   "3038": {
     "id": 3038,
@@ -18208,12 +18208,12 @@
     "name": "Dragon dart",
     "members": true,
     "sp": 500,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 3390,
+    "buy_quantity": 500,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 3390,
+    "overall_quantity": 500
   },
   "11231": {
     "id": 11231,
@@ -18246,10 +18246,10 @@
     "sp": 250,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 3220,
+    "sell_quantity": 290,
+    "overall_average": 3220,
+    "overall_quantity": 290
   },
   "11233": {
     "id": 11233,
@@ -18294,10 +18294,10 @@
     "sp": 120002,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 422905,
+    "sell_quantity": 1,
+    "overall_average": 422905,
+    "overall_quantity": 1
   },
   "3044": {
     "id": 3044,
@@ -18318,10 +18318,10 @@
     "sp": 500,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 680,
+    "sell_quantity": 22,
+    "overall_average": 680,
+    "overall_quantity": 22
   },
   "3046": {
     "id": 3046,
@@ -18342,10 +18342,10 @@
     "sp": 50,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 2257,
+    "sell_quantity": 12,
+    "overall_average": 2257,
+    "overall_quantity": 12
   },
   "11240": {
     "id": 11240,
@@ -18354,10 +18354,10 @@
     "sp": 50,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 2381,
+    "sell_quantity": 8,
+    "overall_average": 2381,
+    "overall_quantity": 8
   },
   "3049": {
     "id": 3049,
@@ -18378,10 +18378,10 @@
     "sp": 50,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 2391,
+    "sell_quantity": 9,
+    "overall_average": 2391,
+    "overall_quantity": 9
   },
   "3051": {
     "id": 3051,
@@ -18390,10 +18390,10 @@
     "sp": 21,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 8811,
+    "sell_quantity": 55,
+    "overall_average": 8811,
+    "overall_quantity": 55
   },
   "11244": {
     "id": 11244,
@@ -18402,10 +18402,10 @@
     "sp": 50,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 2302,
+    "sell_quantity": 8,
+    "overall_average": 2302,
+    "overall_quantity": 8
   },
   "3053": {
     "id": 3053,
@@ -18438,10 +18438,10 @@
     "sp": 50,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 2221,
+    "sell_quantity": 18,
+    "overall_average": 2221,
+    "overall_quantity": 18
   },
   "11248": {
     "id": 11248,
@@ -18450,10 +18450,10 @@
     "sp": 50,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 3025,
+    "sell_quantity": 1528,
+    "overall_average": 3025,
+    "overall_quantity": 1528
   },
   "11250": {
     "id": 11250,
@@ -18462,10 +18462,10 @@
     "sp": 50,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 3730,
+    "sell_quantity": 112,
+    "overall_average": 3730,
+    "overall_quantity": 112
   },
   "11252": {
     "id": 11252,
@@ -18474,10 +18474,10 @@
     "sp": 50,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 17410,
+    "sell_quantity": 131,
+    "overall_average": 17410,
+    "overall_quantity": 131
   },
   "11254": {
     "id": 11254,
@@ -18486,10 +18486,10 @@
     "sp": 50,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 28002,
+    "sell_quantity": 46,
+    "overall_average": 28002,
+    "overall_quantity": 46
   },
   "11256": {
     "id": 11256,
@@ -18508,12 +18508,12 @@
     "name": "Impling jar",
     "members": true,
     "sp": 1,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 1107,
+    "buy_quantity": 1600,
+    "sell_average": 1096,
+    "sell_quantity": 1000,
+    "overall_average": 1103,
+    "overall_quantity": 2600
   },
   "11280": {
     "id": 11280,
@@ -18532,12 +18532,12 @@
     "name": "Dragonfire shield",
     "members": true,
     "sp": 2000000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 4784000,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 4784000,
+    "overall_quantity": 1
   },
   "3093": {
     "id": 3093,
@@ -18628,12 +18628,12 @@
     "name": "Heavy ballista",
     "members": true,
     "sp": 950000,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 580000,
+    "buy_quantity": 1,
+    "sell_average": 571000,
+    "sell_quantity": 1,
+    "overall_average": 575500,
+    "overall_quantity": 2
   },
   "3098": {
     "id": 3098,
@@ -18724,12 +18724,12 @@
     "name": "Climbing boots",
     "members": true,
     "sp": 12,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 644,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 644,
+    "overall_quantity": 1
   },
   "19490": {
     "id": 19490,
@@ -18858,10 +18858,10 @@
     "sp": 2,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 4,
+    "sell_quantity": 10,
+    "overall_average": 4,
+    "overall_quantity": 10
   },
   "3138": {
     "id": 3138,
@@ -18870,10 +18870,10 @@
     "sp": 1,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 702,
+    "sell_quantity": 11,
+    "overall_average": 702,
+    "overall_quantity": 11
   },
   "11330": {
     "id": 11330,
@@ -19072,12 +19072,12 @@
     "name": "Necklace of anguish",
     "members": true,
     "sp": 202000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 17790000,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 17790000,
+    "overall_quantity": 1
   },
   "19550": {
     "id": 19550,
@@ -19096,12 +19096,12 @@
     "name": "Amulet of torture",
     "members": true,
     "sp": 202000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 17779997,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 17779997,
+    "overall_quantity": 1
   },
   "11367": {
     "id": 11367,
@@ -19552,12 +19552,12 @@
     "name": "Limestone",
     "members": true,
     "sp": 10,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 247,
+    "buy_quantity": 4,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 247,
+    "overall_quantity": 4
   },
   "11403": {
     "id": 11403,
@@ -19756,12 +19756,12 @@
     "name": "Cooked rabbit",
     "members": true,
     "sp": 4,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 276,
+    "buy_quantity": 4,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 276,
+    "overall_quantity": 4
   },
   "19613": {
     "id": 19613,
@@ -19828,12 +19828,12 @@
     "name": "Fenkenstrain\u0027s castle teleport",
     "members": true,
     "sp": 1,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 2099,
+    "buy_quantity": 4,
+    "sell_average": 2007,
+    "sell_quantity": 9,
+    "overall_average": 2035,
+    "overall_quantity": 13
   },
   "3239": {
     "id": 3239,
@@ -21366,10 +21366,10 @@
     "sp": 64000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 37700,
+    "sell_quantity": 1,
+    "overall_average": 37700,
+    "overall_quantity": 1
   },
   "3479": {
     "id": 3479,
@@ -21508,12 +21508,12 @@
     "name": "Bandos d\u0027hide boots",
     "members": true,
     "sp": 9300,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 906170,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 906170,
+    "overall_quantity": 1
   },
   "19927": {
     "id": 19927,
@@ -21532,12 +21532,12 @@
     "name": "Armadyl d\u0027hide boots",
     "members": true,
     "sp": 9300,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 1399962,
+    "buy_quantity": 3,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 1399962,
+    "overall_quantity": 3
   },
   "19933": {
     "id": 19933,
@@ -21714,10 +21714,10 @@
     "sp": 990000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 27462999,
+    "sell_quantity": 1,
+    "overall_average": 27462999,
+    "overall_quantity": 1
   },
   "11787": {
     "id": 11787,
@@ -21832,12 +21832,12 @@
     "name": "Armadyl godsword",
     "members": true,
     "sp": 1250000,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 10207500,
+    "buy_quantity": 2,
+    "sell_average": 10215500,
+    "sell_quantity": 2,
+    "overall_average": 10211500,
+    "overall_quantity": 4
   },
   "19994": {
     "id": 19994,
@@ -21880,12 +21880,12 @@
     "name": "Saradomin godsword",
     "members": true,
     "sp": 1250000,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 34950000,
+    "buy_quantity": 1,
+    "sell_average": 34744000,
+    "sell_quantity": 1,
+    "overall_average": 34847000,
+    "overall_quantity": 2
   },
   "11808": {
     "id": 11808,
@@ -21930,10 +21930,10 @@
     "sp": 500000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 12411000,
+    "sell_quantity": 1,
+    "overall_average": 12411000,
+    "overall_quantity": 1
   },
   "20005": {
     "id": 20005,
@@ -22168,12 +22168,12 @@
     "name": "Bandos boots",
     "members": true,
     "sp": 289010,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 192000,
+    "buy_quantity": 1,
+    "sell_average": 184000,
+    "sell_quantity": 1,
+    "overall_average": 188000,
+    "overall_quantity": 2
   },
   "20029": {
     "id": 20029,
@@ -22192,24 +22192,24 @@
     "name": "Saradomin sword",
     "members": true,
     "sp": 130000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 532111,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 532111,
+    "overall_quantity": 1
   },
   "11840": {
     "id": 11840,
     "name": "Dragon boots",
     "members": true,
     "sp": 20000,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 349305,
+    "buy_quantity": 2,
+    "sell_average": 346509,
+    "sell_quantity": 2,
+    "overall_average": 347907,
+    "overall_quantity": 4
   },
   "20032": {
     "id": 20032,
@@ -22384,12 +22384,12 @@
     "name": "Broad bolts",
     "members": true,
     "sp": 55,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 62,
+    "buy_quantity": 2240,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 62,
+    "overall_quantity": 2240
   },
   "11876": {
     "id": 11876,
@@ -22636,12 +22636,12 @@
     "name": "Dragon pickaxe",
     "members": true,
     "sp": 97950,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 5622330,
+    "buy_quantity": 1,
     "sell_average": 5622332,
     "sell_quantity": 1,
-    "overall_average": 5622332,
-    "overall_quantity": 1
+    "overall_average": 5622331,
+    "overall_quantity": 2
   },
   "20113": {
     "id": 20113,
@@ -22864,12 +22864,12 @@
     "name": "Archer helm",
     "members": true,
     "sp": 60000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 40399,
+    "buy_quantity": 3,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 40399,
+    "overall_quantity": 3
   },
   "20134": {
     "id": 20134,
@@ -22888,12 +22888,12 @@
     "name": "Berserker helm",
     "members": true,
     "sp": 60000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 52483,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 52483,
+    "overall_quantity": 1
   },
   "11943": {
     "id": 11943,
@@ -22972,12 +22972,12 @@
     "name": "Extended antifire(4)",
     "members": true,
     "sp": 440,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 759,
+    "buy_quantity": 3,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 759,
+    "overall_quantity": 3
   },
   "20143": {
     "id": 20143,
@@ -23106,10 +23106,10 @@
     "sp": 240,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 3027,
+    "sell_quantity": 20,
+    "overall_average": 3027,
+    "overall_quantity": 20
   },
   "11960": {
     "id": 11960,
@@ -23284,12 +23284,12 @@
     "name": "Combat bracelet(6)",
     "members": true,
     "sp": 21040,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 12534,
+    "buy_quantity": 4,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 12534,
+    "overall_quantity": 4
   },
   "3781": {
     "id": 3781,
@@ -23356,12 +23356,12 @@
     "name": "Amulet of glory(6)",
     "members": true,
     "sp": 17625,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 12984,
+    "buy_quantity": 58,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 12984,
+    "overall_quantity": 58
   },
   "3787": {
     "id": 3787,
@@ -23380,12 +23380,12 @@
     "name": "Ring of wealth (5)",
     "members": true,
     "sp": 17625,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 12997,
+    "buy_quantity": 22,
+    "sell_average": 12915,
+    "sell_quantity": 11,
+    "overall_average": 12969,
+    "overall_quantity": 33
   },
   "20172": {
     "id": 20172,
@@ -23596,12 +23596,12 @@
     "name": "Smoke battlestaff",
     "members": true,
     "sp": 15500,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 1998989,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 1998989,
+    "overall_quantity": 1
   },
   "20190": {
     "id": 20190,
@@ -23992,12 +23992,12 @@
     "name": "Games necklace(8)",
     "members": true,
     "sp": 1050,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 817,
+    "buy_quantity": 55,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 817,
+    "overall_quantity": 55
   },
   "20238": {
     "id": 20238,
@@ -24232,12 +24232,12 @@
     "name": "Ancient cloak",
     "members": true,
     "sp": 2000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 14382,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 14382,
+    "overall_quantity": 1
   },
   "12199": {
     "id": 12199,
@@ -24678,10 +24678,10 @@
     "sp": 2500,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 4549,
+    "sell_quantity": 1,
+    "overall_average": 4549,
+    "overall_quantity": 1
   },
   "12259": {
     "id": 12259,
@@ -24810,10 +24810,10 @@
     "sp": 270000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 161241,
-    "sell_quantity": 4,
-    "overall_average": 161241,
-    "overall_quantity": 4
+    "sell_average": 161253,
+    "sell_quantity": 6,
+    "overall_average": 161253,
+    "overall_quantity": 6
   },
   "12279": {
     "id": 12279,
@@ -25314,10 +25314,10 @@
     "sp": 1920,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 1099,
+    "sell_quantity": 1,
+    "overall_average": 1099,
+    "overall_quantity": 1
   },
   "12321": {
     "id": 12321,
@@ -25336,12 +25336,12 @@
     "name": "Rune boots",
     "members": true,
     "sp": 12500,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 7300,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 7300,
+    "overall_quantity": 1
   },
   "12323": {
     "id": 12323,
@@ -25492,12 +25492,12 @@
     "name": "Abyssal whip",
     "members": true,
     "sp": 120001,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 2913061,
+    "buy_quantity": 2,
+    "sell_average": 2903204,
+    "sell_quantity": 1,
+    "overall_average": 2909775,
+    "overall_quantity": 3
   },
   "12343": {
     "id": 12343,
@@ -25876,12 +25876,12 @@
     "name": "Gilded scimitar",
     "members": false,
     "sp": 25600,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 13139876,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 13139876,
+    "overall_quantity": 1
   },
   "12391": {
     "id": 12391,
@@ -26020,24 +26020,24 @@
     "name": "Lunar isle teleport",
     "members": true,
     "sp": 10,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 4226,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 4226,
+    "overall_quantity": 1
   },
   "12406": {
     "id": 12406,
     "name": "Mort\u0027ton teleport",
     "members": true,
     "sp": 10,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 17977,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 17977,
+    "overall_quantity": 1
   },
   "12407": {
     "id": 12407,
@@ -26394,10 +26394,10 @@
     "sp": 64000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 39002,
+    "sell_quantity": 1,
+    "overall_average": 39002,
+    "overall_quantity": 1
   },
   "12474": {
     "id": 12474,
@@ -26670,10 +26670,10 @@
     "sp": 2000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 78750,
+    "sell_quantity": 1,
+    "overall_average": 78750,
+    "overall_quantity": 1
   },
   "12506": {
     "id": 12506,
@@ -27076,12 +27076,12 @@
     "name": "Leaf-bladed battleaxe",
     "members": true,
     "sp": 96000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 69790,
+    "buy_quantity": 2,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 69790,
+    "overall_quantity": 2
   },
   "12536": {
     "id": 12536,
@@ -27868,12 +27868,12 @@
     "name": "Stamina potion(4)",
     "members": true,
     "sp": 400,
-    "buy_average": 5869,
-    "buy_quantity": 30,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 5869,
-    "overall_quantity": 30
+    "buy_average": 5876,
+    "buy_quantity": 476,
+    "sell_average": 5849,
+    "sell_quantity": 40,
+    "overall_average": 5874,
+    "overall_quantity": 516
   },
   "12627": {
     "id": 12627,
@@ -27928,12 +27928,12 @@
     "name": "Stamina potion(1)",
     "members": true,
     "sp": 100,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 1494,
+    "buy_quantity": 20,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 1494,
+    "overall_quantity": 20
   },
   "4440": {
     "id": 4440,
@@ -27941,11 +27941,11 @@
     "members": true,
     "sp": 15,
     "buy_average": 196,
-    "buy_quantity": 1,
+    "buy_quantity": 2,
     "sell_average": 0,
     "sell_quantity": 0,
     "overall_average": 196,
-    "overall_quantity": 1
+    "overall_quantity": 2
   },
   "12633": {
     "id": 12633,
@@ -27976,12 +27976,12 @@
     "name": "Amylase crystal",
     "members": true,
     "sp": 20,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 1195,
+    "buy_quantity": 2,
+    "sell_average": 1189,
+    "sell_quantity": 2,
+    "overall_average": 1192,
+    "overall_quantity": 4
   },
   "12642": {
     "id": 12642,
@@ -28206,10 +28206,10 @@
     "sp": 70,
     "buy_average": 9,
     "buy_quantity": 10000,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 9,
-    "overall_quantity": 10000
+    "sell_average": 7,
+    "sell_quantity": 224,
+    "overall_average": 8,
+    "overall_quantity": 10224
   },
   "4544": {
     "id": 4544,
@@ -28360,12 +28360,12 @@
     "name": "Annakarl teleport",
     "members": true,
     "sp": 1,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 14000,
+    "buy_quantity": 60,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 14000,
+    "overall_quantity": 60
   },
   "12776": {
     "id": 12776,
@@ -28386,10 +28386,10 @@
     "sp": 270000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 161223,
-    "sell_quantity": 4,
-    "overall_average": 161223,
-    "overall_quantity": 4
+    "sell_average": 161374,
+    "sell_quantity": 11,
+    "overall_average": 161374,
+    "overall_quantity": 11
   },
   "12777": {
     "id": 12777,
@@ -28422,10 +28422,10 @@
     "sp": 100000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 59400,
+    "sell_quantity": 1,
+    "overall_average": 59400,
+    "overall_quantity": 1
   },
   "12779": {
     "id": 12779,
@@ -28612,12 +28612,12 @@
     "name": "Saradomin\u0027s tear",
     "members": true,
     "sp": 40000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 2488623,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 2488623,
+    "overall_quantity": 1
   },
   "20997": {
     "id": 20997,
@@ -28720,12 +28720,12 @@
     "name": "Dragon hunter crossbow",
     "members": true,
     "sp": 80000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 112747499,
+    "buy_quantity": 2,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 112747499,
+    "overall_quantity": 2
   },
   "12821": {
     "id": 12821,
@@ -28818,10 +28818,10 @@
     "sp": 120000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 68495000,
+    "sell_quantity": 3,
+    "overall_average": 68495000,
+    "overall_quantity": 3
   },
   "12831": {
     "id": 12831,
@@ -28972,12 +28972,12 @@
     "name": "Dwarf cannon set",
     "members": true,
     "sp": 600000,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 755998,
+    "buy_quantity": 1,
+    "sell_average": 753001,
+    "sell_quantity": 1,
+    "overall_average": 754499,
+    "overall_quantity": 2
   },
   "12865": {
     "id": 12865,
@@ -29044,24 +29044,24 @@
     "name": "Guthan\u0027s armour set",
     "members": true,
     "sp": 400000,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 2825154,
+    "buy_quantity": 1,
+    "sell_average": 2800000,
+    "sell_quantity": 1,
+    "overall_average": 2812577,
+    "overall_quantity": 2
   },
   "12875": {
     "id": 12875,
     "name": "Verac\u0027s armour set",
     "members": true,
     "sp": 400000,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 1028253,
+    "buy_quantity": 1,
+    "sell_average": 1005000,
+    "sell_quantity": 1,
+    "overall_average": 1016626,
+    "overall_quantity": 2
   },
   "4684": {
     "id": 4684,
@@ -29080,12 +29080,12 @@
     "name": "Dharok\u0027s armour set",
     "members": true,
     "sp": 400000,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 3029777,
+    "buy_quantity": 2,
+    "sell_average": 3006954,
+    "sell_quantity": 1,
+    "overall_average": 3022169,
+    "overall_quantity": 3
   },
   "4687": {
     "id": 4687,
@@ -29104,12 +29104,12 @@
     "name": "Torag\u0027s armour set",
     "members": true,
     "sp": 400000,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 669000,
+    "buy_quantity": 1,
+    "sell_average": 654320,
+    "sell_quantity": 1,
+    "overall_average": 661660,
+    "overall_quantity": 2
   },
   "4689": {
     "id": 4689,
@@ -29176,12 +29176,12 @@
     "name": "Mist rune",
     "members": true,
     "sp": 20,
-    "buy_average": 184,
-    "buy_quantity": 10,
+    "buy_average": 185,
+    "buy_quantity": 20,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 184,
-    "overall_quantity": 10
+    "overall_average": 185,
+    "overall_quantity": 20
   },
   "21079": {
     "id": 21079,
@@ -29202,10 +29202,10 @@
     "sp": 20,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 3,
+    "sell_quantity": 199,
+    "overall_average": 3,
+    "overall_quantity": 199
   },
   "4697": {
     "id": 4697,
@@ -29332,12 +29332,12 @@
     "name": "Ahrim\u0027s staff",
     "members": true,
     "sp": 85000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 108934,
+    "buy_quantity": 2,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 108934,
+    "overall_quantity": 2
   },
   "12902": {
     "id": 12902,
@@ -29356,12 +29356,12 @@
     "name": "Ahrim\u0027s robetop",
     "members": true,
     "sp": 50000,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 2598997,
+    "buy_quantity": 1,
+    "sell_average": 2584559,
+    "sell_quantity": 1,
+    "overall_average": 2591778,
+    "overall_quantity": 2
   },
   "21096": {
     "id": 21096,
@@ -29380,12 +29380,12 @@
     "name": "Anti-venom(4)",
     "members": true,
     "sp": 440,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 4280,
+    "buy_quantity": 20,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 4280,
+    "overall_quantity": 20
   },
   "4714": {
     "id": 4714,
@@ -29668,12 +29668,12 @@
     "name": "Karil\u0027s coif",
     "members": true,
     "sp": 13000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 66999,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 66999,
+    "overall_quantity": 1
   },
   "12924": {
     "id": 12924,
@@ -29813,11 +29813,11 @@
     "members": true,
     "sp": 20,
     "buy_average": 201,
-    "buy_quantity": 10000,
-    "sell_average": 0,
-    "sell_quantity": 0,
+    "buy_quantity": 45210,
+    "sell_average": 200,
+    "sell_quantity": 1,
     "overall_average": 201,
-    "overall_quantity": 10000
+    "overall_quantity": 45211
   },
   "21126": {
     "id": 21126,
@@ -29872,12 +29872,12 @@
     "name": "Zul-andra teleport",
     "members": true,
     "sp": 10,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 16995,
+    "buy_quantity": 9,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 16995,
+    "overall_quantity": 9
   },
   "4747": {
     "id": 4747,
@@ -29908,24 +29908,24 @@
     "name": "Torag\u0027s platelegs",
     "members": true,
     "sp": 275000,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 232000,
+    "buy_quantity": 1,
+    "sell_average": 225807,
+    "sell_quantity": 2,
+    "overall_average": 227871,
+    "overall_quantity": 3
   },
   "4753": {
     "id": 4753,
     "name": "Verac\u0027s helm",
     "members": true,
     "sp": 103000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 117442,
+    "buy_quantity": 3,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 117442,
+    "overall_quantity": 3
   },
   "4755": {
     "id": 4755,
@@ -29968,12 +29968,12 @@
     "name": "Verac\u0027s plateskirt",
     "members": true,
     "sp": 275000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 616222,
+    "buy_quantity": 2,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 616222,
+    "overall_quantity": 2
   },
   "21143": {
     "id": 21143,
@@ -30136,12 +30136,12 @@
     "name": "Iron set (lg)",
     "members": false,
     "sp": 900,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 429,
+    "buy_quantity": 2,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 429,
+    "overall_quantity": 2
   },
   "12974": {
     "id": 12974,
@@ -30160,12 +30160,12 @@
     "name": "Burning amulet(5)",
     "members": true,
     "sp": 1250,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 5142,
+    "buy_quantity": 120,
+    "sell_average": 4890,
+    "sell_quantity": 10,
+    "overall_average": 5122,
+    "overall_quantity": 130
   },
   "4783": {
     "id": 4783,
@@ -30244,12 +30244,12 @@
     "name": "Steel set (lg)",
     "members": false,
     "sp": 1400,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 1789,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 1789,
+    "overall_quantity": 1
   },
   "4793": {
     "id": 4793,
@@ -30292,12 +30292,12 @@
     "name": "Black set (lg)",
     "members": false,
     "sp": 4500,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 6467,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 6467,
+    "overall_quantity": 1
   },
   "21180": {
     "id": 21180,
@@ -30412,24 +30412,24 @@
     "name": "Mithril set (lg)",
     "members": false,
     "sp": 5000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 6300,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 6300,
+    "overall_quantity": 1
   },
   "13002": {
     "id": 13002,
     "name": "Mithril set (sk)",
     "members": false,
     "sp": 5000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 6030,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 6030,
+    "overall_quantity": 1
   },
   "4812": {
     "id": 4812,
@@ -30522,22 +30522,22 @@
     "sp": 4,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 15,
+    "sell_quantity": 1038,
+    "overall_average": 15,
+    "overall_quantity": 1038
   },
   "13012": {
     "id": 13012,
     "name": "Adamant set (lg)",
     "members": false,
     "sp": 8000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 17315,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 17315,
+    "overall_quantity": 1
   },
   "4821": {
     "id": 4821,
@@ -31206,10 +31206,10 @@
     "sp": 84000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 851668,
+    "sell_quantity": 1,
+    "overall_average": 851668,
+    "overall_quantity": 1
   },
   "4920": {
     "id": 4920,
@@ -31230,10 +31230,10 @@
     "sp": 67000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 726335,
+    "sell_quantity": 2,
+    "overall_average": 726335,
+    "overall_quantity": 2
   },
   "4926": {
     "id": 4926,
@@ -31337,11 +31337,11 @@
     "members": true,
     "sp": 490,
     "buy_average": 177,
-    "buy_quantity": 156,
+    "buy_quantity": 6933,
     "sell_average": 176,
-    "sell_quantity": 1,
+    "sell_quantity": 131,
     "overall_average": 176,
-    "overall_quantity": 157
+    "overall_quantity": 7064
   },
   "4944": {
     "id": 4944,
@@ -31720,12 +31720,12 @@
     "name": "Old school bond",
     "members": false,
     "sp": 2000000,
-    "buy_average": 4243403,
-    "buy_quantity": 1,
+    "buy_average": 4160455,
+    "buy_quantity": 5,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 4243403,
-    "overall_quantity": 1
+    "overall_average": 4160455,
+    "overall_quantity": 5
   },
   "5001": {
     "id": 5001,
@@ -31998,10 +31998,10 @@
     "sp": 75000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 39390000,
+    "sell_quantity": 1,
+    "overall_average": 39390000,
+    "overall_quantity": 1
   },
   "5046": {
     "id": 5046,
@@ -32020,12 +32020,12 @@
     "name": "Primordial boots",
     "members": true,
     "sp": 75000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 33916000,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 33916000,
+    "overall_quantity": 1
   },
   "5048": {
     "id": 5048,
@@ -32118,10 +32118,10 @@
     "sp": 453,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 4840,
+    "sell_quantity": 33,
+    "overall_average": 4840,
+    "overall_quantity": 33
   },
   "13267": {
     "id": 13267,
@@ -32224,12 +32224,12 @@
     "name": "Nasturtium seed",
     "members": true,
     "sp": 11,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 1,
+    "buy_quantity": 20,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 1,
+    "overall_quantity": 20
   },
   "5099": {
     "id": 5099,
@@ -32382,10 +32382,10 @@
     "sp": 2,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 463,
+    "sell_quantity": 93,
+    "overall_average": 463,
+    "overall_quantity": 93
   },
   "21512": {
     "id": 21512,
@@ -32466,10 +32466,10 @@
     "sp": 10,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 30,
+    "sell_quantity": 620,
+    "overall_average": 30,
+    "overall_quantity": 620
   },
   "13383": {
     "id": 13383,
@@ -32548,12 +32548,12 @@
     "name": "Volcanic ash",
     "members": true,
     "sp": 200,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 66,
+    "buy_quantity": 2500,
+    "sell_average": 60,
+    "sell_quantity": 110,
+    "overall_average": 65,
+    "overall_quantity": 2610
   },
   "13431": {
     "id": 13431,
@@ -32586,22 +32586,22 @@
     "sp": 450,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 1432,
+    "sell_quantity": 181,
+    "overall_average": 1432,
+    "overall_quantity": 181
   },
   "13441": {
     "id": 13441,
     "name": "Anglerfish",
     "members": true,
     "sp": 450,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 1555,
+    "buy_quantity": 130,
+    "sell_average": 1555,
+    "sell_quantity": 1,
+    "overall_average": 1555,
+    "overall_quantity": 131
   },
   "21634": {
     "id": 21634,
@@ -32790,10 +32790,10 @@
     "sp": 299,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 1489,
+    "sell_quantity": 2,
+    "overall_average": 1489,
+    "overall_quantity": 2
   },
   "5281": {
     "id": 5281,
@@ -33016,12 +33016,12 @@
     "name": "Ranarr seed",
     "members": true,
     "sp": 50,
-    "buy_average": 46800,
-    "buy_quantity": 15,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 46800,
-    "overall_quantity": 15
+    "buy_average": 46485,
+    "buy_quantity": 44,
+    "sell_average": 46354,
+    "sell_quantity": 30,
+    "overall_average": 46432,
+    "overall_quantity": 74
   },
   "13487": {
     "id": 13487,
@@ -33042,10 +33042,10 @@
     "sp": 10,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 820,
+    "sell_quantity": 2,
+    "overall_average": 820,
+    "overall_quantity": 2
   },
   "5297": {
     "id": 5297,
@@ -33064,12 +33064,12 @@
     "name": "Avantoe seed",
     "members": true,
     "sp": 8,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 1340,
+    "buy_quantity": 30,
+    "sell_average": 1145,
+    "sell_quantity": 1,
+    "overall_average": 1334,
+    "overall_quantity": 31
   },
   "13490": {
     "id": 13490,
@@ -33100,12 +33100,12 @@
     "name": "Snapdragon seed",
     "members": true,
     "sp": 60,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 58430,
+    "buy_quantity": 7,
+    "sell_average": 57494,
+    "sell_quantity": 14,
+    "overall_average": 57806,
+    "overall_quantity": 21
   },
   "21684": {
     "id": 21684,
@@ -33138,10 +33138,10 @@
     "sp": 455,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 3809,
+    "sell_quantity": 4,
+    "overall_average": 3809,
+    "overall_quantity": 4
   },
   "5302": {
     "id": 5302,
@@ -33150,10 +33150,10 @@
     "sp": 9,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 2299,
+    "sell_quantity": 1,
+    "overall_average": 2299,
+    "overall_quantity": 1
   },
   "5303": {
     "id": 5303,
@@ -33162,10 +33162,10 @@
     "sp": 6,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 390,
+    "sell_quantity": 2,
+    "overall_average": 390,
+    "overall_quantity": 2
   },
   "5304": {
     "id": 5304,
@@ -33318,10 +33318,10 @@
     "sp": 6,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 90,
+    "sell_quantity": 1,
+    "overall_average": 90,
+    "overall_quantity": 1
   },
   "5313": {
     "id": 5313,
@@ -33376,12 +33376,12 @@
     "name": "Magic seed",
     "members": true,
     "sp": 422,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 113002,
-    "sell_quantity": 15,
-    "overall_average": 113002,
-    "overall_quantity": 15
+    "buy_average": 116000,
+    "buy_quantity": 6,
+    "sell_average": 113173,
+    "sell_quantity": 16,
+    "overall_average": 113944,
+    "overall_quantity": 22
   },
   "13508": {
     "id": 13508,
@@ -33448,12 +33448,12 @@
     "name": "Watermelon seed",
     "members": true,
     "sp": 56,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 56,
+    "buy_quantity": 319,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 56,
+    "overall_quantity": 319
   },
   "5322": {
     "id": 5322,
@@ -33544,12 +33544,12 @@
     "name": "Seed dibber",
     "members": true,
     "sp": 6,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 188,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 188,
+    "overall_quantity": 1
   },
   "5345": {
     "id": 5345,
@@ -33736,12 +33736,12 @@
     "name": "Magic sapling",
     "members": true,
     "sp": 1,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 117000,
+    "buy_quantity": 12,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 117000,
+    "overall_quantity": 12
   },
   "5376": {
     "id": 5376,
@@ -33772,12 +33772,12 @@
     "name": "Dragon warhammer",
     "members": true,
     "sp": 120000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 59987000,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 59987000,
+    "overall_quantity": 1
   },
   "5386": {
     "id": 5386,
@@ -33820,12 +33820,12 @@
     "name": "Bananas(5)",
     "members": true,
     "sp": 1,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 555,
+    "buy_quantity": 30,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 555,
+    "overall_quantity": 30
   },
   "5418": {
     "id": 5418,
@@ -33846,10 +33846,10 @@
     "sp": 10,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 24181,
-    "sell_quantity": 60,
-    "overall_average": 24181,
-    "overall_quantity": 60
+    "sell_average": 24184,
+    "sell_quantity": 75,
+    "overall_average": 24184,
+    "overall_quantity": 75
   },
   "21804": {
     "id": 21804,
@@ -33859,9 +33859,9 @@
     "buy_average": 0,
     "buy_quantity": 0,
     "sell_average": 152026,
-    "sell_quantity": 1,
+    "sell_quantity": 2,
     "overall_average": 152026,
-    "overall_quantity": 1
+    "overall_quantity": 2
   },
   "21807": {
     "id": 21807,
@@ -33906,22 +33906,22 @@
     "sp": 72000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 43427,
-    "sell_quantity": 117,
-    "overall_average": 43427,
-    "overall_quantity": 117
+    "sell_average": 43437,
+    "sell_quantity": 148,
+    "overall_average": 43437,
+    "overall_quantity": 148
   },
   "21820": {
     "id": 21820,
     "name": "Revenant ether",
     "members": true,
     "sp": 250,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 174,
+    "buy_quantity": 55684,
     "sell_average": 174,
-    "sell_quantity": 1600,
+    "sell_quantity": 42355,
     "overall_average": 174,
-    "overall_quantity": 1600
+    "overall_quantity": 98039
   },
   "5438": {
     "id": 5438,
@@ -33964,12 +33964,12 @@
     "name": "Dragon claws",
     "members": true,
     "sp": 205000,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 59166026,
+    "buy_quantity": 1,
+    "sell_average": 59166019,
+    "sell_quantity": 1,
+    "overall_average": 59166022,
+    "overall_quantity": 2
   },
   "13657": {
     "id": 13657,
@@ -34024,12 +34024,12 @@
     "name": "Wrath rune",
     "members": true,
     "sp": 500,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 422,
+    "buy_quantity": 100,
+    "sell_average": 416,
+    "sell_quantity": 171,
+    "overall_average": 418,
+    "overall_quantity": 271
   },
   "5497": {
     "id": 5497,
@@ -34050,10 +34050,10 @@
     "sp": 1,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 100,
+    "sell_quantity": 8,
+    "overall_average": 100,
+    "overall_quantity": 8
   },
   "21882": {
     "id": 21882,
@@ -34146,10 +34146,10 @@
     "sp": 17,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 164,
+    "sell_quantity": 16,
+    "overall_average": 164,
+    "overall_quantity": 16
   },
   "21892": {
     "id": 21892,
@@ -34192,12 +34192,12 @@
     "name": "Dragon crossbow",
     "members": true,
     "sp": 54000,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 2850249,
+    "buy_quantity": 4,
+    "sell_average": 2840707,
+    "sell_quantity": 1,
+    "overall_average": 2848340,
+    "overall_quantity": 5
   },
   "5521": {
     "id": 5521,
@@ -34420,12 +34420,12 @@
     "name": "Dragon bolts (unf)",
     "members": true,
     "sp": 141,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 1135,
+    "buy_quantity": 13000,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 1135,
+    "overall_quantity": 13000
   },
   "5547": {
     "id": 5547,
@@ -34444,12 +34444,12 @@
     "name": "Opal dragon bolts (e)",
     "members": true,
     "sp": 580,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 1233,
+    "buy_quantity": 400,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 1233,
+    "overall_quantity": 400
   },
   "21934": {
     "id": 21934,
@@ -34528,12 +34528,12 @@
     "name": "Diamond dragon bolts (e)",
     "members": true,
     "sp": 880,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 1317,
+    "buy_quantity": 200,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 1317,
+    "overall_quantity": 200
   },
   "21948": {
     "id": 21948,
@@ -34962,10 +34962,10 @@
     "sp": 80,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 55,
+    "sell_quantity": 5,
+    "overall_average": 55,
+    "overall_quantity": 5
   },
   "5627": {
     "id": 5627,
@@ -35632,12 +35632,12 @@
     "name": "Dragon dagger(p++)",
     "members": true,
     "sp": 24000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 22800,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 22800,
+    "overall_quantity": 1
   },
   "5700": {
     "id": 5700,
@@ -35946,10 +35946,10 @@
     "sp": 160,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 11601,
+    "sell_quantity": 4,
+    "overall_average": 11601,
+    "overall_quantity": 4
   },
   "5741": {
     "id": 5741,
@@ -36112,12 +36112,12 @@
     "name": "Ale yeast",
     "members": true,
     "sp": 1,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 568,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 568,
+    "overall_quantity": 1
   },
   "5769": {
     "id": 5769,
@@ -36376,12 +36376,12 @@
     "name": "Dragon boots ornament kit",
     "members": true,
     "sp": 5000,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 99247,
+    "buy_quantity": 1,
+    "sell_average": 90411,
+    "sell_quantity": 1,
+    "overall_average": 94829,
+    "overall_quantity": 2
   },
   "5849": {
     "id": 5849,
@@ -36928,12 +36928,12 @@
     "name": "Antidote++(4)",
     "members": true,
     "sp": 360,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 1633,
+    "buy_quantity": 10,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 1633,
+    "overall_quantity": 10
   },
   "5954": {
     "id": 5954,
@@ -36990,10 +36990,10 @@
     "sp": 19,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 60,
+    "sell_quantity": 24,
+    "overall_average": 60,
+    "overall_quantity": 24
   },
   "5972": {
     "id": 5972,
@@ -37002,22 +37002,22 @@
     "sp": 64,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 751,
+    "sell_quantity": 6,
+    "overall_average": 751,
+    "overall_quantity": 6
   },
   "5974": {
     "id": 5974,
     "name": "Coconut",
     "members": true,
     "sp": 87,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 1936,
+    "buy_quantity": 150,
+    "sell_average": 1909,
+    "sell_quantity": 6,
+    "overall_average": 1934,
+    "overall_quantity": 156
   },
   "5980": {
     "id": 5980,
@@ -37182,10 +37182,10 @@
     "sp": 38,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 110,
+    "sell_quantity": 3,
+    "overall_average": 110,
+    "overall_quantity": 3
   },
   "6006": {
     "id": 6006,
@@ -37204,12 +37204,12 @@
     "name": "Barley malt",
     "members": true,
     "sp": 4,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 1497,
+    "buy_quantity": 2,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 1497,
+    "overall_quantity": 2
   },
   "6010": {
     "id": 6010,
@@ -37662,10 +37662,10 @@
     "sp": 3900,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 2227,
+    "sell_quantity": 1,
+    "overall_average": 2227,
+    "overall_quantity": 1
   },
   "6137": {
     "id": 6137,
@@ -37890,10 +37890,10 @@
     "sp": 120000,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 1400000,
+    "sell_quantity": 2,
+    "overall_average": 1400000,
+    "overall_quantity": 2
   },
   "6169": {
     "id": 6169,
@@ -37974,10 +37974,10 @@
     "sp": 11,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 79,
+    "sell_quantity": 3400,
+    "overall_average": 79,
+    "overall_quantity": 3400
   },
   "6213": {
     "id": 6213,
@@ -38428,12 +38428,12 @@
     "name": "Mahogany logs",
     "members": true,
     "sp": 50,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 412,
+    "buy_quantity": 3000,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 412,
+    "overall_quantity": 3000
   },
   "6333": {
     "id": 6333,
@@ -38874,10 +38874,10 @@
     "sp": 160,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 1527,
+    "sell_quantity": 385,
+    "overall_average": 1527,
+    "overall_quantity": 385
   },
   "6398": {
     "id": 6398,
@@ -39316,12 +39316,12 @@
     "name": "Snape grass seed",
     "members": true,
     "sp": 94,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 2700,
+    "buy_quantity": 134,
+    "sell_average": 2700,
+    "sell_quantity": 6,
+    "overall_average": 2700,
+    "overall_quantity": 140
   },
   "22887": {
     "id": 22887,
@@ -39472,12 +39472,12 @@
     "name": "Mystic mud staff",
     "members": true,
     "sp": 45000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 58824,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 58824,
+    "overall_quantity": 1
   },
   "22949": {
     "id": 22949,
@@ -39498,10 +39498,10 @@
     "sp": 20000,
     "buy_average": 1100000,
     "buy_quantity": 1,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 1100000,
-    "overall_quantity": 1
+    "sell_average": 1077500,
+    "sell_quantity": 1,
+    "overall_average": 1088750,
+    "overall_quantity": 2
   },
   "6568": {
     "id": 6568,
@@ -39664,12 +39664,12 @@
     "name": "Amulet of fury",
     "members": true,
     "sp": 202000,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 2250488,
+    "buy_quantity": 2,
+    "sell_average": 2242327,
+    "sell_quantity": 1,
+    "overall_average": 2247768,
+    "overall_quantity": 3
   },
   "6587": {
     "id": 6587,
@@ -39868,12 +39868,12 @@
     "name": "Bottomless compost bucket",
     "members": true,
     "sp": 45000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 550000,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 550000,
+    "overall_quantity": 1
   },
   "6611": {
     "id": 6611,
@@ -40048,12 +40048,12 @@
     "name": "Boots of stone",
     "members": true,
     "sp": 200,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 499,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 499,
+    "overall_quantity": 1
   },
   "23047": {
     "id": 23047,
@@ -40156,12 +40156,12 @@
     "name": "Saradomin brew(4)",
     "members": true,
     "sp": 200,
-    "buy_average": 5671,
-    "buy_quantity": 100,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 5671,
-    "overall_quantity": 100
+    "buy_average": 5664,
+    "buy_quantity": 250,
+    "sell_average": 5610,
+    "sell_quantity": 37,
+    "overall_average": 5657,
+    "overall_quantity": 287
   },
   "6687": {
     "id": 6687,
@@ -40194,10 +40194,10 @@
     "sp": 125,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 1372,
+    "sell_quantity": 1,
+    "overall_average": 1372,
+    "overall_quantity": 1
   },
   "6693": {
     "id": 6693,
@@ -40312,12 +40312,12 @@
     "name": "Seers ring",
     "members": true,
     "sp": 10000,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 318500,
+    "buy_quantity": 1,
+    "sell_average": 304407,
+    "sell_quantity": 1,
+    "overall_average": 311453,
+    "overall_quantity": 2
   },
   "23116": {
     "id": 23116,
@@ -40336,12 +40336,12 @@
     "name": "Archers ring",
     "members": true,
     "sp": 10000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 4973500,
+    "buy_quantity": 2,
     "sell_average": 4936123,
     "sell_quantity": 1,
-    "overall_average": 4936123,
-    "overall_quantity": 1
+    "overall_average": 4961041,
+    "overall_quantity": 3
   },
   "6735": {
     "id": 6735,
@@ -40372,12 +40372,12 @@
     "name": "Berserker ring",
     "members": true,
     "sp": 10000,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 2779446,
+    "buy_quantity": 1,
+    "sell_average": 2771722,
+    "sell_quantity": 2,
+    "overall_average": 2774297,
+    "overall_quantity": 3
   },
   "6739": {
     "id": 6739,
@@ -41032,12 +41032,12 @@
     "name": "Shoulder parrot",
     "members": false,
     "sp": 1000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 130120,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 130120,
+    "overall_quantity": 1
   },
   "6918": {
     "id": 6918,
@@ -41164,12 +41164,12 @@
     "name": "Rune scimitar ornament kit (guthix)",
     "members": false,
     "sp": 5000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 40000,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 40000,
+    "overall_quantity": 1
   },
   "23324": {
     "id": 23324,
@@ -42244,12 +42244,12 @@
     "name": "Summer pie",
     "members": true,
     "sp": 140,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 888,
+    "buy_quantity": 18,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 888,
+    "overall_quantity": 18
   },
   "7223": {
     "id": 7223,
@@ -42304,12 +42304,12 @@
     "name": "Divine super combat potion(4)",
     "members": true,
     "sp": 250,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 15232,
+    "buy_quantity": 10,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 15232,
+    "overall_quantity": 10
   },
   "23688": {
     "id": 23688,
@@ -42352,12 +42352,12 @@
     "name": "Divine super attack potion(4)",
     "members": true,
     "sp": 250,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 1033,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 1033,
+    "overall_quantity": 1
   },
   "23700": {
     "id": 23700,
@@ -42448,12 +42448,12 @@
     "name": "Divine super strength potion(4)",
     "members": true,
     "sp": 250,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 2281,
+    "buy_quantity": 1,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 2281,
+    "overall_quantity": 1
   },
   "7327": {
     "id": 7327,
@@ -42570,10 +42570,10 @@
     "sp": 54400,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 64008,
+    "sell_quantity": 1,
+    "overall_average": 64008,
+    "overall_quantity": 1
   },
   "23721": {
     "id": 23721,
@@ -42641,11 +42641,11 @@
     "members": true,
     "sp": 90,
     "buy_average": 630,
-    "buy_quantity": 2,
+    "buy_quantity": 4,
     "sell_average": 0,
     "sell_quantity": 0,
     "overall_average": 630,
-    "overall_quantity": 2
+    "overall_quantity": 4
   },
   "7344": {
     "id": 7344,
@@ -42700,12 +42700,12 @@
     "name": "Divine ranging potion(4)",
     "members": true,
     "sp": 250,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 2298,
+    "buy_quantity": 22,
+    "sell_average": 2234,
+    "sell_quantity": 71,
+    "overall_average": 2249,
+    "overall_quantity": 93
   },
   "7350": {
     "id": 7350,
@@ -42894,10 +42894,10 @@
     "sp": 750,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 7790,
+    "sell_quantity": 1,
+    "overall_average": 7790,
+    "overall_quantity": 1
   },
   "7370": {
     "id": 7370,
@@ -42942,10 +42942,10 @@
     "sp": 9360,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 5091,
+    "sell_quantity": 1,
+    "overall_average": 5091,
+    "overall_quantity": 1
   },
   "7376": {
     "id": 7376,
@@ -43084,24 +43084,24 @@
     "name": "Enchanted robe",
     "members": true,
     "sp": 80000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 53081,
+    "buy_quantity": 2,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 53081,
+    "overall_quantity": 2
   },
   "7399": {
     "id": 7399,
     "name": "Enchanted top",
     "members": true,
     "sp": 120000,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 80832,
+    "buy_quantity": 3,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 80832,
+    "overall_quantity": 3
   },
   "7400": {
     "id": 7400,
@@ -43120,12 +43120,12 @@
     "name": "Mole claw",
     "members": true,
     "sp": 600,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 6994,
+    "buy_quantity": 50,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 6994,
+    "overall_quantity": 50
   },
   "7418": {
     "id": 7418,
@@ -43530,10 +43530,10 @@
     "sp": 200,
     "buy_average": 0,
     "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "sell_average": 46,
+    "sell_quantity": 6,
+    "overall_average": 46,
+    "overall_quantity": 6
   },
   "24034": {
     "id": 24034,
@@ -43876,12 +43876,12 @@
     "name": "Pure essence",
     "members": false,
     "sp": 4,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 3,
+    "buy_quantity": 20000,
+    "sell_average": 2,
+    "sell_quantity": 32474,
+    "overall_average": 2,
+    "overall_quantity": 52474
   },
   "7939": {
     "id": 7939,
@@ -43900,12 +43900,12 @@
     "name": "Raw monkfish",
     "members": true,
     "sp": 230,
-    "buy_average": 0,
-    "buy_quantity": 0,
-    "sell_average": 0,
-    "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "buy_average": 379,
+    "buy_quantity": 13695,
+    "sell_average": 375,
+    "sell_quantity": 1,
+    "overall_average": 379,
+    "overall_quantity": 13696
   },
   "7946": {
     "id": 7946,
@@ -44008,12 +44008,12 @@
     "name": "Falador teleport",
     "members": true,
     "sp": 1,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 532,
+    "buy_quantity": 5,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 532,
+    "overall_quantity": 5
   },
   "24393": {
     "id": 24393,
@@ -44032,12 +44032,12 @@
     "name": "Camelot teleport",
     "members": true,
     "sp": 1,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 455,
+    "buy_quantity": 107,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 455,
+    "overall_quantity": 107
   },
   "8011": {
     "id": 8011,
@@ -44080,12 +44080,12 @@
     "name": "Teleport to house",
     "members": true,
     "sp": 1,
-    "buy_average": 0,
-    "buy_quantity": 0,
+    "buy_average": 533,
+    "buy_quantity": 301,
     "sell_average": 0,
     "sell_quantity": 0,
-    "overall_average": 0,
-    "overall_quantity": 0
+    "overall_average": 533,
+    "overall_quantity": 301
   },
   "24397": {
     "id": 24397,

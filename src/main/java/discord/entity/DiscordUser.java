@@ -23,11 +23,7 @@ public class DiscordUser {
     private String dailyQuestion;
     private String[] dailyAnswers;
     private Calendar dailyCooldown;
-
-    /* Minion */
-    private boolean[] minion;
-    private String minionName;
-
+    
     public DiscordUser(User user) {
         this.id = user.getId();
         this.discordTag = user.getAsTag();
