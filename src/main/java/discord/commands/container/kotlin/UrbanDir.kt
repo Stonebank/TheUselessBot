@@ -27,23 +27,23 @@ class UrbanDir : DiscordCommand() {
             return
         }
 
-        @Suppress("NAME_SHADOWING")
-        val text = StringBuilder()
+        val stringBuilder = StringBuilder()
 
         for (i in 1 until cmd.size)
-            text.append(cmd[i]).append(if (i == cmd.size - 1) "" else " ")
+            stringBuilder.append(cmd[i]).append(if (i == cmd.size - 1) "" else " ")
 
-        val connection = Jsoup.connect("https://www.urbandictionary.com/define.php?term=$text").userAgent("Mozilla/5.0").get().select("div.meaning")
+        val connection = Jsoup.connect("https://www.urbandictionary.com/define.php?term=$stringBuilder").userAgent("Mozilla/5.0").get().select("div.meaning")
 
         for (e in connection) {
 
             if (e.allElements.eachText()[0].length >= 2000) {
-                bot?.channel?.sendMessage("The definition was too long for discord, here is your link: https://www.urbandictionary.com/define.php?term=$text")?.queue()
+                bot?.channel?.sendMessage("The definition was too long for discord (2000 words limit), here is your link: https://www.urbandictionary.com/define.php?term=$stringBuilder for the rest.")?.queue()
                 return
             }
 
-            bot?.channel?.sendMessage("**Top definition for $text**")?.queue()
+            bot?.channel?.sendMessage("**Top definition for $stringBuilder**")?.queue()
             bot?.channel?.sendMessage(e.allElements.eachText()[0])?.queue()
+
             break
 
         }
