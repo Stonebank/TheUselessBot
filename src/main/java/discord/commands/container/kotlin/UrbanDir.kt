@@ -33,15 +33,9 @@ class UrbanDir : DiscordCommand() {
         for (i in 1 until cmd.size)
             text.append(cmd[i]).append(if (i == cmd.size - 1) "" else " ")
 
-        val connection = Jsoup.connect("https://www.urbandictionary.com/define.php?term=$text")
+        val connection = Jsoup.connect("https://www.urbandictionary.com/define.php?term=$text").userAgent("Mozilla/5.0").get().select("div.meaning")
 
-        connection.userAgent("Mozilla/5.0")
-
-        val doc = connection.get()
-
-        val element = doc.select("div.meaning")
-
-        for (e in element) {
+        for (e in connection) {
 
             if (e.allElements.eachText()[0].length >= 2000) {
                 bot?.channel?.sendMessage("The definition was too long for discord, here is your link: https://www.urbandictionary.com/define.php?term=$text")?.queue()
@@ -50,7 +44,6 @@ class UrbanDir : DiscordCommand() {
 
             bot?.channel?.sendMessage("**Top definition for $text**")?.queue()
             bot?.channel?.sendMessage(e.allElements.eachText()[0])?.queue()
-
             break
 
         }
