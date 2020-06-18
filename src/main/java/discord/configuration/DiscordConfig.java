@@ -17,6 +17,6 @@ public class DiscordConfig {
 
     public static final boolean DEBUG = Boolean.parseBoolean(Config.getConfig().getProperty("debug"));
 
-    public static final Connection connection = Jsoup.connect(Config.getConfig().getProperty("csgo_stats"));
+    public static final Connection CSGO_STATS = Jsoup.connect(Config.getConfig().getProperty("csgo_stats"));
 
 }

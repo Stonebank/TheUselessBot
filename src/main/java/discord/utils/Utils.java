@@ -2,6 +2,7 @@ package discord.utils;
 
 import java.io.File;
 import java.io.IOException;
+import java.lang.reflect.InvocationTargetException;
 import java.net.URL;
 import java.text.DecimalFormat;
 import java.util.*;
@@ -26,7 +27,7 @@ public class Utils {
         assert classLoader != null;
         String path = packageName.replace('.', '/');
         Enumeration<URL> resources = classLoader.getResources(path);
-        List<File> dirs = new ArrayList<File>();
+        List<File> dirs = new ArrayList<>();
         while (resources.hasMoreElements()) {
             URL resource = resources.nextElement();
             dirs.add(new File(resource.getFile().replaceAll("%20", " ")));
@@ -42,15 +43,16 @@ public class Utils {
         List<Object> objects = new ArrayList<>();
 
         for (File files : Objects.requireNonNull(new File("./build/classes/java/main/" + location.replace(".", "/")).listFiles())) {
+
             if (files.getName().contains("$"))
                 continue;
 
             try {
 
-                Object event = (Class.forName(location + "." + files.getName().replaceAll(".class", "")).newInstance());
+                Object event = (Class.forName(location + "." + files.getName().replaceAll(".class", "")).getDeclaredConstructor().newInstance());
                 objects.add(event);
 
-            } catch (InstantiationException | IllegalAccessException | ClassNotFoundException e) {
+            } catch (InstantiationException | IllegalAccessException | ClassNotFoundException | NoSuchMethodException | InvocationTargetException e) {
                 e.printStackTrace();
             }
 

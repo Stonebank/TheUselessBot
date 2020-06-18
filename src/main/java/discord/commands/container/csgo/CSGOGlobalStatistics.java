@@ -23,9 +23,9 @@ public class CSGOGlobalStatistics extends DiscordCommand {
 
             text = new StringBuilder();
 
-            DiscordConfig.connection.userAgent("Mozilla/5.0");
+            DiscordConfig.CSGO_STATS.userAgent("Mozilla/5.0");
 
-            Document doc = DiscordConfig.connection.get();
+            Document doc = DiscordConfig.CSGO_STATS.get();
 
             Elements element = doc.select("div.mmStats");
 

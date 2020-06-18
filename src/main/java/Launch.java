@@ -7,9 +7,10 @@ public class Launch {
 
     public static void main(String... args) throws LoginException, InterruptedException {
 
-        Config.loadConfig();
+      Config.loadConfig();
 
-        Discord.setBot(new Discord());
+      Discord.setBot(new Discord());
+
     }
 
 }
