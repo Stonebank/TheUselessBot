@@ -24,7 +24,7 @@ class GiveGP : DiscordCommand() {
 
     override fun execute(embed: EmbedBuilder?, text: StringBuilder?, bot: MessageReceivedEvent?, user: DiscordUser?, vararg cmd: String?) {
 
-        if (cmd.size < 2) {
+        if (cmd.size < 2 || cmd.size > 2) {
             bot?.channel?.sendMessage("Error! $arguments")?.queue()
             return
         }

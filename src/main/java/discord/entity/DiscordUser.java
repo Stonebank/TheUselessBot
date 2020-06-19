@@ -17,13 +17,17 @@ public class DiscordUser {
     private final String discordTag;
 
     /* The Discord virtual GP */
-    private long gp;
+    public long gp;
 
     /* Daily questions */
     private String dailyQuestion;
     private String[] dailyAnswers;
     private Calendar dailyCooldown;
-    
+
+    /* Minion */
+    public boolean hasMinion;
+    public String minionName;
+
     public DiscordUser(User user) {
         this.id = user.getId();
         this.discordTag = user.getAsTag();
@@ -52,6 +56,10 @@ public class DiscordUser {
 
         save.save(this);
 
+    }
+
+    public String getMinionName() {
+        return minionName == null ? discordTag.split("#")[0] + "'s minion" : minionName;
     }
 
 }

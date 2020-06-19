@@ -1,12 +1,9 @@
-package discord.core;
+package discord.core
 
-public interface ServiceProcessor {
+interface ServiceProcessor {
 
-    Timer getTimer();
-
-    int getDelay();
-
-    void init();
-
+    val timer: Timer?
+    val delay: Int
+    fun init()
 
 }

@@ -37,7 +37,17 @@ class UrbanDir : DiscordCommand() {
         for (e in connection) {
 
             if (e.allElements.eachText()[0].length >= 2000) {
-                bot?.channel?.sendMessage("The definition was too long for discord (2000 words limit), here is your link: https://www.urbandictionary.com/define.php?term=$stringBuilder for the rest.")?.queue()
+                bot?.channel?.sendMessage("The definition was too long for discord (2000 words limit), here is a snippet and your link: https://www.urbandictionary.com/define.php?term=$stringBuilder for the rest.")?.queue()
+
+                stringBuilder.clear()
+
+                val split = e.allElements.eachText()[0].split("")
+
+                for (i in 0..1999)
+                    stringBuilder.append(split[i])
+
+                bot?.channel?.sendMessage(stringBuilder)?.queue()
+
                 return
             }
 

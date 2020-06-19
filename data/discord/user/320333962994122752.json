@@ -9,5 +9,6 @@
     "hourOfDay": 1,
     "minute": 26,
     "second": 0
-  }
+  },
+  "hasMinion": false
 }

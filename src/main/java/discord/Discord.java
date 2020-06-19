@@ -57,7 +57,7 @@ public class Discord {
 
         setActivity();
 
-        ProcessManager.getInstance().init();
+        ProcessManager.Companion.getInstance().init();
 
         stopwatch.stop();
         System.out.println("The useless bot is online! Elapsed: " + stopwatch.elapsed(TimeUnit.MILLISECONDS) + " ms");
