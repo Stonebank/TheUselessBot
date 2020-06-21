@@ -10,8 +10,5 @@
     "minute": 24,
     "second": 26
   },
-  "minion": [
-    false,
-    false
-  ]
+  "hasMinion": false
 }

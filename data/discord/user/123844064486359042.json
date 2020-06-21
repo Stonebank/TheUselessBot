@@ -1,14 +1,14 @@
 {
   "id": "123844064486359042",
   "discordTag": "Hassan#0645",
-  "gp": 866476384,
+  "gp": 0,
   "dailyCooldown": {
     "year": 2020,
     "month": 5,
-    "dayOfMonth": 14,
-    "hourOfDay": 0,
-    "minute": 58,
-    "second": 26
+    "dayOfMonth": 21,
+    "hourOfDay": 22,
+    "minute": 35,
+    "second": 12
   },
   "hasMinion": true,
   "minionName": "Jasser Thair"

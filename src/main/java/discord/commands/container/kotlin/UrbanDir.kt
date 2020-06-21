@@ -41,10 +41,8 @@ class UrbanDir : DiscordCommand() {
 
                 stringBuilder.clear()
 
-                val split = e.allElements.eachText()[0].split("")
-
                 for (i in 0..1999)
-                    stringBuilder.append(split[i])
+                    stringBuilder.append(e.allElements.eachText()[0].split("")[i])
 
                 bot?.channel?.sendMessage(stringBuilder)?.queue()
 

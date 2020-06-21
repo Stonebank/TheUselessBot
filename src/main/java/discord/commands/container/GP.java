@@ -11,7 +11,7 @@ public class GP extends DiscordCommand {
 
     @Override
     public void execute(EmbedBuilder builder, StringBuilder text, MessageReceivedEvent bot, DiscordUser user, String... cmd) {
-        bot.getChannel().sendMessage("<:moneybag:718197721495765214>You have " + Utils.formatNumber(user.getGp()) + " GP!").queue();
+        bot.getChannel().sendMessage("<:moneybag:718197721495765214> You have " + Utils.formatNumber(user.getGp()) + " GP!").queue();
     }
 
     @Override
