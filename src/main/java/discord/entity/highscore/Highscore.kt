@@ -15,11 +15,11 @@ class Highscore(val name: String, val bot : MessageReceivedEvent) {
     }
 
     fun getSkillLevel(skill: Skills): Int {
-        return stats[skill.levelIndex].split(",".toRegex()).toTypedArray()[1].toInt()
+        return stats[skill.skillIndex].split(",".toRegex()).toTypedArray()[1].toInt()
     }
 
     fun getSkillExperience(skill: Skills): Long {
-        return stats[skill.levelIndex].split(",".toRegex()).toTypedArray()[2].toLong()
+        return stats[skill.skillIndex].split(",".toRegex()).toTypedArray()[2].toLong()
     }
 
     private fun getStats(name: String) {

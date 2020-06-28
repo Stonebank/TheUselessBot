@@ -1,6 +1,6 @@
 package discord.entity.highscore
 
-enum class Skills(val levelIndex: Int, val emoji: String) {
+enum class Skills(val skillIndex: Int, val emoji: String) {
 
     TOTAL(0, "<:overall:726718881200078899>"),
     ATTACK(1, "<:attack:726718881304936488>"),
