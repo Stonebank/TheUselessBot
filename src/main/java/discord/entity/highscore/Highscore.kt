@@ -11,20 +11,15 @@ class Highscore(val name: String, val bot : MessageReceivedEvent) {
     private val stats = ArrayList<String>()
 
     fun getRank() : Int {
-        val array = stats[0].split(",".toRegex()).toTypedArray()
-        return array[0].toInt()
+        return stats[0].split(",".toRegex()).toTypedArray()[0].toInt()
     }
 
     fun getSkillLevel(skill: Skills): Int {
-        val index = skill.levelIndex
-        val array = stats[index].split(",".toRegex()).toTypedArray()
-        return array[1].toInt()
+        return stats[skill.levelIndex].split(",".toRegex()).toTypedArray()[1].toInt()
     }
 
-    fun getSkillExperience(skill: Skills): Int {
-        val index = skill.levelIndex
-        val array = stats[index].split(",".toRegex()).toTypedArray()
-        return array[2].toInt()
+    fun getSkillExperience(skill: Skills): Long {
+        return stats[skill.levelIndex].split(",".toRegex()).toTypedArray()[2].toLong()
     }
 
     private fun getStats(name: String) {

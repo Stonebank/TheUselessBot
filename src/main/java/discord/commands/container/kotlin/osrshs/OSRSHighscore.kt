@@ -12,7 +12,7 @@ import java.awt.Color
 class OSRSHighscore : DiscordCommand() {
 
     override fun getArguments(): String {
-        return "The player name you want to look up"
+        return "The player name you want to look up, example: -hs Woox"
     }
 
     override fun getDescription(): String {
