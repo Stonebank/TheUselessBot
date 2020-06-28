@@ -39,9 +39,8 @@ class Highscore(val name: String, val bot : MessageReceivedEvent) {
 
                 var inputLine : String?
 
-                while (input.readLine().also { inputLine = it } != null) {
+                while (input.readLine().also { inputLine = it } != null)
                     inputLine?.let { stats.add(it) }
-                }
 
                 input.close()
 
