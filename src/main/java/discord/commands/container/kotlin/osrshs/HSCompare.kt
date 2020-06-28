@@ -10,11 +10,11 @@ import net.dv8tion.jda.api.events.message.MessageReceivedEvent
 class HSCompare : DiscordCommand() {
 
     override fun getArguments(): String {
-        return "none"
+        return "Example: -compare lynx_titan zezima"
     }
 
     override fun getDescription(): String {
-        return "test"
+        return "Compare two OSRS accounts stats and XP"
     }
 
     override fun getCommand(): Array<String> {
