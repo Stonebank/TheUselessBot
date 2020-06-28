@@ -36,10 +36,8 @@ class Hastebin(private val text: String) {
             var response = reader.readLine()
 
             if (response.contains("\"key\"")) {
-
                 response = response.substring(response.indexOf(":") + 2, response.length - 2)
                 response = "https://hastebin.com/$response"
-
             }
 
             return response

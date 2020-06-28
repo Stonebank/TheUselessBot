@@ -39,7 +39,7 @@ class OSRSHighscore : DiscordCommand() {
 
         val player = bot?.let { Highscore(stringBuilder.toString(), it) }
 
-        embedBuilder.setTitle("${player?.name?.capitalize()} (overall: ${player?.getRank()} | ${player?.getRank()?.toLong()?.let { Utils.getApproxValue(it) }})").setColor(Color((0..255).random(), (0..255).random(), (0..255).random()))
+        embedBuilder.setTitle("${player?.name?.capitalize()} (overall rank: ${Utils.formatNumber(player?.getRank())})").setColor(Color((0..255).random(), (0..255).random(), (0..255).random()))
 
         for (skill in Skills.values())
             embedBuilder.appendDescription("${skill.emoji} ${player?.getSkillLevel(skill)} (XP: ${Utils.formatNumber(player?.getSkillExperience(skill))})\n")
