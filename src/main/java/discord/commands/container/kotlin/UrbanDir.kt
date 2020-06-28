@@ -5,6 +5,7 @@ import discord.entity.DiscordUser
 import net.dv8tion.jda.api.EmbedBuilder
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent
 import org.jsoup.Jsoup
+import java.io.IOException
 
 class UrbanDir : DiscordCommand() {
 
@@ -27,32 +28,40 @@ class UrbanDir : DiscordCommand() {
             return
         }
 
-        val stringBuilder = StringBuilder()
+        try {
 
-        for (i in 1 until cmd.size)
-            stringBuilder.append(cmd[i]).append(if (i == cmd.size - 1) "" else " ")
+            val stringBuilder = StringBuilder()
 
-        val connection = Jsoup.connect("https://www.urbandictionary.com/define.php?term=$stringBuilder").userAgent("Mozilla/5.0").get().select("div.meaning")
+            for (i in 1 until cmd.size)
+                stringBuilder.append(cmd[i]).append(if (i == cmd.size - 1) "" else " ")
 
-        for (e in connection) {
+            val connection = Jsoup.connect("https://www.urbandictionary.com/define.php?term=$stringBuilder").userAgent("Mozilla/5.0").get().select("div.meaning")
 
-            if (e.allElements.eachText()[0].length >= 2000) {
-                bot?.channel?.sendMessage("The definition was too long for discord (2000 words limit), here is a snippet and your link: https://www.urbandictionary.com/define.php?term=$stringBuilder for the rest.")?.queue()
+            for (e in connection) {
 
-                stringBuilder.clear()
+                if (e.allElements.eachText()[0].length >= 2000) {
+                    bot?.channel?.sendMessage("The definition was too long for discord (2000 words limit), here is a snippet and your link: https://www.urbandictionary.com/define.php?term=$stringBuilder for the rest.")?.queue()
 
-                for (i in 0..1999)
-                    stringBuilder.append(e.allElements.eachText()[0].split("")[i])
+                    stringBuilder.clear()
 
-                bot?.channel?.sendMessage(stringBuilder)?.queue()
+                    for (i in 0..1999)
+                        stringBuilder.append(e.allElements.eachText()[0].split("")[i])
 
-                return
+                    bot?.channel?.sendMessage(stringBuilder)?.queue()
+
+                    return
+                }
+
+                bot?.channel?.sendMessage("**Top definition for $stringBuilder**")?.queue()
+                bot?.channel?.sendMessage(e.allElements.eachText()[0])?.queue()
+
+                break
+
             }
 
-            bot?.channel?.sendMessage("**Top definition for $stringBuilder**")?.queue()
-            bot?.channel?.sendMessage(e.allElements.eachText()[0])?.queue()
+        } catch (e : IOException) {
 
-            break
+            bot?.channel?.sendMessage("The word could not be found on Urban Dir.")?.queue()
 
         }
 
