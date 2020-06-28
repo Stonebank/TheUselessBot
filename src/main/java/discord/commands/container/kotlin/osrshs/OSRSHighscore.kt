@@ -45,7 +45,7 @@ class OSRSHighscore : DiscordCommand() {
             embedBuilder.appendDescription("${skill.emoji} ${player?.getSkillLevel(skill)} (XP: ${Utils.formatNumber(player?.getSkillExperience(skill))})\n")
 
         if (player?.getSkillLevel(Skills.TOTAL)!! < 2277)
-            embedBuilder.appendDescription("\n\n**${player.name} is ${2277 - player.getSkillLevel(Skills.TOTAL)} levels away from maxing**")
+            embedBuilder.appendDescription("\n\n**${player.name.capitalize()} is ${Skills.TOTAL.emoji}${2277 - player.getSkillLevel(Skills.TOTAL)} levels away from maxing**")
 
         for (skill in Skills.values()) {
 

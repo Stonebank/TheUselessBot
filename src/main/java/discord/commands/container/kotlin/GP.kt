@@ -1,33 +1,27 @@
-package discord.commands.container;
+package discord.commands.container.kotlin
 
+import discord.commands.DiscordCommand
+import discord.entity.DiscordUser
+import discord.utils.Utils
+import net.dv8tion.jda.api.EmbedBuilder
+import net.dv8tion.jda.api.events.message.MessageReceivedEvent
 
-import discord.commands.DiscordCommand;
-import discord.entity.DiscordUser;
-import discord.utils.Utils;
-import net.dv8tion.jda.api.EmbedBuilder;
-import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
+class GP : DiscordCommand() {
 
-public class GP extends DiscordCommand {
-
-    @Override
-    public void execute(EmbedBuilder builder, StringBuilder text, MessageReceivedEvent bot, DiscordUser user, String... cmd) {
-        bot.getChannel().sendMessage("<:moneybag:718197721495765214> You have " + Utils.formatNumber(user.getGp()) + " GP!").queue();
+    override fun execute(builder: EmbedBuilder, text: StringBuilder, bot: MessageReceivedEvent, user: DiscordUser, vararg cmd: String) {
+        bot.channel.sendMessage("<:moneybag:718197721495765214> You have ${Utils.formatNumber(user.gp)} GP!").queue()
     }
 
-    @Override
-    public String[] getCommand() {
-        return new String[] { "-gp", "-coins", "-gold", "-goldpoints" };
+    override fun getCommand(): Array<String> {
+        return arrayOf("-gp", "-coins", "-gold", "-goldpoints")
     }
 
-    @Override
-    public String getDescription() {
-        return "Shows the amount of GP you have in your discord account.";
+    override fun getDescription(): String {
+        return "Shows the amount of GP you have in your discord account."
     }
 
-    @Override
-    public String getArguments() {
-        return null;
+    override fun getArguments(): String? {
+        return null
     }
 
 }
-
