@@ -25,8 +25,21 @@ class HSCompare : DiscordCommand() {
 
     override fun execute(a: EmbedBuilder?, text: StringBuilder?, bot: MessageReceivedEvent?, user: DiscordUser?, vararg cmd: String) {
 
-        val p1 = bot?.let { Highscore(cmd[1].replace("_".toRegex(), " "), it) }
-        val p2 = bot?.let { Highscore(cmd[2].replace("_".toRegex(), " "), it) }
+        val player1Name = cmd[1].replace("_".toRegex(), " ")
+        val player2Name = cmd[2].replace("_".toRegex(), " ")
+
+        if (player1Name.isBlank() || player2Name.isBlank()) {
+            bot?.channel?.sendMessage("You need two players in order to compare. $arguments")
+            return
+        }
+
+        if (player1Name.equals(player2Name, ignoreCase = true) || player2Name.equals(player1Name, ignoreCase = true)) {
+            bot?.channel?.sendMessage("You can't compare the player with the same player.")?.queue()
+            return
+        }
+
+        val p1 = bot?.let { Highscore(player1Name, it) }
+        val p2 = bot?.let { Highscore(player2Name, it) }
 
         val p1Stats = IntArray(Skills.values().size)
         val p2Stats = IntArray(Skills.values().size)
@@ -45,8 +58,8 @@ class HSCompare : DiscordCommand() {
             p2XP[skill.ordinal] = p2.getSkillExperience(skill)
 
             when {
-                p1Stats[skill.ordinal] > p2Stats[skill.ordinal] -> embed.appendDescription("${p1.name} has better stats in ${skill.emoji} ${skill.name.toLowerCase().capitalize()}\n")
-                p2Stats[skill.ordinal] > p1Stats[skill.ordinal] -> embed.appendDescription("${p2.name} has better stats in ${skill.emoji} ${skill.name.toLowerCase().capitalize()}\n")
+                p1Stats[skill.ordinal] > p2Stats[skill.ordinal] -> embed.appendDescription("${p1.name} has better stats in ${skill.emoji} ${skill.name.toLowerCase().capitalize()} **(${p1.getSkillLevel(skill)}** vs ${p2.getSkillLevel(skill)})\n")
+                p2Stats[skill.ordinal] > p1Stats[skill.ordinal] -> embed.appendDescription("${p2.name} has better stats in ${skill.emoji} ${skill.name.toLowerCase().capitalize()} (${p1.getSkillLevel(skill)} vs **${p2.getSkillLevel(skill)})**\n")
             }
 
             if (p1Stats[skill.ordinal] == p2Stats[skill.ordinal]) {
@@ -58,6 +71,11 @@ class HSCompare : DiscordCommand() {
             }
 
         }
+
+        println(embed.descriptionBuilder.toString().length)
+
+        if (embed.descriptionBuilder.toString().length >= 2048)
+            embed.descriptionBuilder.toString().replace("[0-9]".toRegex(), "").replace("(","").replace(")", "")
 
         bot?.channel?.sendMessage(embed.build())?.queue()
 
