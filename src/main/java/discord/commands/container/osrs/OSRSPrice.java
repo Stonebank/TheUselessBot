@@ -7,7 +7,6 @@ import discord.utils.Utils;
 import net.dv8tion.jda.api.EmbedBuilder;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 
-import java.awt.*;
 import java.util.Calendar;
 import java.util.concurrent.TimeUnit;
 
@@ -35,7 +34,7 @@ public class OSRSPrice extends DiscordCommand {
 
         embed = new EmbedBuilder();
 
-        embed.setTitle(db.getName() + " (ACTIVE GE PRICES)").setColor(Color.RED).setDescription("Buy price: " + (db.getBuyPrice() > 0 ? Utils.formatNumber(db.getBuyPrice()) + " GP (" + Utils.getApproxValue(db.getBuyPrice()) + ")" : "inactive") + "\nSell price: " + (db.getSellPrice() > 0 ? Utils.formatNumber(db.getSellPrice()) + " GP (" + Utils.getApproxValue(db.getSellPrice()) + ")" : "inactive") + "\nStore price: " + Utils.formatNumber(db.getStorePrice()) + " GP\nHigh alch: " + Utils.formatNumber(db.getAlch(true)) + " GP" + "\nLow Alch: " + Utils.formatNumber(db.getAlch(false)) + " GP" + "\nMembers: " + (db.getMember() ? "Yes" : "No")).setThumbnail("https://rsbuddy.com/items/" + db.getId() + ".png");
+        embed.setTitle(db.getName() + " (ACTIVE GE PRICES)").setColor(Utils.getRGB("https://rsbuddy.com/items/" + db.getId() + ".png")).setDescription("Buy price: " + (db.getBuyPrice() > 0 ? Utils.formatNumber(db.getBuyPrice()) + " GP (" + Utils.getApproxValue(db.getBuyPrice()) + ")" : "inactive") + "\nSell price: " + (db.getSellPrice() > 0 ? Utils.formatNumber(db.getSellPrice()) + " GP (" + Utils.getApproxValue(db.getSellPrice()) + ")" : "inactive") + "\nStore price: " + Utils.formatNumber(db.getStorePrice()) + " GP\nHigh alch: " + Utils.formatNumber(db.getAlch(true)) + " GP" + "\nLow Alch: " + Utils.formatNumber(db.getAlch(false)) + " GP" + "\nMembers: " + (db.getMember() ? "Yes" : "No")).setThumbnail("https://rsbuddy.com/items/" + db.getId() + ".png");
 
         bot.getChannel().sendMessage(embed.build()).queue();
 

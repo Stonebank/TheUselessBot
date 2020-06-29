@@ -1,10 +1,14 @@
 package discord.utils;
 
+import javax.imageio.ImageIO;
+import java.awt.*;
+import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
 import java.net.URL;
 import java.text.DecimalFormat;
+import java.util.List;
 import java.util.*;
 
 public class Utils {
@@ -123,6 +127,22 @@ public class Utils {
         seconds -= (hours * 60 * 60) + (minutes * 60);
         hours -= days * 24;
         return filter ? (days > 0 ? days + "d:" : "") + (hours > 0 ? hours + "h:" : "") + (minutes > 0 ? minutes + "m:" : "") + seconds + "s" : days + "d:" + hours + "h:" + minutes + "m:" + seconds + "s";
+    }
+
+    public static Color getRGB(String pictureUrl) {
+
+        try {
+
+            URL url = new URL(pictureUrl);
+            BufferedImage image = ImageIO.read(url);
+
+            return new Color(image.getRGB(15,15));
+
+        } catch (IOException e) {
+            e.printStackTrace();
+            return new Color(255, 0, 0);
+        }
+
     }
 
 }

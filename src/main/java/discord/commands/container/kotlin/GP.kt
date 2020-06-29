@@ -8,8 +8,8 @@ import net.dv8tion.jda.api.events.message.MessageReceivedEvent
 
 class GP : DiscordCommand() {
 
-    override fun execute(builder: EmbedBuilder, text: StringBuilder, bot: MessageReceivedEvent, user: DiscordUser, vararg cmd: String) {
-        bot.channel.sendMessage("<:moneybag:718197721495765214> You have ${Utils.formatNumber(user.gp)} GP!").queue()
+    override fun execute(builder: EmbedBuilder?, text: StringBuilder?, bot: MessageReceivedEvent?, user: DiscordUser?, vararg cmd: String?) {
+        bot?.channel?.sendMessage("<:moneybag:718197721495765214> You have ${Utils.formatNumber(user?.gp)} GP!")?.queue()
     }
 
     override fun getCommand(): Array<String> {

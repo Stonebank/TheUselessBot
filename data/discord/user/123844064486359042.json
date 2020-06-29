@@ -1,18 +1,14 @@
 {
   "id": "123844064486359042",
   "discordTag": "Hassan#0645",
-  "gp": 2147483647,
-  "dailyQuestion": "He is the person to talk to in order to receive the rewards from the Kandarin Diary.",
-  "dailyAnswers": [
-    "The wedge"
-  ],
+  "gp": 0,
   "dailyCooldown": {
     "year": 2020,
     "month": 5,
     "dayOfMonth": 29,
-    "hourOfDay": 7,
-    "minute": 9,
-    "second": 54
+    "hourOfDay": 19,
+    "minute": 37,
+    "second": 28
   },
   "hasMinion": true,
   "minionName": "Jasser Thair"
