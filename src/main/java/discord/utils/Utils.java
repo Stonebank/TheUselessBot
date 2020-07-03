@@ -136,7 +136,7 @@ public class Utils {
             URL url = new URL(pictureUrl);
             BufferedImage image = ImageIO.read(url);
 
-            return new Color(image.getRGB(15,15));
+            return new Color(image.getRGB(image.getWidth() / 2,image.getHeight() / 2));
 
         } catch (IOException e) {
             e.printStackTrace();

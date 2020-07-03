@@ -51,6 +51,9 @@ class HSCompare : DiscordCommand() {
 
         for (skill in Skills.values()) {
 
+            if (embed.descriptionBuilder.length >= 2000)
+                continue
+
             p1Stats[skill.ordinal] = p1?.getSkillLevel(skill)!!
             p2Stats[skill.ordinal] = p2?.getSkillLevel(skill)!!
 
@@ -72,10 +75,8 @@ class HSCompare : DiscordCommand() {
 
         }
 
-        println(embed.descriptionBuilder.toString().length)
-
-        if (embed.descriptionBuilder.toString().length >= 2048)
-            embed.descriptionBuilder.toString().replace("[0-9]".toRegex(), "").replace("(","").replace(")", "")
+        if (embed.descriptionBuilder.length >= 2000)
+            embed.descriptionBuilder.append("**NOTE: DISCORD 2048 LIMIT**")
 
         bot?.channel?.sendMessage(embed.build())?.queue()
 
