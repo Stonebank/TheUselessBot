@@ -2,10 +2,10 @@ package discord.commands.container.kotlin.`fun`
 
 import discord.commands.DiscordCommand
 import discord.entity.DiscordUser
+import discord.utils.Utils
 import net.dv8tion.jda.api.EmbedBuilder
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent
 import org.jsoup.Jsoup
-import java.awt.Color
 
 class Forbes : DiscordCommand() {
 
@@ -34,15 +34,11 @@ class Forbes : DiscordCommand() {
 
         val celebrity = Jsoup.connect("https://www.forbes.com/profile/${stringBuilder.replace(" ".toRegex(), "-").toLowerCase()}/").userAgent("Mozilla/5.0").get()
 
-        if (celebrity == null) {
-            bot?.channel?.sendMessage("Could not find ${stringBuilder.toString().capitalize()} on Forbes.")?.queue()
-            return
-        }
+        val embedBuilder = EmbedBuilder().setColor(Utils.getRGB(celebrity.select("img").first().absUrl("src"))).setTitle(stringBuilder.toString().capitalize()).setThumbnail(celebrity.select("img").first().absUrl("src"))
 
-        val embedBuilder = EmbedBuilder().setColor(Color.GREEN).setTitle("${stringBuilder.toString().capitalize()}, rank: ${celebrity.select("span.profile-heading__rank").text()}").setThumbnail(celebrity.select("img").first().absUrl("src"))
-
-        embedBuilder.appendDescription("**Networth: ${celebrity.select("div.profile-info__item-value").text()} (real time)**")
+        embedBuilder.appendDescription("${celebrity.select("div.profile-subheading").text()}, rank: ${celebrity.select("span.profile-heading__rank").text()} \n\n**Networth: ${celebrity.select("div.profile-info__item-value").text()} (real time)**")
         embedBuilder.appendDescription("\n\n${celebrity.select("div.profile-text").text()}")
+        embedBuilder.appendDescription("\n\nLink: https://www.forbes.com/profile/${stringBuilder.replace(" ".toRegex(), "-").toLowerCase()}/")
 
         bot?.channel?.sendMessage(embedBuilder.build())?.queue()
 
