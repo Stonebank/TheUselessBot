@@ -24,9 +24,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd2be9d4-55df-4a5b-b57b-b84400397434" name="Default Changelist" comment="improvements">
+    <list default="true" id="cd2be9d4-55df-4a5b-b57b-b84400397434" name="Default Changelist" comment="Forbes and Jeff Bezos commands">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/discord/assets/item_db.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/discord/assets/item_db.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/discord/commands/container/kotlin/fun/Forbes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/commands/container/kotlin/fun/Forbes.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -523,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593956095767</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Forbes and Jeff Bezos commands">
+      <created>1593963329625</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1593963329625</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -560,7 +566,8 @@
     <MESSAGE value="OSRS highscore command, OSRS compare command (Temporarily), fetches data from OSRS highscores, commands list generates via Hastebin.kt" />
     <MESSAGE value="Removed Minion.kt, SetNameMinion.kt, BuyMinion.kt and will be reworking in the nearest future." />
     <MESSAGE value="improvements" />
-    <option name="LAST_COMMIT_MESSAGE" value="improvements" />
+    <MESSAGE value="Forbes and Jeff Bezos commands" />
+    <option name="LAST_COMMIT_MESSAGE" value="Forbes and Jeff Bezos commands" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593363999043">
@@ -611,46 +618,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="738" y="217" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590483803639" />
-    <state width="1877" height="257" key="GridCell.Tab.0.bottom" timestamp="1593962840411">
+    <state width="1877" height="257" key="GridCell.Tab.0.bottom" timestamp="1593963428384">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="257" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593962840411" />
-    <state width="1877" height="257" key="GridCell.Tab.0.center" timestamp="1593962840410">
+    <state width="1877" height="257" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593963428384" />
+    <state width="1877" height="257" key="GridCell.Tab.0.center" timestamp="1593963428384">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="257" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593962840410" />
-    <state width="1877" height="257" key="GridCell.Tab.0.left" timestamp="1593962840410">
+    <state width="1877" height="257" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593963428384" />
+    <state width="1877" height="257" key="GridCell.Tab.0.left" timestamp="1593963428384">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="257" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593962840410" />
-    <state width="1877" height="257" key="GridCell.Tab.0.right" timestamp="1593962840411">
+    <state width="1877" height="257" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593963428384" />
+    <state width="1877" height="257" key="GridCell.Tab.0.right" timestamp="1593963428384">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="257" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593962840411" />
-    <state width="1877" height="257" key="GridCell.Tab.1.bottom" timestamp="1593962840319">
+    <state width="1877" height="257" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593963428384" />
+    <state width="1877" height="257" key="GridCell.Tab.1.bottom" timestamp="1593963428322">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="257" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593962840319" />
-    <state width="1877" height="257" key="GridCell.Tab.1.center" timestamp="1593962840319">
+    <state width="1877" height="257" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593963428322" />
+    <state width="1877" height="257" key="GridCell.Tab.1.center" timestamp="1593963428322">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="257" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593962840319" />
-    <state width="1877" height="257" key="GridCell.Tab.1.left" timestamp="1593962840319">
+    <state width="1877" height="257" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593963428322" />
+    <state width="1877" height="257" key="GridCell.Tab.1.left" timestamp="1593963428321">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="257" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593962840319" />
-    <state width="1877" height="257" key="GridCell.Tab.1.right" timestamp="1593962840319">
+    <state width="1877" height="257" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593963428321" />
+    <state width="1877" height="257" key="GridCell.Tab.1.right" timestamp="1593963428322">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="257" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593962840319" />
+    <state width="1877" height="257" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593963428322" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1593517217688">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593517217688" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1593956107566">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1593963332529">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593956107566" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593963332529" />
     <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592500260704">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
