@@ -1,4 +1,4 @@
-package discord.commands.container.kotlin.osrshs
+package discord.commands.container.kotlin.osrs
 
 import discord.commands.DiscordCommand
 import discord.entity.DiscordUser

@@ -1,4 +1,4 @@
-package discord.commands.container.kotlin.osrshs
+package discord.commands.container.kotlin.osrs
 
 import com.google.common.primitives.Doubles
 import discord.commands.DiscordCommand
@@ -8,7 +8,9 @@ import discord.entity.highscore.Skills
 import discord.utils.Utils
 import net.dv8tion.jda.api.EmbedBuilder
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent
+import org.jsoup.Jsoup
 import java.awt.Color
+import java.io.IOException
 import kotlin.math.floor
 
 
@@ -41,8 +43,16 @@ class OSRSHighscore : DiscordCommand() {
             stringBuilder.append(cmd[i]).append(if (i == cmd.size - 1) "" else " ")
 
         val player = bot?.let { Highscore(stringBuilder.toString(), it) }
+        val img : String
 
-        embedBuilder.setTitle("${player?.name?.capitalize()} (overall rank: ${Utils.formatNumber(player?.getRank())}, ${player?.let { getCombatLevel(it) }?.toInt()})").setColor(Color((0..255).random(), (0..255).random(), (0..255).random()))
+        img = try {
+            val connection = Jsoup.connect("https://www.runeclan.com/user/$stringBuilder").userAgent("Mozilla/5.0").get()
+            connection.select("img").first().absUrl("src")
+        } catch (e : IOException) {
+            "https://www.runeclan.com/images/gnome.png"
+        }
+
+        embedBuilder.setTitle("${player?.name?.capitalize()} (overall rank: ${Utils.formatNumber(player?.getRank())}, ${player?.let { getCombatLevel(it) }?.toInt()})").setColor(Color((0..255).random(), (0..255).random(), (0..255).random())).setThumbnail(img)
 
         for (skill in Skills.values())
             embedBuilder.appendDescription("${skill.emoji} ${player?.getSkillLevel(skill)} (XP: ${Utils.formatNumber(player?.getSkillExperience(skill))})\n")

@@ -29,7 +29,7 @@ class JeffBezos : DiscordCommand() {
 
         val uptime = ManagementFactory.getRuntimeMXBean().uptime
         val connection = Jsoup.connect("https://www.forbes.com/profile/jeff-bezos/").userAgent("Mozilla/5.0").get().select("div.profile-info__item-value-container")
-        val date = SimpleDateFormat("dd-M-yyyy hh:mm:ss").parse("26-05-2020 9:41:00")
+        val date = SimpleDateFormat("dd-M-yyyy hh:mm:ss").parse("26-05-2020 00:01:00")
 
         bot?.channel?.sendMessage("Since the creation of the useless bot, Jeff Bezos has earned $${Utils.formatNumber(TimeUnit.MILLISECONDS.toSeconds(date.time) * 2489.toLong())} USD\nThe bot has been online for ${Utils.formatTime(TimeUnit.MILLISECONDS.toSeconds(uptime))}and Jeff Bezos has earned $${Utils.formatNumber(TimeUnit.MILLISECONDS.toSeconds(uptime) * 2489.toLong())} USD\nTotal networth is ${connection.text()}")?.queue()
 
