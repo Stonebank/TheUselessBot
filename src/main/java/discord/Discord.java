@@ -81,20 +81,23 @@ public class Discord {
 
         switch (activity.toLowerCase()) {
 
+            case "watch":
             case "watching":
                 jda.getPresence().setActivity(Activity.watching(description));
                 break;
 
+            case "listen":
             case "listening":
                 jda.getPresence().setActivity(Activity.listening(description));
                 break;
 
+            case "play":
             case "playing":
                 jda.getPresence().setActivity(Activity.playing(description));
                 break;
 
             default:
-                jda.getPresence().setActivity(Activity.listening("To some music"));
+                jda.getPresence().setActivity(Activity.listening("To nothing..."));
 
         }
 
