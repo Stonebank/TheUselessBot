@@ -47,7 +47,6 @@ class Forbes : DiscordCommand() {
 
         bot?.channel?.sendMessage(embedBuilder.build())?.queue()
 
-
     }
 
 }

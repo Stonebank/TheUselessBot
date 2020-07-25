@@ -36,8 +36,6 @@ dependencies {
     testAnnotationProcessor 'org.projectlombok:lombok:1.18.12'
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
 
-    implementation 'org.openweathermap.java-api:api-core:1.2.3'
-
 }
 compileKotlin {
     kotlinOptions {
