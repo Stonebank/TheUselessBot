@@ -51,7 +51,7 @@ public class Discord {
 
         DiscordCommand.init();
 
-        Fonts.registerFont("osrs-font");
+        Fonts.registerFont("osrs-font.ttf", "osrs-font-compact.otf");
 
         registerMembers();
 

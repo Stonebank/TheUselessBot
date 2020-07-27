@@ -51,8 +51,7 @@ public class OsrsDBProcess implements ServiceProcessor {
 
             ItemDB.parse(DiscordConfig.OSRS_ITEM_DB.toString());
 
-            stopwatch.stop();
-            System.out.println("Parsed data from RSBuddy in " + stopwatch.elapsed(TimeUnit.MILLISECONDS) + " ms");
+            System.out.println("Parsed data from RSBuddy in " + stopwatch.stop().elapsed(TimeUnit.MILLISECONDS) + " ms");
 
         } catch (IOException e) {
             e.printStackTrace();

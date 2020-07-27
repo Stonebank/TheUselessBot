@@ -15,7 +15,8 @@ public class Fonts {
 
             System.out.println("Registered " + Arrays.toString(font) + " font");
 
-            ge.registerFont(Font.createFont(Font.TRUETYPE_FONT, new File("./data/discord/assets/font/" + Arrays.toString(font).replace("[","").replace("]","") + ".ttf")));
+            for (String fontName : font)
+                ge.registerFont(Font.createFont(Font.TRUETYPE_FONT, new File("./data/discord/assets/font/" + fontName)));
 
         } catch (FontFormatException | IOException e) {
             e.printStackTrace();

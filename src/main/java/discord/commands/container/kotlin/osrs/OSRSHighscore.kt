@@ -1,5 +1,6 @@
 package discord.commands.container.kotlin.osrs
 
+import com.google.common.primitives.Doubles
 import discord.commands.DiscordCommand
 import discord.entity.DiscordUser
 import discord.entity.highscore.Highscore
@@ -10,6 +11,7 @@ import net.dv8tion.jda.api.events.message.MessageReceivedEvent
 import org.jsoup.Jsoup
 import java.awt.Color
 import java.io.IOException
+import kotlin.math.floor
 
 
 class OSRSHighscore : DiscordCommand() {
@@ -50,7 +52,7 @@ class OSRSHighscore : DiscordCommand() {
             "https://www.runeclan.com/images/gnome.png"
         }
 
-        embedBuilder.setTitle("${player?.name?.capitalize()} (overall rank: ${Utils.formatNumber(player?.getRank())}, ${player?.getCombatLevel()})").setColor(Color((0..255).random(), (0..255).random(), (0..255).random())).setThumbnail(img)
+        embedBuilder.setTitle("${player?.name?.capitalize()} (overall rank: ${Utils.formatNumber(player?.getRank())}, ${player?.let { getCombatLevel(it).toInt() }})").setColor(Color((0..255).random(), (0..255).random(), (0..255).random())).setThumbnail(img)
 
         for (skill in Skills.values())
             embedBuilder.appendDescription("${skill.emoji} ${player?.getSkillLevel(skill)} (XP: ${Utils.formatNumber(player?.getSkillExperience(skill))})\n")
@@ -73,6 +75,15 @@ class OSRSHighscore : DiscordCommand() {
         bot.channel.sendMessage(embedBuilder.build()).queue()
 
     }
+
+    private fun getCombatLevel(player: Highscore): Double {
+        val base: Double = .25 * (player.getSkillLevel(Skills.DEFENCE) + player.getSkillLevel(Skills.HITPOINTS) + floor((player.getSkillLevel(Skills.PRAYER) / 2).toDouble()))
+        val melee: Double = .325 * (player.getSkillLevel(Skills.ATTACK) + player.getSkillLevel(Skills.STRENGTH))
+        val range: Double = .325 * (floor((player.getSkillLevel(Skills.RANGED) / 2).toDouble()) + player.getSkillLevel(Skills.RANGED))
+        val magic: Double = .325 * (floor((player.getSkillLevel(Skills.MAGIC) / 2).toDouble()) + player.getSkillLevel(Skills.MAGIC))
+        return floor(base + Doubles.max(melee, range, magic))
+    }
+
 
 
 }
