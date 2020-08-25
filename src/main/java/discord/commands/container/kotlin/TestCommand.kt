@@ -28,7 +28,7 @@ class TestCommand : DiscordCommand() {
         val bank = ImageIO.read(File("./bank.png"))
         val g = bank.graphics as Graphics2D
 
-        val items = intArrayOf(4734, 4753, 4710, 4714, 13576, 4716, 11832, 11834, 21295)
+        val items = intArrayOf(4734, 4753, 4710, 4714, 13576, 4716, 11832, 11834, 21295, 6199, 12819, 13652)
         var x = 0
         var y = 0
 
@@ -51,6 +51,10 @@ class TestCommand : DiscordCommand() {
                 y += (32 + itemId.height) / 2 + 15
             } else {
                 x += itemId.width / 2 * 2 + 16
+                if (item % 9 == 0) {
+                    x = itemId.width / 2 - 3
+                    y += (32 + itemId.height) / 2 + 15
+                }
             }
 
             g.font = Font("OSRSFontCompactRegular", Font.PLAIN, 16)
