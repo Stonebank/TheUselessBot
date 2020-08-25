@@ -21,7 +21,6 @@ public class Dice extends DiscordCommand {
         if (cmd[1].toLowerCase().contains("all"))
             cmd[1] = String.valueOf(user.getGp());
 
-
         if (cmd[1].toLowerCase().contains("k"))
             cmd[1] = cmd[1].replace("k", "000");
 
@@ -51,6 +50,7 @@ public class Dice extends DiscordCommand {
         user.modifyGP(gp, roll > 54);
 
         bot.getChannel().sendMessage(embed.build()).queue();
+
 
     }
 

@@ -8,15 +8,29 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
+import java.nio.file.*;
 
 public class Assets {
 
-    public static void generateDrop(MessageReceivedEvent bot, int quantity, int... items) {
+    public static void extractFile(Path zipFile, String fileName, Path outputFile) throws IOException {
+        try (FileSystem fileSystem = FileSystems.newFileSystem(zipFile, null)) {
+            File file = new File(outputFile.toString());
+            if (file.exists())
+                return;
+            Path fileToExtract = fileSystem.getPath(fileName);
+            Files.copy(fileToExtract, outputFile);
+            Files.newOutputStream(outputFile, StandardOpenOption.DELETE_ON_CLOSE);
+        }
+    }
+
+    public static void generateDrop(MessageReceivedEvent bot, int[] quantity, int[] items) {
 
         try {
 
             BufferedImage img = ImageIO.read(new File("./data/discord/assets/image/bank/1.jpg"));
             Graphics2D g = img.createGraphics();
+            g.setRenderingHint(RenderingHints.KEY_FRACTIONALMETRICS,
+                    RenderingHints.VALUE_FRACTIONALMETRICS_ON);
             g.setFont(new Font("OSRSFont", Font.BOLD, 16));
             g.setColor(Color.decode("#ff981f"));
             g.drawString(bot.getAuthor().getName() + "'s bank - Page 1 of 1 (value: Fuck your dad Jasser)", 65, 21);
@@ -26,17 +40,23 @@ public class Assets {
             int itemCount = 0;
             int multiplier = 1;
 
-            for (int item : items) {
-                BufferedImage itemPNG = ImageIO.read(new File("./data/discord/assets/image/items/" + item + ".png"));
-                g.setFont(new Font("OSRSFont", Font.TRUETYPE_FONT, 14));
-                g.setColor(Color.YELLOW);
-                if (quantity >= 1 && quantity <= 99_999)
+
+            for (int i = 0; i < items.length; i++) {
+                BufferedImage itemPNG = ImageIO.read(new File("./data/discord/assets/image/items/" + items[i] + ".png"));
+                g.setFont(new Font("OSRSFont", Font.PLAIN, 14));
+
+                if (quantity[i] >= 1 && quantity[i] <= 99_999)
                     g.setColor(Color.YELLOW);
-                if (quantity >= 100_000 && quantity <= 9_999_999)
+                if (quantity[i] >= 100_000 && quantity[i] <= 9_999_999)
                     g.setColor(Color.WHITE);
-                else
+                else if (quantity[i] >= 10_000_000)
                     g.setColor(Color.GREEN);
-                g.drawString(quantity >= 1_000_000 && quantity <= 9_999_999 ? String.format("%04d", quantity).substring(0, 4) + "K" : Utils.getApproxValue(quantity), x - 3, y + 5);
+
+                if (items[i] == 995)
+                    g.drawString(quantity[i] >= 1_000_000 && quantity[i] <= 9_999_999 ? String.format("%04d", quantity[i]).substring(0, 4) + "K" : Utils.getApproxValue(quantity[i]), x - 3, y + 5);
+                else
+                    g.drawString(String.valueOf(quantity[i]), x - 3, y + 5);
+
                 g.drawImage(itemPNG.getScaledInstance(itemPNG.getWidth(), itemPNG.getHeight(), Image.SCALE_SMOOTH), x, y, itemPNG.getWidth(), itemPNG.getHeight(), null);
                 x += 60;
                 itemCount++;
@@ -47,12 +67,12 @@ public class Assets {
                 }
             }
 
-            File file = new File("./data/discord/assets/image/bank/bank_1.png");
+            File file = new File("./data/discord/assets/image/bank/bank_" + bot.getAuthor().getIdLong() + ".png");
             ImageIO.write(img, "png", file);
 
-            bot.getChannel().sendFile(file).queue();
-
             g.dispose();
+
+            bot.getChannel().sendFile(file).queue();
 
         } catch (IOException e) {
             e.printStackTrace();
@@ -85,7 +105,7 @@ public class Assets {
 
             g.dispose();
 
-            File file = new File("./data/discord/assets/image/new_coins.png");
+            File file = new File("./data/discord/assets/image/coins_" + bot.getAuthor().getIdLong() + ".png");
             ImageIO.write(bufferedImage, "png", file);
 
             bot.getChannel().sendFile(file).queue();

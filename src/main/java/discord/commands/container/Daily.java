@@ -35,6 +35,9 @@ public class Daily extends DiscordCommand {
         if (question.hasPicture())
             bot.getChannel().sendFile(question.getPicture()).queue();
 
+        int[] items = new int[Utils.getItemDefinitionsSize()];
+
+
     }
 
     @Override

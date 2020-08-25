@@ -24,10 +24,6 @@ public class DiscordUser {
     private String[] dailyAnswers;
     private Calendar dailyCooldown;
 
-    /* Minion */
-    public boolean hasMinion;
-    public String minionName;
-
     public DiscordUser(User user) {
         this.id = user.getId();
         this.discordTag = user.getAsTag();
@@ -56,10 +52,6 @@ public class DiscordUser {
 
         save.save(this);
 
-    }
-
-    public String getMinionName() {
-        return minionName == null ? discordTag.split("#")[0] + "'s minion" : minionName;
     }
 
 }

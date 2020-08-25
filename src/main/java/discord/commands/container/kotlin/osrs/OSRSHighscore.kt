@@ -84,6 +84,4 @@ class OSRSHighscore : DiscordCommand() {
         return floor(base + Doubles.max(melee, range, magic))
     }
 
-
-
 }

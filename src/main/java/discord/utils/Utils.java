@@ -140,7 +140,7 @@ public class Utils {
 
         } catch (IOException e) {
             e.printStackTrace();
-            return new Color(255, 0, 0);
+            return new Color(0, 0, 0);
         }
 
     }

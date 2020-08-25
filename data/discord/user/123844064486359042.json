@@ -2,14 +2,16 @@
   "id": "123844064486359042",
   "discordTag": "Hassan#0645",
   "gp": 2312504212,
+  "dailyQuestion": "What is the NPC in this picture called?",
+  "dailyAnswers": [
+    "Two-pints"
+  ],
   "dailyCooldown": {
     "year": 2020,
-    "month": 6,
-    "dayOfMonth": 28,
-    "hourOfDay": 1,
-    "minute": 31,
-    "second": 51
-  },
-  "hasMinion": true,
-  "minionName": "Jasser Thair"
+    "month": 7,
+    "dayOfMonth": 19,
+    "hourOfDay": 21,
+    "minute": 37,
+    "second": 0
+  }
 }

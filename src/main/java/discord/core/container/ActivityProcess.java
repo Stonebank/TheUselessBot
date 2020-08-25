@@ -51,6 +51,7 @@ public class ActivityProcess implements ServiceProcessor {
             Discord.getBot().getJda().getPresence().setActivity(Activity.playing("with " + population + " OSRS players"));
 
         } catch (IOException e) {
+            Discord.getBot().getJda().getPresence().setActivity(Activity.playing("Error! Couldn't grab OSRS player count..."));
             e.printStackTrace();
         }
 
