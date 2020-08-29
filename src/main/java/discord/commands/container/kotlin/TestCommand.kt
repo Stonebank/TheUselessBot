@@ -82,8 +82,6 @@ class TestCommand : DiscordCommand() {
 
         bot?.channel?.sendFile(file)?.queue()
 
-        print("hello")
-
     }
 
 }
