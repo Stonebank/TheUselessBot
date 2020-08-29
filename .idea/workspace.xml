@@ -28,10 +28,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd2be9d4-55df-4a5b-b57b-b84400397434" name="Default Changelist" comment="Improvements">
-      <change afterPath="$PROJECT_DIR$/data/discord/assets/font/osrs-font-bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/discord/assets/font/osrs-font-quill-8.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/discord/assets/item_db.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/discord/assets/item_db.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/discord/commands/container/kotlin/TestCommand.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/commands/container/kotlin/TestCommand.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -207,13 +203,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590482946719</updated>
-    </task>
-    <task id="LOCAL-00008" summary="improvements">
-      <created>1590836421585</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1590836421585</updated>
     </task>
     <task id="LOCAL-00009" summary="improvements">
       <created>1591302521919</created>
@@ -551,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598370286122</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Improvements">
+      <created>1598727060767</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1598727060767</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -589,10 +585,10 @@
     <MESSAGE value="Removed Minion.kt, SetNameMinion.kt, BuyMinion.kt and will be reworking in the nearest future." />
     <MESSAGE value="improvements" />
     <MESSAGE value="Forbes and Jeff Bezos commands" />
-    <MESSAGE value="Improvements" />
     <MESSAGE value="Changes and improvements" />
     <MESSAGE value="Changes &amp; Improvements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes &amp; Improvements" />
+    <MESSAGE value="Improvements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Improvements" />
   </component>
   <component name="WindowStateProjectService">
     <state x="727" y="344" key="#Notifications" timestamp="1598370100420">
@@ -695,10 +691,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597587219252" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1598370287963">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1598727063010">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598370287963" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598727063010" />
     <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598369976827">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
