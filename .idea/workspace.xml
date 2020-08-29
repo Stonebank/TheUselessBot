@@ -28,20 +28,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd2be9d4-55df-4a5b-b57b-b84400397434" name="Default Changelist" comment="Improvements">
-      <change afterPath="$PROJECT_DIR$/src/main/java/discord/commands/container/kotlin/osrs/HSRecentActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/assets/font/osrs-font-bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/discord/assets/font/osrs-font-quill-8.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/discord/utils/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/discord/utils/Utils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/discord/assets/image/bank/bank_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/discord/assets/image/bank/bank_1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/discord/assets/item_db.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/discord/assets/item_db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JSONLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Virksomhed.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cvr.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/discord/assets/Assets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/assets/Assets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/discord/assets/osrsdb/DumpItemModels.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/assets/osrsdb/DumpItemModels.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/discord/commands/container/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/commands/container/Dice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/discord/commands/container/kotlin/TestCommand.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/commands/container/kotlin/TestCommand.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/discord/commands/container/kotlin/osrs/OSRSHighscore.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/commands/container/kotlin/osrs/OSRSHighscore.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/discord/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/discord/utils/Utils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,20 +207,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590482946719</updated>
-    </task>
-    <task id="LOCAL-00006" summary="improved code">
-      <created>1590499091393</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1590499091393</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Added DiscordCommand&#10;Added a 'roll' command&#10;Added a utils package and class&#10;Handled commands&#10;Annotations for commands">
-      <created>1590829893948</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1590829893948</updated>
     </task>
     <task id="LOCAL-00008" summary="improvements">
       <created>1590836421585</created>
@@ -560,7 +537,21 @@
       <option name="project" value="LOCAL" />
       <updated>1595850458524</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Changes &amp; Improvements">
+      <created>1598370242144</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1598370242145</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Changes &amp; Improvements">
+      <created>1598370286122</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1598370286122</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -600,7 +591,8 @@
     <MESSAGE value="Forbes and Jeff Bezos commands" />
     <MESSAGE value="Improvements" />
     <MESSAGE value="Changes and improvements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes and improvements" />
+    <MESSAGE value="Changes &amp; Improvements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes &amp; Improvements" />
   </component>
   <component name="WindowStateProjectService">
     <state x="727" y="344" key="#Notifications" timestamp="1598370100420">
@@ -663,38 +655,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="738" y="217" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590483803639" />
-    <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1598370116605">
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1598726823925">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598370116605" />
-    <state width="1877" height="347" key="GridCell.Tab.0.center" timestamp="1598370116604">
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598726823925" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center" timestamp="1598726823925">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598370116604" />
-    <state width="1877" height="347" key="GridCell.Tab.0.left" timestamp="1598370116604">
+    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598726823925" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left" timestamp="1598726823925">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598370116604" />
-    <state width="1877" height="347" key="GridCell.Tab.0.right" timestamp="1598370116604">
+    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598726823925" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right" timestamp="1598726823925">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598370116604" />
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1598370116605">
+    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598726823925" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1598726823893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598370116605" />
-    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1598370116605">
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1598726823893" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1598726823893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598370116605" />
-    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1598370116605">
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1598726823893" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1598726823893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598370116605" />
-    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1598370116605">
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1598726823893" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1598726823893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598370116605" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1598726823893" />
     <state x="540" y="263" key="IDE.errors.dialog" timestamp="1597848182786">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -703,10 +695,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597587219252" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1595850536024">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1598370287963">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1595850536024" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1598370287963" />
     <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598369976827">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -723,10 +715,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1590495834320" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1598369134569">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1598726859099">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598369134569" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598726859099" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
