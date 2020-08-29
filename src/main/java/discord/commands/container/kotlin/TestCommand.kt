@@ -81,7 +81,6 @@ class TestCommand : DiscordCommand() {
         ImageIO.write(bank, "png", file)
 
         bot?.channel?.sendFile(file)?.queue()
-        print("hello")
 
     }
 
