@@ -12,4 +12,4 @@ This bot is entirely for educational purposes. The useless bot contains a wide a
 Features are added as development increases
 
 # Developer
-Developers are Hassan Kassem (Hassan#0645)
+Developers are Hassan K (Hassan#0645)
